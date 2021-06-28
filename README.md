@@ -249,6 +249,15 @@ http://rec2.distv.net:80/valmir/valmir/178
 http://rec2.distv.net:80/valmir/valmir/216
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://distv.net/icons/polishop.png" group-title="CANAIS LOCAIS",POLISHOP
 http://rec2.distv.net:80/valmir/valmir/272
+###ESPORTES####
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 1 HD
+http://srv.maxptv.net:8080/atilio/atilio/18835
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 2 HD
+http://srv.maxptv.net:8080/atilio/atilio/18836
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 3 HD
+http://srv.maxptv.net:8080/atilio/atilio/18837
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 4 HD
+http://srv.maxptv.net:8080/atilio/atilio/18838
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
 http://rec2.distv.net:80/valmir/valmir/179
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
