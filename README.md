@@ -258,20 +258,20 @@ http://srv.maxptv.net:8080/atilio/atilio/18836
 http://srv.maxptv.net:8080/atilio/atilio/18837
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 4 HD
 http://srv.maxptv.net:8080/atilio/atilio/18838
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-http://rec2.distv.net:80/valmir/valmir/179
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-http://rec2.distv.net:80/valmir/valmir/180
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-http://rec2.distv.net:80/valmir/valmir/181
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-http://rec2.distv.net:80/valmir/valmir/182
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-http://rec2.distv.net:80/valmir/valmir/183
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-http://rec2.distv.net:80/valmir/valmir/237
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-http://rec2.distv.net:80/valmir/valmir/184
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://srv.maxptv.net:8080/atilio/atilio/13216
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://srv.maxptv.net:8080/atilio/atilio/82
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://srv.maxptv.net:8080/atilio/atilio/80
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://srv.maxptv.net:8080/atilio/atilio/78
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://srv.maxptv.net:8080/atilio/atilio/76
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://srv.maxptv.net:8080/atilio/atilio/74
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://srv.maxptv.net:8080/atilio/atilio/86
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
 http://rec2.distv.net:80/valmir/valmir/185
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
