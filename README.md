@@ -258,100 +258,19 @@ http://srv.maxptv.net:8080/atilio/atilio/18836
 http://srv.maxptv.net:8080/atilio/atilio/18837
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 4 HD
 http://srv.maxptv.net:8080/atilio/atilio/18838
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19301
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes SD
-http://lista.lorddark.club:80/Wandeson/123456/567
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19302
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes HD
-http://lista.lorddark.club:80/Wandeson/123456/856
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD³" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes HD³
-http://lista.lorddark.club:80/Wandeson/123456/1128
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19112
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes FHD
-http://lista.lorddark.club:80/Wandeson/123456/1026
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes FHD³" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere Clubes FHD³
-http://lista.lorddark.club:80/Wandeson/123456/186051
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19289
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 SD
-http://lista.lorddark.club:80/Wandeson/123456/559
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19290
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 HD
-http://lista.lorddark.club:80/Wandeson/123456/850
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19106
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 2 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1027
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1028
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19291
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 SD
-http://lista.lorddark.club:80/Wandeson/123456/560
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19292
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 HD
-http://lista.lorddark.club:80/Wandeson/123456/851
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 3 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19107
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19293
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 SD
-http://lista.lorddark.club:80/Wandeson/123456/561
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19294
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 HD
-http://lista.lorddark.club:80/Wandeson/123456/852
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD³" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 HD³
-http://lista.lorddark.club:80/Wandeson/123456/1127
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19108
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 4 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1029
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19295
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 SD
-http://lista.lorddark.club:80/Wandeson/123456/562
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19296
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 HD
-http://lista.lorddark.club:80/Wandeson/123456/853
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19109
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 5 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1030
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19297
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 SD
-http://lista.lorddark.club:80/Wandeson/123456/563
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19298
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 HD
-http://lista.lorddark.club:80/Wandeson/123456/854
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19110
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 6 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1031
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 SD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19299
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 SD
-http://lista.lorddark.club:80/Wandeson/123456/564
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 HD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19300
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 HD
-http://lista.lorddark.club:80/Wandeson/123456/855
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD [1]" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 FHD [1]
-http://lista.lorddark.club:80/Wandeson/123456/19111
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 7 FHD
-http://lista.lorddark.club:80/Wandeson/123456/1032
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 8 SD
-http://lista.lorddark.club:80/Wandeson/123456/565
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 9 SD" tvg-logo="http://script.clearnight.xyz/logos/Premiere/premiere-Fc.png" group-title="Premiere",Premiere 9 SD
-http://lista.lorddark.club:80/Wandeson/123456/566
+####PREMIERES####
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
+http://rec2.distv.net:80/jackson/123456/179
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
+http://rec2.distv.net:80/jackson/123456/180
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
+http://rec2.distv.net:80/jackson/123456/181
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
+http://rec2.distv.net:80/jackson/123456/182
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
+http://rec2.distv.net:80/jackson/123456/183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
+http://rec2.distv.net:80/jackson/123456/237
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
 http://rec2.distv.net:80/valmir/valmir/185
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
