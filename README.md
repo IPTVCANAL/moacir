@@ -258,7 +258,6 @@ http://srv.maxptv.net:8080/atilio/atilio/18836
 http://srv.maxptv.net:8080/atilio/atilio/18837
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 4 HD
 http://srv.maxptv.net:8080/atilio/atilio/18838
-####PREMIERES####
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
 http://rec2.distv.net:80/jackson/123456/179
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
