@@ -258,58 +258,20 @@ http://srv.maxptv.net:8080/atilio/atilio/18836
 http://srv.maxptv.net:8080/atilio/atilio/18837
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="SPORTS",Conmebol 4 HD
 http://srv.maxptv.net:8080/atilio/atilio/18838
-#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/QYG5Jnr/B-Premiere-SD.png" group-title="Premiere",Premiere 2
-http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 2 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="https://i.ibb.co/5hYR8Ky/B-Premiere-HD.png" group-title="Premiere",Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 2 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/QYG5Jnr/B-Premiere-SD.png" group-title="Premiere",Premiere 3
-http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 3 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 3 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD" tvg-logo="https://i.ibb.co/5hYR8Ky/B-Premiere-HD.png" group-title="Premiere",Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 3 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/QYG5Jnr/B-Premiere-SD.png" group-title="Premiere",Premiere 4
-http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 4 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 4 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="https://i.ibb.co/5hYR8Ky/B-Premiere-HD.png" group-title="Premiere",Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 4 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/QYG5Jnr/B-Premiere-SD.png" group-title="Premiere",Premiere 5
-http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 5 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 5 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD" tvg-logo="https://i.ibb.co/5hYR8Ky/B-Premiere-HD.png" group-title="Premiere",Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 5 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/QYG5Jnr/B-Premiere-SD.png" group-title="Premiere",Premiere 6
-http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 6 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 6 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD" tvg-logo="https://i.ibb.co/5hYR8Ky/B-Premiere-HD.png" group-title="Premiere",Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 6 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 7 FHD" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png" group-title="Premiere",Premiere 7 FHD
-http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD [Alter]" tvg-logo="https://i.ibb.co/685JzTH/G-Premiere-HD.png" group-title="Premiere",Premiere 7 HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/G3R204Y/B-Premiere-Clubes-SD.png" group-title="Premiere",Premiere Clubes
-http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes FHD" tvg-logo="https://i.ibb.co/rss0fpd/B-Premiere-Clubes-FHD.png" group-title="Premiere",Premiere Clubes FHD
-http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/TWRHfRt/B-Premiere-Clubes-HD.png" group-title="Premiere",Premiere Clubes HD
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=1c3249122f35111671f702d5579c4838
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD [Alter]" tvg-logo="https://i.ibb.co/StdLPL5/G-Premiere-Clubes-HD.png" group-title="Premiere",Premiere Clubes HD [Alter]
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=1c3249122f35111671f702d5579c4838
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
+http://rec2.distv.net:80/jackson/123456/179
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
+http://rec2.distv.net:80/jackson/123456/180
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
+http://rec2.distv.net:80/jackson/123456/181
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
+http://rec2.distv.net:80/jackson/123456/182
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
+http://rec2.distv.net:80/jackson/123456/183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
+http://rec2.distv.net:80/jackson/123456/237
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
+http://rec2.distv.net:80/jackson/123456/184
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
 http://rec2.distv.net:80/valmir/valmir/185
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
