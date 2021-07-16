@@ -101,22 +101,18 @@ http://srv.maxptv.net:8080/jair/jair/26721
 http://srv.maxptv.net:8080/jair/jair/26722
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD
 http://srv.maxptv.net:8080/jair/jair/26723
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 HD
-http://srv.maxptv.net:8080/jair/jair/18835
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 SD
-http://srv.maxptv.net:8080/jair/jair/19039
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 2 HD
-http://srv.maxptv.net:8080/jair/jair/18836
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 2 SD
-http://srv.maxptv.net:8080/jair/jair/19040
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 3 HD
-http://srv.maxptv.net:8080/jair/jair/18837
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 3 SD
-http://srv.maxptv.net:8080/jair/jair/19041
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name=" CONMEBOL TV 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES", CONMEBOL TV 4 HD
-http://srv.maxptv.net:8080/jair/jair/18838
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 4 SD
-http://srv.maxptv.net:8080/jair/jair/19042
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 01
+http://sv1.casaplayer.cf:80/valtinho/102030/46950
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 02
+http://sv1.casaplayer.cf:80/valtinho/102030/46951
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 03
+http://sv1.casaplayer.cf:80/valtinho/102030/21767
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 03
+http://sv1.casaplayer.cf:80/valtinho/102030/46952
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 04
+http://sv1.casaplayer.cf:80/valtinho/102030/21768
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 04
+http://sv1.casaplayer.cf:80/valtinho/102030/46953
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD" tvg-logo="http://logos.nineuhd.xyz/premiereclubeshd.png" group-title="Canais | PREMIERE",Premiere 1 HD
 http://srv.maxptv.net:8080/jair/jair/86
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD2" tvg-logo="http://logos.nineuhd.xyz/premiereclubeshd.png" group-title="Canais | PREMIERE",Premiere 1 HD2
