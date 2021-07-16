@@ -102,7 +102,7 @@ http://srv.maxptv.net:8080/jair/jair/26722
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD
 http://srv.maxptv.net:8080/jair/jair/26723
 #EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 01
-http://sv1.casaplayer.cf:80/valtinho/102030/46950
+http://srv.maxptv.net:8080/987654321/987654321/18835
 #EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 02
 http://sv1.casaplayer.cf:80/valtinho/102030/46951
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Canais | ESPORTES",CONMEBOL TV 03
