@@ -109,7 +109,7 @@ http://sv1.casaplayer.cf:80/valtinho/102030/46951
 http://sv1.casaplayer.cf:80/valtinho/102030/21767
 #EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 03
 http://sv1.casaplayer.cf:80/valtinho/102030/46952
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 04
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Canais | ESPORTES",CONMEBOL TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/21768
 #EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/46953
