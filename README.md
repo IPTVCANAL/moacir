@@ -113,6 +113,8 @@ http://sv1.casaplayer.cf:80/valtinho/102030/46952
 http://sv1.casaplayer.cf:80/valtinho/102030/21768
 #EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/46953
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="Canais | ESPORTES",Fox Sports HD
+http://sv1.casaplayer.cf:80/valtinho/102030/46921
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD" tvg-logo="http://logos.nineuhd.xyz/premiereclubeshd.png" group-title="Canais | PREMIERE",Premiere 1 HD
 http://srv.maxptv.net:8080/jair/jair/86
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD2" tvg-logo="http://logos.nineuhd.xyz/premiereclubeshd.png" group-title="Canais | PREMIERE",Premiere 1 HD2
@@ -163,8 +165,6 @@ http://srv.maxptv.net:8080/jair/jair/46
 http://srv.maxptv.net:8080/jair/jair/45
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV3 SD" tvg-logo="http://logos.nineuhd.xyz/sportv3hd.png" group-title="Canais | ESPORTES",SporTV3 SD
 http://srv.maxptv.net:8080/jair/jair/44
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹ HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="Canais | ESPORTES",FOX SPORTS HD
-http://sv1.casaplayer.cf:80/valtinho/102030/46921
 ###FILMES####
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3D3qLGXPbMLW6AxNHIZxcbZs21.jpg" group-title="CINEMA NACIONAL",Um Tio Quase Perfeito 
 http://appcliente.com:8880/movie/herivelton/herivelton/31508.mkv
