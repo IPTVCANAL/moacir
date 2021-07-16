@@ -105,7 +105,7 @@ http://srv.maxptv.net:8080/jair/jair/26723
 http://sv1.casaplayer.cf:80/valtinho/102030/46950
 #EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 02
 http://sv1.casaplayer.cf:80/valtinho/102030/46951
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 03
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="Canais | ESPORTES",CONMEBOL TV 03
 http://sv1.casaplayer.cf:80/valtinho/102030/21767
 #EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="Canais | ESPORTES",Conmebol TV 03
 http://sv1.casaplayer.cf:80/valtinho/102030/46952
