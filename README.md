@@ -176,8 +176,6 @@ http://sv1.casaplayer.cf:80/valtinho/102030/46952
 http://sv1.casaplayer.cf:80/valtinho/102030/21768
 #EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",Conmebol TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/46953
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 1
-http://sv1.casaplayer.cf:80/valtinho/102030/21769
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 2
 http://sv1.casaplayer.cf:80/valtinho/102030/21766
 #EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #1" tvg-logo="" group-title="COPAS REGIONAIS",Copa Carioca #1
