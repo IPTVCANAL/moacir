@@ -166,13 +166,11 @@ http://sv1.casaplayer.cf:80/valtinho/102030/3686
 http://sv1.casaplayer.cf:80/valtinho/102030/3322
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL HD
 http://sv1.casaplayer.cf:80/valtinho/102030/3685
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="" group-title="CONMEBOL",Conmebol TV 01
-
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="CONMEBOL",Conmebol TV 02
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",Conmebol TV 01
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237832
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-2.png" group-title="CONMEBOL",Conmebol TV 02
 http://sv1.casaplayer.cf:80/valtinho/102030/46951
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 03
-http://sv1.casaplayer.cf:80/valtinho/102030/21767
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="CONMEBOL",Conmebol TV 03
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-3.png" group-title="CONMEBOL",Conmebol TV 03
 http://sv1.casaplayer.cf:80/valtinho/102030/46952
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 04
 http://sv1.casaplayer.cf:80/valtinho/102030/21768
