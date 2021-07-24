@@ -1224,6 +1224,22 @@ http://serverfulltop.com:80/frederico/123456/593
 http://serverfulltop.com:80/frederico/123456/78
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes SD
 http://serverfulltop.com:80/frederico/123456/594
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV 2
+http://sv1.casaplayer.cf:80/valtinho/102030/3508
+#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3382
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3507
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV 3
+http://sv1.casaplayer.cf:80/valtinho/102030/3506
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/3383
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+http://sv1.casaplayer.cf:80/valtinho/102030/3505
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
+http://sv1.casaplayer.cf:80/valtinho/102030/46536
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD
+http://sv1.casaplayer.cf:80/valtinho/102030/46723
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere Mosaico HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Mosaico HD
 http://serverfulltop.com:80/frederico/123456/595
 #EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="http://u.meulogin.net:80/images/85c969066e63641e12f97c509831b0c1.png" group-title="VARIEDADES E MUSICAIS",Prime Box Brasil FHD
