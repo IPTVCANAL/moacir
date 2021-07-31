@@ -1,1394 +1,1952 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="(24h) 3 Palavrinhas" tvg-logo="" group-title="24 HORAS",(24h) 3 Palavrinhas
-http://sv1.casaplayer.cf:80/samuel/102030/27088
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Bruxinha Sabrina" tvg-logo="" group-title="24 HORAS",(24h) A Bruxinha Sabrina
-http://sv1.casaplayer.cf:80/samuel/102030/27155
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Cobrinha Azul" tvg-logo="" group-title="24 HORAS",(24h) A Cobrinha Azul
-http://sv1.casaplayer.cf:80/samuel/102030/27089
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Familia Dracula" tvg-logo="" group-title="24 HORAS",(24h) A Familia Dracula
-http://sv1.casaplayer.cf:80/samuel/102030/27090
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Mumia" tvg-logo="" group-title="24 HORAS",(24h) A Mumia
-http://sv1.casaplayer.cf:80/samuel/102030/27091
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Pantera Cor De Rosa" tvg-logo="" group-title="24 HORAS",(24h) A Pantera Cor De Rosa
-http://sv1.casaplayer.cf:80/samuel/102030/27092
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Turma Da Monica" tvg-logo="" group-title="24 HORAS",(24h) A Turma Da Monica
-http://sv1.casaplayer.cf:80/samuel/102030/27093
-#EXTINF:-1 tvg-id="" tvg-name="(24h) A Turma Do Pateta" tvg-logo="" group-title="24 HORAS",(24h) A Turma Do Pateta
-http://sv1.casaplayer.cf:80/samuel/102030/27094
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Acampamento Lakebottom" tvg-logo="" group-title="24 HORAS",(24h) Acampamento Lakebottom
-http://sv1.casaplayer.cf:80/samuel/102030/27095
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Aladdin Desenho Animado" tvg-logo="" group-title="24 HORAS",(24h) Aladdin Desenho Animado
-http://sv1.casaplayer.cf:80/samuel/102030/27096
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Aventuras De Jackie Chan" tvg-logo="" group-title="24 HORAS",(24h) As Aventuras De Jackie Chan
-http://sv1.casaplayer.cf:80/samuel/102030/27097
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Aventuras De Piggley Winks" tvg-logo="" group-title="24 HORAS",(24h) As Aventuras De Piggley Winks
-http://sv1.casaplayer.cf:80/samuel/102030/27098
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Aventuras De Tintim" tvg-logo="" group-title="24 HORAS",(24h) As Aventuras De Tintim
-http://sv1.casaplayer.cf:80/samuel/102030/27099
-#EXTINF:-1 tvg-id="" tvg-name="(24h) As Meninas Superpoderosas" tvg-logo="" group-title="24 HORAS",(24h) As Meninas Superpoderosas
-http://sv1.casaplayer.cf:80/samuel/102030/27156
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Avatar" tvg-logo="" group-title="24 HORAS",(24h) Avatar
-http://sv1.casaplayer.cf:80/samuel/102030/27158
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Baby Shark" tvg-logo="" group-title="24 HORAS",(24h) Baby Shark
-http://sv1.casaplayer.cf:80/samuel/102030/27100
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ben 10" tvg-logo="" group-title="24 HORAS",(24h) Ben 10
-http://sv1.casaplayer.cf:80/samuel/102030/27101
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Ben e Holly" tvg-logo="" group-title="24 HORAS",(24h) Ben e Holly
-http://sv1.casaplayer.cf:80/samuel/102030/27102
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Big Mouth" tvg-logo="" group-title="24 HORAS",(24h) Big Mouth
-http://sv1.casaplayer.cf:80/samuel/102030/27103
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Bob Esponja" tvg-logo="" group-title="24 HORAS",(24h) Bob Esponja
-http://sv1.casaplayer.cf:80/samuel/102030/27104
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Breaking Bad" tvg-logo="" group-title="24 HORAS",(24h) Breaking Bad
-http://sv1.casaplayer.cf:80/samuel/102030/27159
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube 4 Amigos Stand Up Comedy" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube 4 Amigos Stand Up Comedy
-http://sv1.casaplayer.cf:80/samuel/102030/27160
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube 5 Alguma Coisa" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube 5 Alguma Coisa
-http://sv1.casaplayer.cf:80/samuel/102030/27161
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Badin" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Badin
-http://sv1.casaplayer.cf:80/samuel/102030/27162
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Barbixas" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Barbixas
-http://sv1.casaplayer.cf:80/samuel/102030/27163
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Fatos Desconhecidos" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Fatos Desconhecidos
-http://sv1.casaplayer.cf:80/samuel/102030/27164
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Fitdance" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Fitdance
-http://sv1.casaplayer.cf:80/samuel/102030/27165
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Panico Trollagens" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Panico Trollagens
-http://sv1.casaplayer.cf:80/samuel/102030/27166
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Parafernalha" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Parafernalha
-http://sv1.casaplayer.cf:80/samuel/102030/27167
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Canal Youtube Porta dos Fundos" tvg-logo="" group-title="24 HORAS",(24h) Canal Youtube Porta dos Fundos
-http://sv1.casaplayer.cf:80/samuel/102030/27168
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Capitão Tsubasa" tvg-logo="" group-title="24 HORAS",(24h) Capitão Tsubasa
-http://sv1.casaplayer.cf:80/samuel/102030/27105
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cavaleiro Do Zodiaco" tvg-logo="" group-title="24 HORAS",(24h) Cavaleiro Do Zodiaco
-http://sv1.casaplayer.cf:80/samuel/102030/27106
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Caverna Do Dragão" tvg-logo="" group-title="24 HORAS",(24h) Caverna Do Dragão
-http://sv1.casaplayer.cf:80/samuel/102030/27107
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Chapolin Colorado" tvg-logo="" group-title="24 HORAS",(24h) Chapolin Colorado
-http://sv1.casaplayer.cf:80/samuel/102030/27108
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Chaves" tvg-logo="" group-title="24 HORAS",(24h) Chaves
-http://sv1.casaplayer.cf:80/samuel/102030/27109
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Csi Las Vegas" tvg-logo="" group-title="24 HORAS",(24h) Csi Las Vegas
-http://sv1.casaplayer.cf:80/samuel/102030/27110
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Cyberchase A Corrida Do Espaco" tvg-logo="" group-title="24 HORAS",(24h) Cyberchase A Corrida Do Espaco
-http://sv1.casaplayer.cf:80/samuel/102030/27169
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Daniel Tigre" tvg-logo="" group-title="24 HORAS",(24h) Daniel Tigre
-http://sv1.casaplayer.cf:80/samuel/102030/27111
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Desenhos Biblicos" tvg-logo="" group-title="24 HORAS",(24h) Desenhos Biblicos
-http://sv1.casaplayer.cf:80/samuel/102030/27112
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Digimon" tvg-logo="" group-title="24 HORAS",(24h) Digimon
-http://sv1.casaplayer.cf:80/samuel/102030/27170
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dois Homens e Meio" tvg-logo="" group-title="24 HORAS",(24h) Dois Homens e Meio
-http://sv1.casaplayer.cf:80/samuel/102030/27171
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Super" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Super
-http://sv1.casaplayer.cf:80/samuel/102030/27113
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Dragon Ball Z Saga De Freeza" tvg-logo="" group-title="24 HORAS",(24h) Dragon Ball Z Saga De Freeza
-http://sv1.casaplayer.cf:80/samuel/102030/27172
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Drake e Josh" tvg-logo="" group-title="24 HORAS",(24h) Drake e Josh
-http://sv1.casaplayer.cf:80/samuel/102030/27173
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Escolinha Do Professor Raimundo" tvg-logo="" group-title="24 HORAS",(24h) Escolinha Do Professor Raimundo
-http://sv1.casaplayer.cf:80/samuel/102030/27174
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Eu A Patroa e As Crianças" tvg-logo="" group-title="24 HORAS",(24h) Eu A Patroa e As Crianças
-http://sv1.casaplayer.cf:80/samuel/102030/27114
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Faisca e Fumaça" tvg-logo="" group-title="24 HORAS",(24h) Faisca e Fumaça
-http://sv1.casaplayer.cf:80/samuel/102030/27115
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Flash Gordon" tvg-logo="" group-title="24 HORAS",(24h) Flash Gordon
-http://sv1.casaplayer.cf:80/samuel/102030/27116
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Friends" tvg-logo="" group-title="24 HORAS",(24h) Friends
-http://sv1.casaplayer.cf:80/samuel/102030/27175
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Galinha Pintadinha" tvg-logo="" group-title="24 HORAS",(24h) Galinha Pintadinha
-http://sv1.casaplayer.cf:80/samuel/102030/27117
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Game Of Thrones" tvg-logo="" group-title="24 HORAS",(24h) Game Of Thrones
-http://sv1.casaplayer.cf:80/samuel/102030/27176
-#EXTINF:-1 tvg-id="" tvg-name="(24h) He Man Desenho" tvg-logo="" group-title="24 HORAS",(24h) He Man Desenho
-http://sv1.casaplayer.cf:80/samuel/102030/27118
-#EXTINF:-1 tvg-id="" tvg-name="(24h) High Score Girl" tvg-logo="" group-title="24 HORAS",(24h) High Score Girl
-http://sv1.casaplayer.cf:80/samuel/102030/27119
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Homem Aranha" tvg-logo="" group-title="24 HORAS",(24h) Homem Aranha
-http://sv1.casaplayer.cf:80/samuel/102030/27120
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Icarly" tvg-logo="" group-title="24 HORAS",(24h) Icarly
-http://sv1.casaplayer.cf:80/samuel/102030/27177
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Irmão Do Jorel" tvg-logo="" group-title="24 HORAS",(24h) Irmão Do Jorel
-http://sv1.casaplayer.cf:80/samuel/102030/27121
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Jonny Quest" tvg-logo="" group-title="24 HORAS",(24h) Jonny Quest
-http://sv1.casaplayer.cf:80/samuel/102030/27122
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Jose Rei Do Egito" tvg-logo="" group-title="24 HORAS",(24h) Jose Rei Do Egito
-http://sv1.casaplayer.cf:80/samuel/102030/27123
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Kim Possible" tvg-logo="" group-title="24 HORAS",(24h) Kim Possible
-http://sv1.casaplayer.cf:80/samuel/102030/27178
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Log Horizon" tvg-logo="" group-title="24 HORAS",(24h) Log Horizon
-http://sv1.casaplayer.cf:80/samuel/102030/27124
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Luluzinha" tvg-logo="" group-title="24 HORAS",(24h) Luluzinha
-http://sv1.casaplayer.cf:80/samuel/102030/27125
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Masha e O Urso" tvg-logo="" group-title="24 HORAS",(24h) Masha e O Urso
-http://sv1.casaplayer.cf:80/samuel/102030/27126
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Meu Amigãozão" tvg-logo="" group-title="24 HORAS",(24h) Meu Amigãozão
-http://sv1.casaplayer.cf:80/samuel/102030/27127
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Mickey Mouse" tvg-logo="" group-title="24 HORAS",(24h) Mickey Mouse
-http://sv1.casaplayer.cf:80/samuel/102030/27128
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Mortal Kombat" tvg-logo="" group-title="24 HORAS",(24h) Mortal Kombat
-http://sv1.casaplayer.cf:80/samuel/102030/27129
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Mundo Bita" tvg-logo="" group-title="24 HORAS",(24h) Mundo Bita
-http://sv1.casaplayer.cf:80/samuel/102030/27130
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Naruto Clássico" tvg-logo="" group-title="24 HORAS",(24h) Naruto Clássico
-http://sv1.casaplayer.cf:80/samuel/102030/27131
-#EXTINF:-1 tvg-id="" tvg-name="(24h) O Fantastico Mundo De Bobby" tvg-logo="" group-title="24 HORAS",(24h) O Fantastico Mundo De Bobby
-http://sv1.casaplayer.cf:80/samuel/102030/27132
-#EXTINF:-1 tvg-id="" tvg-name="(24h) O Máskara" tvg-logo="" group-title="24 HORAS",(24h) O Máskara
-http://sv1.casaplayer.cf:80/samuel/102030/27133
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Flinstones" tvg-logo="" group-title="24 HORAS",(24h) Os Flinstones
-http://sv1.casaplayer.cf:80/samuel/102030/27179
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Padrinhos Mágicos" tvg-logo="" group-title="24 HORAS",(24h) Os Padrinhos Mágicos
-http://sv1.casaplayer.cf:80/samuel/102030/27134
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Simpsons" tvg-logo="" group-title="24 HORAS",(24h) Os Simpsons
-http://sv1.casaplayer.cf:80/samuel/102030/27135
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Trapalhões" tvg-logo="" group-title="24 HORAS",(24h) Os Trapalhões
-http://sv1.casaplayer.cf:80/samuel/102030/27136
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Os Vingadores Desenho" tvg-logo="" group-title="24 HORAS",(24h) Os Vingadores Desenho
-http://sv1.casaplayer.cf:80/samuel/102030/27137
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Patati Patata" tvg-logo="" group-title="24 HORAS",(24h) Patati Patata
-http://sv1.casaplayer.cf:80/samuel/102030/27138
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Patrulha Canina" tvg-logo="" group-title="24 HORAS",(24h) Patrulha Canina
-http://sv1.casaplayer.cf:80/samuel/102030/27139
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Peppa Pig" tvg-logo="" group-title="24 HORAS",(24h) Peppa Pig
-http://sv1.casaplayer.cf:80/samuel/102030/27140
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Pica Pau" tvg-logo="" group-title="24 HORAS",(24h) Pica Pau
-http://sv1.casaplayer.cf:80/samuel/102030/27141
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Pokemon" tvg-logo="" group-title="24 HORAS",(24h) Pokemon
-http://sv1.casaplayer.cf:80/samuel/102030/27180
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Popeye" tvg-logo="" group-title="24 HORAS",(24h) Popeye
-http://sv1.casaplayer.cf:80/samuel/102030/27142
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Rick And Morty" tvg-logo="" group-title="24 HORAS",(24h) Rick And Morty
-http://sv1.casaplayer.cf:80/samuel/102030/27143
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Rick And Morty 2" tvg-logo="" group-title="24 HORAS",(24h) Rick And Morty 2
-http://sv1.casaplayer.cf:80/samuel/102030/27144
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Scooby Doo" tvg-logo="" group-title="24 HORAS",(24h) Scooby Doo
-http://sv1.casaplayer.cf:80/samuel/102030/27145
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Senran Kagura Shinovi" tvg-logo="" group-title="24 HORAS",(24h) Senran Kagura Shinovi
-http://sv1.casaplayer.cf:80/samuel/102030/27146
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Sitio Do Pica Pau Amarelo" tvg-logo="" group-title="24 HORAS",(24h) Sitio Do Pica Pau Amarelo
-http://sv1.casaplayer.cf:80/samuel/102030/27147
-#EXTINF:-1 tvg-id="" tvg-name="(24h) South Park" tvg-logo="" group-title="24 HORAS",(24h) South Park
-http://sv1.casaplayer.cf:80/samuel/102030/27148
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Supernatural" tvg-logo="" group-title="24 HORAS",(24h) Supernatural
-http://sv1.casaplayer.cf:80/samuel/102030/27182
-#EXTINF:-1 tvg-id="" tvg-name="(24h) The Big Bang Theory" tvg-logo="" group-title="24 HORAS",(24h) The Big Bang Theory
-http://sv1.casaplayer.cf:80/samuel/102030/27183
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Timão e Pumba" tvg-logo="" group-title="24 HORAS",(24h) Timão e Pumba
-http://sv1.casaplayer.cf:80/samuel/102030/27149
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Todo Mundo Odeia O Chris" tvg-logo="" group-title="24 HORAS",(24h) Todo Mundo Odeia O Chris
-http://sv1.casaplayer.cf:80/samuel/102030/27150
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Tom e Jerry" tvg-logo="" group-title="24 HORAS",(24h) Tom e Jerry
-http://sv1.casaplayer.cf:80/samuel/102030/27151
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Vai Que Cola" tvg-logo="" group-title="24 HORAS",(24h) Vai Que Cola
-http://sv1.casaplayer.cf:80/samuel/102030/27152
-#EXTINF:-1 tvg-id="" tvg-name="(24h) X-Men Antigo" tvg-logo="" group-title="24 HORAS",(24h) X-Men Antigo
-http://sv1.casaplayer.cf:80/samuel/102030/27153
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Yugioh Clássico" tvg-logo="" group-title="24 HORAS",(24h) Yugioh Clássico
-http://sv1.casaplayer.cf:80/samuel/102030/27154
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Zack e Cody Gemeos A Bordo" tvg-logo="" group-title="24 HORAS",(24h) Zack e Cody Gemeos A Bordo
-http://sv1.casaplayer.cf:80/samuel/102030/27184
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Zatch Bell" tvg-logo="" group-title="24 HORAS",(24h) Zatch Bell
-http://sv1.casaplayer.cf:80/samuel/102030/27185
-#EXTINF:-1 tvg-id="" tvg-name="(24h) Zorra Total" tvg-logo="" group-title="24 HORAS",(24h) Zorra Total
-http://sv1.casaplayer.cf:80/samuel/102030/27186
-#EXTINF:-1 tvg-id="" tvg-name="24 Dragon Ball GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Dragon Ball GT
-http://sv1.casaplayer.cf:80/samuel/102030/27187
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas As Meninas Superpoderosas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas As Meninas Superpoderosas
-http://sv1.casaplayer.cf:80/samuel/102030/27189
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Ben 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Ben 10
-http://sv1.casaplayer.cf:80/samuel/102030/27190
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Bob Esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Bob Esponja
-http://sv1.casaplayer.cf:80/samuel/102030/27191
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Dois Homens e Meio
-http://sv1.casaplayer.cf:80/samuel/102030/27193
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dragon Ball Super" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Dragon Ball Super
-http://sv1.casaplayer.cf:80/samuel/102030/27196
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Eu, a Patroa e as Crianças" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Eu, a Patroa e as Crianças
-http://sv1.casaplayer.cf:80/samuel/102030/27197
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Galinha Pintadinha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Galinha Pintadinha
-http://sv1.casaplayer.cf:80/samuel/102030/27198
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Johnny Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Johnny Bravo
-http://sv1.casaplayer.cf:80/samuel/102030/27199
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Largados e Pelados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Largados e Pelados
-http://sv1.casaplayer.cf:80/samuel/102030/27200
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mickey Mouse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Mickey Mouse
-http://sv1.casaplayer.cf:80/samuel/102030/27202
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mr. Bean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Mr. Bean
-http://sv1.casaplayer.cf:80/samuel/102030/27203
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Naruto
-http://sv1.casaplayer.cf:80/samuel/102030/27204
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Cavaleiros do Zodiaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Os Cavaleiros do Zodiaco
-http://sv1.casaplayer.cf:80/samuel/102030/27205
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Padrinhos Mágicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Os Padrinhos Mágicos
-http://sv1.casaplayer.cf:80/samuel/102030/27206
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Os Simpsons
-http://sv1.casaplayer.cf:80/samuel/102030/27207
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Peppa Pig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Peppa Pig
-http://sv1.casaplayer.cf:80/samuel/102030/27208
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pica-Pau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Pica-Pau
-http://sv1.casaplayer.cf:80/samuel/102030/27209
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Rick and Morty" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Rick and Morty
-http://sv1.casaplayer.cf:80/samuel/102030/27210
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas South Park
-http://sv1.casaplayer.cf:80/samuel/102030/27211
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Todo Mundo Odeia o Chris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Todo Mundo Odeia o Chris
-http://sv1.casaplayer.cf:80/samuel/102030/27214
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Tom e Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Tom e Jerry
-http://sv1.casaplayer.cf:80/samuel/102030/27215
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Turma da Mônica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",24 Horas Turma da Mônica
-http://sv1.casaplayer.cf:80/samuel/102030/27216
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E
-http://sv1.casaplayer.cf:80/samuel/102030/3426
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3311
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://floriu.com/imagem/aee.png" group-title="FILMES E SERIES",A&E HD
-http://sv1.casaplayer.cf:80/samuel/102030/3427
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC
-http://sv1.casaplayer.cf:80/samuel/102030/3430
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC 4K" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3312
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://floriu.com/imagem/amc.png" group-title="FILMES E SERIES",AMC HD
-http://sv1.casaplayer.cf:80/samuel/102030/3431
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",Animal Planet
-http://sv1.casaplayer.cf:80/samuel/102030/3432
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3313
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://floriu.com/imagem/animalplanet.png" group-title="DOCUMENTARIO",ANIMAL PLANET HD
-http://sv1.casaplayer.cf:80/samuel/102030/3433
-#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Anos 2000
-http://sv1.casaplayer.cf:80/samuel/102030/47538
-#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Anos 70
-http://sv1.casaplayer.cf:80/samuel/102030/47539
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1
-http://sv1.casaplayer.cf:80/samuel/102030/3435
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 4k" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 4k
-http://sv1.casaplayer.cf:80/samuel/102030/7079
-#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="ARTE 1 HD" tvg-logo="http://floriu.com/imagem/arte1.png" group-title="FILMES E SERIES",ARTE 1 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3434
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN
-http://sv1.casaplayer.cf:80/samuel/102030/3428
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6748
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://floriu.com/imagem/axn.png" group-title="FILMES E SERIES",AXN HD
-http://sv1.casaplayer.cf:80/samuel/102030/7135
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV
-http://sv1.casaplayer.cf:80/samuel/102030/3441
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV HD" tvg-logo="http://floriu.com/imagem/BabyTV.png" group-title="INFANTIS",BABY TV HD
-http://sv1.casaplayer.cf:80/samuel/102030/6751
-#EXTINF:-1 tvg-id="Band Paulista" tvg-name="BAND CAMPINAS" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND CAMPINAS
-http://sv1.casaplayer.cf:80/samuel/102030/18550
-#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",Band News
-http://sv1.casaplayer.cf:80/samuel/102030/3442
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS 4K" tvg-logo="http://floriu.com/imagem/bandnews.png" group-title="NOTICIAS",BAND NEWS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3316
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3443
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND SP
-http://sv1.casaplayer.cf:80/samuel/102030/3723
-#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/band.png" group-title="CANAIS ABERTOS",BAND SP 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3317
-#EXTINF:-1 tvg-id="Band FHD" tvg-name="BAND SP HD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://sv1.casaplayer.cf:80/samuel/102030/3448
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS" tvg-logo="http://iptvclub.com.br/iptvhd-capas/BandSports.png" group-title="ESPORTE",BAND SPORTS
-http://sv1.casaplayer.cf:80/samuel/102030/3444
-#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS HD" tvg-logo="http://floriu.com/imagem/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3445
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS
-http://sv1.casaplayer.cf:80/samuel/102030/3438
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://floriu.com/imagem/bis.png" group-title="MUSICAS E VARIEDADE",BIS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3439
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang" tvg-logo="http://floriu.com/imagem/Bloomberg.png" group-title="INFANTIS",Boomerang
-http://sv1.casaplayer.cf:80/samuel/102030/3436
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS",BOOMERANG 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3318
-#EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="BOOMERANG HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS",BOOMERANG HD
-http://sv1.casaplayer.cf:80/samuel/102030/3437
-#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Bossa Nova
-http://sv1.casaplayer.cf:80/samuel/102030/47540
-#EXTINF:-1 tvg-id="" tvg-name="Cadillacc Music" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Cadillacc Music
-http://sv1.casaplayer.cf:80/samuel/102030/47541
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA CANAL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA CANAL 1
-http://sv1.casaplayer.cf:80/samuel/102030/46696
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA CANAL 2
-http://sv1.casaplayer.cf:80/samuel/102030/46697
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA CANAL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA CANAL 3
-http://sv1.casaplayer.cf:80/samuel/102030/46698
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="COPAS REGIONAIS",CAMPEONATO CARIOCA CANAL 4
-http://sv1.casaplayer.cf:80/samuel/102030/46699
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL FHD
-http://sv1.casaplayer.cf:80/samuel/102030/26961
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="MUSICAS E VARIEDADE",CANAL BRASIL HD
-http://sv1.casaplayer.cf:80/samuel/102030/26962
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY
-http://sv1.casaplayer.cf:80/samuel/102030/3698
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY 4K" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3380
-#EXTINF:-1 tvg-id="Canal Sony" tvg-name="CANAL SONY HD" tvg-logo="http://floriu.com/imagem/SONY.png" group-title="FILMES E SERIES",CANAL SONY HD
-http://sv1.casaplayer.cf:80/samuel/102030/3697
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
-http://sv1.casaplayer.cf:80/samuel/102030/6439
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK
-http://sv1.casaplayer.cf:80/samuel/102030/3695
-#EXTINF:-1 tvg-id="Cartoon Network 4K" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3319
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
-http://sv1.casaplayer.cf:80/samuel/102030/3694
-#EXTINF:-1 tvg-id="" tvg-name="CBN RJ" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",CBN RJ
-http://sv1.casaplayer.cf:80/samuel/102030/47542
-#EXTINF:-1 tvg-id="" tvg-name="CBN SP" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",CBN SP
-http://sv1.casaplayer.cf:80/samuel/102030/47543
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Cine Pipoca 1" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 1
-http://sv1.casaplayer.cf:80/samuel/102030/19382
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 10" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 10
-http://sv1.casaplayer.cf:80/samuel/102030/19391
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 11" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 11
-http://sv1.casaplayer.cf:80/samuel/102030/23761
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 12" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 12
-http://sv1.casaplayer.cf:80/samuel/102030/23762
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 13" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 13
-http://sv1.casaplayer.cf:80/samuel/102030/23763
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 14" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 14
-http://sv1.casaplayer.cf:80/samuel/102030/23764
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 2" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 2
-http://sv1.casaplayer.cf:80/samuel/102030/19383
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 3
-http://sv1.casaplayer.cf:80/samuel/102030/19384
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 4
-http://sv1.casaplayer.cf:80/samuel/102030/23760
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Cine Pipoca 5" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 5
-http://sv1.casaplayer.cf:80/samuel/102030/19386
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 6
-http://sv1.casaplayer.cf:80/samuel/102030/19387
-#EXTINF:-1 tvg-id="" tvg-name="Cine PIpoca 7" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine PIpoca 7
-http://sv1.casaplayer.cf:80/samuel/102030/19388
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 8" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 8
-http://sv1.casaplayer.cf:80/samuel/102030/19389
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 9" tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA",Cine Pipoca 9
-http://sv1.casaplayer.cf:80/samuel/102030/19390
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 01 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19066
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 02 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19067
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 03 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19068
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="http://floriu.com/imagem/cinesky.jpg" group-title="CINE SKY",CINE SKY 04 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19069
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 HD" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 05 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19070
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="http://floriu.com/imagem/cinesky.jpg" group-title="CINE SKY",CINE SKY 06 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19071
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="http://floriu.com/imagem/cinesky.jpg" group-title="CINE SKY",CINE SKY 07 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19072
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="http://floriu.com/imagem/cinesky.jpg" group-title="CINE SKY",CINE SKY 08 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19073
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="http://floriu.com/imagem/cinesky.jpg" group-title="CINE SKY",CINE SKY 09 HD
-http://sv1.casaplayer.cf:80/samuel/102030/19074
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",Cinemax
-http://sv1.casaplayer.cf:80/samuel/102030/3693
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX 4K" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3320
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
-http://sv1.casaplayer.cf:80/samuel/102030/3692
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil HD
-http://sv1.casaplayer.cf:80/samuel/102030/11247
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil SD" tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS",CNN Brasil SD
-http://sv1.casaplayer.cf:80/samuel/102030/11246
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE
-http://sv1.casaplayer.cf:80/samuel/102030/3688
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3321
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE",COMBATE HD
-http://sv1.casaplayer.cf:80/samuel/102030/3687
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL
-http://sv1.casaplayer.cf:80/samuel/102030/3686
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3322
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://floriu.com/imagem/comedy.png" group-title="MUSICAS E VARIEDADE",COMEDY CENTRAL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3685
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 01" tvg-logo="" group-title="CONMEBOL",Conmebol TV 01
-http://sv1.casaplayer.cf:80/samuel/102030/46950
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 02" tvg-logo="" group-title="CONMEBOL",Conmebol TV 02
-http://sv1.casaplayer.cf:80/samuel/102030/46951
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 03
-http://sv1.casaplayer.cf:80/samuel/102030/21767
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 03" tvg-logo="" group-title="CONMEBOL",Conmebol TV 03
-http://sv1.casaplayer.cf:80/samuel/102030/46952
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 04
-http://sv1.casaplayer.cf:80/samuel/102030/21768
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 04" tvg-logo="" group-title="CONMEBOL",Conmebol TV 04
-http://sv1.casaplayer.cf:80/samuel/102030/46953
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 1
-http://sv1.casaplayer.cf:80/samuel/102030/21769
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CONMEBOL",CONMEBOL TV 2
-http://sv1.casaplayer.cf:80/samuel/102030/21766
-#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #1" tvg-logo="" group-title="COPAS REGIONAIS",Copa Carioca #1
-http://sv1.casaplayer.cf:80/samuel/102030/46694
-#EXTINF:-1 tvg-id="" tvg-name="Copa Carioca #2" tvg-logo="" group-title="COPAS REGIONAIS",Copa Carioca #2
-http://sv1.casaplayer.cf:80/samuel/102030/46695
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 1
-http://sv1.casaplayer.cf:80/samuel/102030/46691
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 2" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 2
-http://sv1.casaplayer.cf:80/samuel/102030/46692
-#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 3" tvg-logo="" group-title="COPAS REGIONAIS",Copa Catarinense 3
-http://sv1.casaplayer.cf:80/samuel/102030/46693
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #1" tvg-logo="" group-title="COPAS REGIONAIS",Copa do Nordeste 2020 #1
-http://sv1.casaplayer.cf:80/samuel/102030/46528
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #2" tvg-logo="" group-title="COPAS REGIONAIS",Copa do Nordeste 2020 #2
-http://sv1.casaplayer.cf:80/samuel/102030/46529
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 JOGO-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="COPAS REGIONAIS",COPA DO NORDESTE 2020 JOGO-1
-http://sv1.casaplayer.cf:80/samuel/102030/46530
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 JOGO-2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="COPAS REGIONAIS",COPA DO NORDESTE 2020 JOGO-2
-http://sv1.casaplayer.cf:80/samuel/102030/46531
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 JOGO-3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="COPAS REGIONAIS",COPA DO NORDESTE 2020 JOGO-3
-http://sv1.casaplayer.cf:80/samuel/102030/46532
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 JOGO-4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="COPAS REGIONAIS",COPA DO NORDESTE 2020 JOGO-4
-http://sv1.casaplayer.cf:80/samuel/102030/46533
-#EXTINF:-1 tvg-id="TV Cultura" tvg-name="CULTURA HD" tvg-logo="http://floriu.com/imagem/cultura.png" group-title="CANAIS ABERTOS",CULTURA HD
-http://sv1.casaplayer.cf:80/samuel/102030/3779
-#EXTINF:-1 tvg-id="Curta" tvg-name="CURTA" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA
-http://sv1.casaplayer.cf:80/samuel/102030/6453
-#EXTINF:-1 tvg-id="Curta" tvg-name="CURTA HD" tvg-logo="http://floriu.com/imagem/CURTA.png" group-title="MUSICAS E VARIEDADE",CURTA HD
-http://sv1.casaplayer.cf:80/samuel/102030/6452
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://floriu.com/imagem/dazn.png" group-title="ESPORTE",DAZN
-http://sv1.casaplayer.cf:80/samuel/102030/8484
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL
-http://sv1.casaplayer.cf:80/samuel/102030/3683
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6008
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://floriu.com/imagem/DISCOVERYCHANNEL.png" group-title="DOCUMENTARIO",DISCOVERY CHANNEL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3682
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV
-http://sv1.casaplayer.cf:80/samuel/102030/3725
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV 4K" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3325
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://floriu.com/imagem/hgtv1.jpeg" group-title="DOCUMENTARIO",HGTV HD
-http://sv1.casaplayer.cf:80/samuel/102030/6788
-#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH
-http://sv1.casaplayer.cf:80/samuel/102030/3726
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH 4K" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3326
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://floriu.com/imagem/DISCOVERYHOMEEH.png" group-title="DOCUMENTARIO",DISCOVERY HOME & HEALTH HD
-http://sv1.casaplayer.cf:80/samuel/102030/3781
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS
-http://sv1.casaplayer.cf:80/samuel/102030/3678
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3327
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://floriu.com/imagem/DiscoveryKids.png" group-title="INFANTIS",DISCOVERY KIDS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3677
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE
-http://sv1.casaplayer.cf:80/samuel/102030/3727
-#EXTINF:-1 tvg-id="Discovery Science [Alter 2]" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3328
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverycivilization-discoveryscience-ouniversodatv.png" group-title="DOCUMENTARIO",DISCOVERY SCIENCE HD
-http://sv1.casaplayer.cf:80/samuel/102030/3676
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER
-http://sv1.casaplayer.cf:80/samuel/102030/3728
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3329
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://floriu.com/imagem/Discoverytheater.png" group-title="DOCUMENTARIO",DISCOVERY THEATER HD
-http://sv1.casaplayer.cf:80/samuel/102030/6800
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DOCUMENTARIO",DISCOVERY TLC
-http://sv1.casaplayer.cf:80/samuel/102030/3729
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="http://floriu.com/imagem/tlcdiscovery.png" group-title="DOCUMENTARIO",DISCOVERY TLC HD
-http://sv1.casaplayer.cf:80/samuel/102030/3782
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3330
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO HD
-http://sv1.casaplayer.cf:80/samuel/102030/3673
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://floriu.com/imagem/turbo1.png" group-title="DOCUMENTARIO",DISCOVERY TURBO SD
-http://sv1.casaplayer.cf:80/samuel/102030/3674
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/dwords.png" group-title="DOCUMENTARIO",DISCOVERY WORLD
-http://sv1.casaplayer.cf:80/samuel/102030/3730
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DOCUMENTARIO",DISCOVERY WORLD 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3331
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://floriu.com/imagem/discoverworld.png" group-title="DOCUMENTARIO",DISCOVERY WORLD HD
-http://sv1.casaplayer.cf:80/samuel/102030/3672
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL
-http://sv1.casaplayer.cf:80/samuel/102030/3731
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/2015_Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6810
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://floriu.com/imagem/disney.jpg" group-title="INFANTIS",DISNEY CHANNEL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3670
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR
-http://sv1.casaplayer.cf:80/samuel/102030/3732
-#EXTINF:-1 tvg-id="Disney Jr FHD H.265" tvg-name="DISNEY JR 4K" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6814
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="http://floriu.com/imagem/disneyjr.png" group-title="INFANTIS",DISNEY JR HD
-http://sv1.casaplayer.cf:80/samuel/102030/3669
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",Disney XD
-http://sv1.casaplayer.cf:80/samuel/102030/3667
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD 4K" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",DISNEY XD 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6048
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD" tvg-logo="http://floriu.com/imagem/disneyxd.jpg" group-title="INFANTIS",DISNEY XD HD
-http://sv1.casaplayer.cf:80/samuel/102030/3666
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E!" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E!
-http://sv1.casaplayer.cf:80/samuel/102030/3664
-#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://floriu.com/imagem/e!.png" group-title="FILMES E SERIES",E! HD
-http://sv1.casaplayer.cf:80/samuel/102030/3663
-#EXTINF:-1 tvg-id="" tvg-name="ELETRÔNICA" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",ELETRÔNICA
-http://sv1.casaplayer.cf:80/samuel/102030/47544
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN
-http://sv1.casaplayer.cf:80/samuel/102030/3659
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN 2
-http://sv1.casaplayer.cf:80/samuel/102030/46701
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN BRASIL HD
-http://sv1.casaplayer.cf:80/samuel/102030/27260
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPN Brasil¹
-http://sv1.casaplayer.cf:80/samuel/102030/46726
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA
-http://sv1.casaplayer.cf:80/samuel/102030/18683
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD" tvg-logo="http://floriu.com/imagem/espnextra.png" group-title="ESPORTE",ESPN EXTRA HD
-http://sv1.casaplayer.cf:80/samuel/102030/6067
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN HD
-http://sv1.casaplayer.cf:80/samuel/102030/3654
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2²4K" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN2²4K
-http://sv1.casaplayer.cf:80/samuel/102030/46731
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2²HD" tvg-logo="http://floriu.com/imagem/espn2.png" group-title="ESPORTE",ESPN2²HD
-http://sv1.casaplayer.cf:80/samuel/102030/46732
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPNBRASIL 4K¹" tvg-logo="http://floriu.com/imagem/espnbr.png" group-title="ESPORTE",ESPNBRASIL 4K¹
-http://sv1.casaplayer.cf:80/samuel/102030/27251
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN¹4K¹" tvg-logo="http://floriu.com/imagem/espn.png" group-title="ESPORTE",ESPN¹4K¹
-http://sv1.casaplayer.cf:80/samuel/102030/46730
-#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Festa
-http://sv1.casaplayer.cf:80/samuel/102030/47545
-#EXTINF:-1 tvg-id="Film&Arts" tvg-name="Film & Arts" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",Film & Arts
-http://sv1.casaplayer.cf:80/samuel/102030/3652
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="http://floriu.com/imagem/filmearts.png" group-title="FILMES E SERIES",FILM & ARTS HD
-http://sv1.casaplayer.cf:80/samuel/102030/6474
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV
-http://sv1.casaplayer.cf:80/samuel/102030/6476
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV HD" tvg-logo="http://floriu.com/imagem/fishtv.png" group-title="DOCUMENTARIO",FISH TV HD
-http://sv1.casaplayer.cf:80/samuel/102030/6830
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",Food Network
-http://sv1.casaplayer.cf:80/samuel/102030/3650
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://floriu.com/imagem/fn.png" group-title="DOCUMENTARIO",FOOD NETWORK 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3338
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://floriu.com/imagem/foodnetwork.png" group-title="DOCUMENTARIO",FOOD NETWORK HD
-http://sv1.casaplayer.cf:80/samuel/102030/3649
-#EXTINF:-1 tvg-id="" tvg-name="FORRÓ" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",FORRÓ
-http://sv1.casaplayer.cf:80/samuel/102030/47546
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://floriu.com/imagem/fox.png" group-title="FILMES E SERIES",FOX
-http://sv1.casaplayer.cf:80/samuel/102030/3648
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX 4K" tvg-logo="http://floriu.com/imagem/fox.png" group-title="FILMES E SERIES",FOX 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3339
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://floriu.com/imagem/fox.png" group-title="FILMES E SERIES",FOX HD
-http://sv1.casaplayer.cf:80/samuel/102030/3647
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="http://floriu.com/imagem/foxlife.png" group-title="FILMES E SERIES",Fox Life
-http://sv1.casaplayer.cf:80/samuel/102030/3646
-#EXTINF:-1 tvg-id="Example" tvg-name="FOX LIFE 4k" tvg-logo="http://floriu.com/imagem/foxlife.png" group-title="FILMES E SERIES",FOX LIFE 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18702
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD" tvg-logo="http://floriu.com/imagem/foxlife.png" group-title="FILMES E SERIES",FOX LIFE HD
-http://sv1.casaplayer.cf:80/samuel/102030/3645
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="FOX PREMIUM 1" tvg-logo="http://floriu.com/imagem/foxpremium1.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1
-http://sv1.casaplayer.cf:80/samuel/102030/3734
-#EXTINF:-1 tvg-id="Example" tvg-name="FOX PREMIUM 1 4K" tvg-logo="http://floriu.com/imagem/foxpremium1.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3340
-#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3644
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="FOX PREMIUM 2" tvg-logo="https://iptvclub.com.br/iptvhd-capas/FOXPremium2018.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-http://sv1.casaplayer.cf:80/samuel/102030/3735
-#EXTINF:-1 tvg-id="Example" tvg-name="FOX PREMIUM 2 4K" tvg-logo="http://floriu.com/imagem/foxpremium2.jpg" group-title="FILMES E SERIES",FOX PREMIUM 2 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3341
-#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://floriu.com/imagem/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3643
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",Fox Sports 2
-http://sv1.casaplayer.cf:80/samuel/102030/3641
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3342
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://floriu.com/imagem/foxsports2.png" group-title="ESPORTE",FOX SPORTS 2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3640
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports 4k²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports 4k²
-http://sv1.casaplayer.cf:80/samuel/102030/46954
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports HD²
-http://sv1.casaplayer.cf:80/samuel/102030/46955
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD²" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports SD²
-http://sv1.casaplayer.cf:80/samuel/102030/46956
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports¹" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",Fox Sports¹
-http://sv1.casaplayer.cf:80/samuel/102030/46725
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹ HD" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹ HD
-http://sv1.casaplayer.cf:80/samuel/102030/46921
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS¹4k" tvg-logo="http://floriu.com/imagem/foxsports.png" group-title="ESPORTE",FOX SPORTS¹4k
-http://sv1.casaplayer.cf:80/samuel/102030/46943
-#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",FUNK
-http://sv1.casaplayer.cf:80/samuel/102030/47547
-#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA" tvg-logo="floriu.com/imagem/futura.png" group-title="CANAIS ABERTOS",FUTURA
-http://sv1.casaplayer.cf:80/samuel/102030/6853
-#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo="http://floriu.com/imagem/futura.png" group-title="CANAIS ABERTOS",FUTURA HD
-http://sv1.casaplayer.cf:80/samuel/102030/6852
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX
-http://sv1.casaplayer.cf:80/samuel/102030/3637
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX 4K" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3344
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://floriu.com/imagem/fx.png" group-title="FILMES E SERIES",FX HD
-http://sv1.casaplayer.cf:80/samuel/102030/3636
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Anhanguera Goiania HD
-http://sv1.casaplayer.cf:80/samuel/102030/23771
-#EXTINF:-1 tvg-id="Globo TV Anhanguera [Alter]" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO ANHANGUERA GOIANIA SD
-http://sv1.casaplayer.cf:80/samuel/102030/6857
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA " tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA 
-http://sv1.casaplayer.cf:80/samuel/102030/18782
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BAHIA HD
-http://sv1.casaplayer.cf:80/samuel/102030/16770
-#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA
-http://sv1.casaplayer.cf:80/samuel/102030/5007
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO BRASILIA HD
-http://sv1.casaplayer.cf:80/samuel/102030/5006
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo EPTV Araraquara" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Araraquara
-http://sv1.casaplayer.cf:80/samuel/102030/23772
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo EPTV Campinas" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas
-http://sv1.casaplayer.cf:80/samuel/102030/5009
-#EXTINF:-1 tvg-id="Globo Eptv Campinas" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo EPTV Campinas HD
-http://sv1.casaplayer.cf:80/samuel/102030/5008
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV RIBEIRAO PRETO HD
-http://sv1.casaplayer.cf:80/samuel/102030/5052
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV RIBEIRÃO PRETO 
-http://sv1.casaplayer.cf:80/samuel/102030/18736
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV SAO CARLOS " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO EPTV SAO CARLOS 
-http://sv1.casaplayer.cf:80/samuel/102030/6862
-#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO FLORIANOPOLIS
-http://sv1.casaplayer.cf:80/samuel/102030/18738
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTER TV CABUGI 
-http://sv1.casaplayer.cf:80/samuel/102030/5012
-#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo INTER TV Cabugi RN HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo INTER TV Cabugi RN HD
-http://sv1.casaplayer.cf:80/samuel/102030/23773
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO INTERNACIONAL" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO INTERNACIONAL
-http://sv1.casaplayer.cf:80/samuel/102030/6863
-#EXTINF:-1 tvg-id="Globo Inter Tv Alto Litoral" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo InterTV Alto Litoral HD
-http://sv1.casaplayer.cf:80/samuel/102030/23774
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Serra Mar HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo InterTV Serra Mar HD
-http://sv1.casaplayer.cf:80/samuel/102030/23775
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO MINAS 
-http://sv1.casaplayer.cf:80/samuel/102030/5014
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO MINAS HD
-http://sv1.casaplayer.cf:80/samuel/102030/5013
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
-http://sv1.casaplayer.cf:80/samuel/102030/5015
-#EXTINF:-1 tvg-id="Globo News" tvg-name="GLOBO NEWS 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/globo-news-logo.png" group-title="NOTICIAS",GLOBO NEWS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3347
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3743
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE
-http://sv1.casaplayer.cf:80/samuel/102030/5018
-#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6869
-#EXTINF:-1 tvg-id="Globo Nordeste HD [Alter]" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO NORDESTE HD
-http://sv1.casaplayer.cf:80/samuel/102030/5017
-#EXTINF:-1 tvg-id="Globo Nsc Tv Blumenau" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo NSC Blumenau HD
-http://sv1.casaplayer.cf:80/samuel/102030/23776
-#EXTINF:-1 tvg-id="Globo 4k" tvg-name="Globo Petrolina HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Petrolina HD
-http://sv1.casaplayer.cf:80/samuel/102030/23779
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE
-http://sv1.casaplayer.cf:80/samuel/102030/3744
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS Porto Alegre HD
-http://sv1.casaplayer.cf:80/samuel/102030/23780
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RBS TV Pelotas HD
-http://sv1.casaplayer.cf:80/samuel/102030/23781
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="GLOBO REDE AMAZONICA " tvg-logo="floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO REDE AMAZONICA 
-http://sv1.casaplayer.cf:80/samuel/102030/18764
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="Globo Rede Amazônica Boa Vista" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Boa Vista
-http://sv1.casaplayer.cf:80/samuel/102030/23783
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="Globo Rede Amazônica Boa Vista HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Boa Vista HD
-http://sv1.casaplayer.cf:80/samuel/102030/23782
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="Globo Rede Amazônica Porto Velho" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Porto Velho
-http://sv1.casaplayer.cf:80/samuel/102030/23785
-#EXTINF:-1 tvg-id="Rede Amazonica" tvg-name="Globo Rede Amazônica Porto Velho HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Porto Velho HD
-http://sv1.casaplayer.cf:80/samuel/102030/23784
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Globo Rede Amazônica Rio Branco" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Rio Branco
-http://sv1.casaplayer.cf:80/samuel/102030/23787
-#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="Globo Rede Amazônica Rio Branco HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo Rede Amazônica Rio Branco HD
-http://sv1.casaplayer.cf:80/samuel/102030/23786
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RIO PRETO HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RIO PRETO HD
-http://sv1.casaplayer.cf:80/samuel/102030/6131
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="Globo RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo RJ
-http://sv1.casaplayer.cf:80/samuel/102030/5047
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3349
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RJ HD 
-http://sv1.casaplayer.cf:80/samuel/102030/18771
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Cascavel HD" tvg-logo="" group-title="GLOBO",Globo RPC Cascavel HD
-http://sv1.casaplayer.cf:80/samuel/102030/23788
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC CURITIBA HD
-http://sv1.casaplayer.cf:80/samuel/102030/7066
-#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="Globo RPC Maringa" tvg-logo="" group-title="GLOBO",Globo RPC Maringa
-http://sv1.casaplayer.cf:80/samuel/102030/23789
-#EXTINF:-1 tvg-id="RPCParanavai" tvg-name="Globo RPC Paranavaí" tvg-logo="" group-title="GLOBO",Globo RPC Paranavaí
-http://sv1.casaplayer.cf:80/samuel/102030/23790
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO RPC TV CURITIBA
-http://sv1.casaplayer.cf:80/samuel/102030/5025
-#EXTINF:-1 tvg-id="Globo TV Sergipe" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SERGIPE HD
-http://sv1.casaplayer.cf:80/samuel/102030/6879
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP
-http://sv1.casaplayer.cf:80/samuel/102030/5030
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3350
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO SP HD
-http://sv1.casaplayer.cf:80/samuel/102030/5029
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Anhanguera Luziânia HD" tvg-logo="" group-title="GLOBO",Globo TV Anhanguera Luziânia HD
-http://sv1.casaplayer.cf:80/samuel/102030/23791
-#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="Globo TV Anhanguera Rio Verde HD" tvg-logo="" group-title="GLOBO",Globo TV Anhanguera Rio Verde HD
-http://sv1.casaplayer.cf:80/samuel/102030/23792
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia 4K" tvg-logo="" group-title="GLOBO",Globo TV Bahia 4K
-http://sv1.casaplayer.cf:80/samuel/102030/23793
-#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Sergipe" tvg-logo="" group-title="GLOBO",Globo TV Sergipe
-http://sv1.casaplayer.cf:80/samuel/102030/23795
-#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Sergipe HD" tvg-logo="" group-title="GLOBO",Globo TV Sergipe HD
-http://sv1.casaplayer.cf:80/samuel/102030/23794
-#EXTINF:-1 tvg-id="TV Asa Branca" tvg-name="Globo TV Caruaru (Asa Branca) HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Caruaru (Asa Branca) HD
-http://sv1.casaplayer.cf:80/samuel/102030/7074
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Caruaru (Asa Branca) HD" tvg-logo="" group-title="GLOBO",Globo TV Caruaru (Asa Branca) HD
-http://sv1.casaplayer.cf:80/samuel/102030/23796
-#EXTINF:-1 tvg-id="Globo Centro America Cuiaba" tvg-name="GLOBO TV CENTRO AMÉRICA CUIABÁ " tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV CENTRO AMÉRICA CUIABÁ 
-http://sv1.casaplayer.cf:80/samuel/102030/18783
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Fronteira Paulista" tvg-logo="" group-title="GLOBO",Globo TV Fronteira Paulista
-http://sv1.casaplayer.cf:80/samuel/102030/23799
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Fronteira Paulista HD" tvg-logo="" group-title="GLOBO",Globo TV Fronteira Paulista HD
-http://sv1.casaplayer.cf:80/samuel/102030/23798
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Gazeta Norte HD" tvg-logo="" group-title="GLOBO",Globo TV Gazeta Norte HD
-http://sv1.casaplayer.cf:80/samuel/102030/23800
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="" group-title="GLOBO",Globo TV Gazeta Sul ES HD
-http://sv1.casaplayer.cf:80/samuel/102030/23801
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="" group-title="GLOBO",Globo TV Gazeta Vitória HD
-http://sv1.casaplayer.cf:80/samuel/102030/23802
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Integração Araxa SD ¹" tvg-logo="" group-title="GLOBO",Globo TV Integração Araxa SD ¹
-http://sv1.casaplayer.cf:80/samuel/102030/23803
-#EXTINF:-1 tvg-id="TV Integração Uberlândia HD" tvg-name="Globo TV Integração Uberaba HD" tvg-logo="" group-title="GLOBO",Globo TV Integração Uberaba HD
-http://sv1.casaplayer.cf:80/samuel/102030/23804
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Itapetininga" tvg-logo="" group-title="GLOBO",Globo TV Itapetininga
-http://sv1.casaplayer.cf:80/samuel/102030/23805
-#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal Belém HD" tvg-logo="" group-title="GLOBO",Globo TV Liberal Belém HD
-http://sv1.casaplayer.cf:80/samuel/102030/23806
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Mirante" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Mirante
-http://sv1.casaplayer.cf:80/samuel/102030/23807
-#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Morena
-http://sv1.casaplayer.cf:80/samuel/102030/23808
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Nacional HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Nacional HD
-http://sv1.casaplayer.cf:80/samuel/102030/23809
-#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM BAURU
-http://sv1.casaplayer.cf:80/samuel/102030/6885
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Rio Preto HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Tem Rio Preto HD
-http://sv1.casaplayer.cf:80/samuel/102030/23810
-#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TEM SOROCABA
-http://sv1.casaplayer.cf:80/samuel/102030/3751
-#EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS
-http://sv1.casaplayer.cf:80/samuel/102030/5036
-#EXTINF:-1 tvg-id="Globo TV Vanguarda" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV VANGUARDA
-http://sv1.casaplayer.cf:80/samuel/102030/5037
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",Globo TV Vanguarda Taubate HD
-http://sv1.casaplayer.cf:80/samuel/102030/23811
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA
-http://sv1.casaplayer.cf:80/samuel/102030/5038
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",Gloob
-http://sv1.casaplayer.cf:80/samuel/102030/3617
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB 4K" tvg-logo="floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6892
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://floriu.com/imagem/gloob.png" group-title="INFANTIS",GLOOB HD
-http://sv1.casaplayer.cf:80/samuel/102030/3616
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="INFANTIS",GLOOBINHO HD
-http://sv1.casaplayer.cf:80/samuel/102030/26963
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT
-http://sv1.casaplayer.cf:80/samuel/102030/3614
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://floriu.com/imagem/gnt.png" group-title="MUSICAS E VARIEDADE",GNT HD
-http://sv1.casaplayer.cf:80/samuel/102030/3613
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",GOSPEL
-http://sv1.casaplayer.cf:80/samuel/102030/47548
-#EXTINF:-1 tvg-id="History 2" tvg-name="H2" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2
-http://sv1.casaplayer.cf:80/samuel/102030/3757
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 4K" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3352
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://floriu.com/imagem/h2.png" group-title="DOCUMENTARIO",H2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3612
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO
-http://sv1.casaplayer.cf:80/samuel/102030/4037
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2
-http://sv1.casaplayer.cf:80/samuel/102030/4033
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 4K" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3353
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://floriu.com/imagem/hbo2.png" group-title="REDE HBO",HBO 2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/4039
-#EXTINF:-1 tvg-id="HBO [Alter]" tvg-name="HBO 4K" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3354
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY
-http://sv1.casaplayer.cf:80/samuel/102030/4034
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY " tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY 
-http://sv1.casaplayer.cf:80/samuel/102030/18805
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6164
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD" tvg-logo="http://floriu.com/imagem/hbofamily.png" group-title="REDE HBO",HBO FAMILY HD
-http://sv1.casaplayer.cf:80/samuel/102030/4040
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://floriu.com/imagem/hbo.png" group-title="REDE HBO",HBO HD
-http://sv1.casaplayer.cf:80/samuel/102030/4041
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 
-http://sv1.casaplayer.cf:80/samuel/102030/18841
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI 4k" tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18842
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD " tvg-logo="http://floriu.com/imagem/Hbomundi1.png" group-title="REDE HBO",HBO MUNDI HD 
-http://sv1.casaplayer.cf:80/samuel/102030/18843
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS
-http://sv1.casaplayer.cf:80/samuel/102030/4035
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS 4K" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3355
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://floriu.com/imagem/hboplus.png" group-title="REDE HBO",HBO PLUS HD
-http://sv1.casaplayer.cf:80/samuel/102030/4042
-#EXTINF:-1 tvg-id="bopluse.br" tvg-name="HBO PLUS*E" tvg-logo="http://floriu.com/imagem/hnoplus2.png" group-title="REDE HBO",HBO PLUS*E
-http://sv1.casaplayer.cf:80/samuel/102030/3759
-#EXTINF:-1 tvg-id="bopluse.br" tvg-name="HBO PLUS*E  HD" tvg-logo="http://floriu.com/imagem/hnoplus2.png" group-title="REDE HBO",HBO PLUS*E  HD
-http://sv1.casaplayer.cf:80/samuel/102030/4043
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP
-http://sv1.casaplayer.cf:80/samuel/102030/18814
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP 4K" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP 4K
-http://sv1.casaplayer.cf:80/samuel/102030/18848
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://floriu.com/imagem/hbopop.png" group-title="REDE HBO",HBO POP HD
-http://sv1.casaplayer.cf:80/samuel/102030/18849
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE
-http://sv1.casaplayer.cf:80/samuel/102030/4038
-#EXTINF:-1 tvg-id="HBO Signature [Alter]" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3356
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE HD" tvg-logo="http://floriu.com/imagem/HBOSIGNATURE.png" group-title="REDE HBO",HBO SIGNATURE HD
-http://sv1.casaplayer.cf:80/samuel/102030/4044
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME " tvg-logo="http://floriu.com/imagem/HBOXTREME.png" group-title="REDE HBO",HBO XTREME 
-http://sv1.casaplayer.cf:80/samuel/102030/18844
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD " tvg-logo="HBOXTREME.png" group-title="REDE HBO",HBO XTREME HD 
-http://sv1.casaplayer.cf:80/samuel/102030/18846
-#EXTINF:-1 tvg-id="" tvg-name="HIP HOP" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",HIP HOP
-http://sv1.casaplayer.cf:80/samuel/102030/47549
-#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY CHANNEL" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL
-http://sv1.casaplayer.cf:80/samuel/102030/3480
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3357
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://floriu.com/imagem/history.jpg" group-title="DOCUMENTARIO",HISTORY CHANNEL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3790
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY
-http://sv1.casaplayer.cf:80/samuel/102030/3761
-#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY 4k" tvg-logo="http://floriu.com/imagem/id.jpg" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY 4k
-http://sv1.casaplayer.cf:80/samuel/102030/3358
-#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://floriu.com/imagem/id.png" group-title="DOCUMENTARIO",ID - INVESTIGACAO DISCOVERY HD
-http://sv1.casaplayer.cf:80/samuel/102030/3791
-#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Jazz
-http://sv1.casaplayer.cf:80/samuel/102030/47550
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN FM" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",JOVEM PAN FM
-http://sv1.casaplayer.cf:80/samuel/102030/47551
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME " tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 
-http://sv1.casaplayer.cf:80/samuel/102030/18834
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME 4K" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6182
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://floriu.com/imagem/lifetime.png" group-title="FILMES E SERIES",LIFETIME HD
-http://sv1.casaplayer.cf:80/samuel/102030/3592
-#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Lounge
-http://sv1.casaplayer.cf:80/samuel/102030/47553
-#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT" tvg-logo="http://floriu.com/imagem/globosat.png" group-title="FILMES E SERIES",MAIS GLOBOSAT
-http://sv1.casaplayer.cf:80/samuel/102030/3756
-#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://floriu.com/imagem/globosat.png" group-title="FILMES E SERIES",MAIS GLOBOSAT HD
-http://sv1.casaplayer.cf:80/samuel/102030/3788
-#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MegaPix
-http://sv1.casaplayer.cf:80/samuel/102030/3583
-#EXTINF:-1 tvg-id="Megapix 4K" tvg-name="MEGAPIX 4K" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3360
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://floriu.com/imagem/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
-http://sv1.casaplayer.cf:80/samuel/102030/6531
-#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Metal
-http://sv1.casaplayer.cf:80/samuel/102030/47554
-#EXTINF:-1 tvg-id="" tvg-name="METROPOLETANA FM AO VIVO" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",METROPOLETANA FM AO VIVO
-http://sv1.casaplayer.cf:80/samuel/102030/47555
-#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",MPB
-http://sv1.casaplayer.cf:80/samuel/102030/47556
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV
-http://sv1.casaplayer.cf:80/samuel/102030/5085
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6206
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://floriu.com/imagem/mtv.png" group-title="MUSICAS E VARIEDADE",MTV HD
-http://sv1.casaplayer.cf:80/samuel/102030/3793
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE HD" tvg-logo="http://floriu.com/imagem/mtvlive.png" group-title="MUSICAS E VARIEDADE",MTV LIVE HD
-http://sv1.casaplayer.cf:80/samuel/102030/6934
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",Multishow
-http://sv1.casaplayer.cf:80/samuel/102030/3579
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW 4K" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3363
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://floriu.com/imagem/Multishow.png" group-title="MUSICAS E VARIEDADE",MULTISHOW HD
-http://sv1.casaplayer.cf:80/samuel/102030/3578
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://floriu.com/imagem/musicboxbr.png" group-title="MUSICAS E VARIEDADE",MUSIC BOX BRAZIL
-http://sv1.casaplayer.cf:80/samuel/102030/18861
-#EXTINF:-1 tvg-id="" tvg-name="Música Clássica" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Música Clássica
-http://sv1.casaplayer.cf:80/samuel/102030/47557
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4k" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",NATGEO 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18864
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NatGeo Kids
-http://sv1.casaplayer.cf:80/samuel/102030/3575
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS 4K" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NATGEO KIDS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6216
-#EXTINF:-1 tvg-id="NatGeo Kids HD" tvg-name="NATGEO KIDS HD" tvg-logo="http://floriu.com/imagem/NatgeoKids.png" group-title="INFANTIS",NATGEO KIDS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3574
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NatGeo Wild
-http://sv1.casaplayer.cf:80/samuel/102030/3573
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD 4K" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3366
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://floriu.com/imagem/natgeowild.png" group-title="DOCUMENTARIO",NATGEO WILD HD
-http://sv1.casaplayer.cf:80/samuel/102030/3572
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic" tvg-logo="floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",National Geographic
-http://sv1.casaplayer.cf:80/samuel/102030/3571
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://floriu.com/imagem/nacionalgeo.png" group-title="DOCUMENTARIO",National Geographic HD
-http://sv1.casaplayer.cf:80/samuel/102030/3367
-#EXTINF:-1 tvg-id="" tvg-name="NEW ROCK" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",NEW ROCK
-http://sv1.casaplayer.cf:80/samuel/102030/47558
-#EXTINF:-1 tvg-id="Nick Jr [Alter]" tvg-name="Nick Jr" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",Nick Jr
-http://sv1.casaplayer.cf:80/samuel/102030/3567
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICK JR 4K" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3368
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="NICK JR HD" tvg-logo="http://floriu.com/imagem/Nick_Jr._HD.png" group-title="INFANTIS",NICK JR HD
-http://sv1.casaplayer.cf:80/samuel/102030/3566
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",Nickelodeon
-http://sv1.casaplayer.cf:80/samuel/102030/3565
-#EXTINF:-1 tvg-id="Nickelodeon FHD" tvg-name="NICKELODEON 4k" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18886
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="http://floriu.com/imagem/Nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
-http://sv1.casaplayer.cf:80/samuel/102030/3564
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="NOVO TEMPO" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO
-http://sv1.casaplayer.cf:80/samuel/102030/3763
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF
-http://sv1.casaplayer.cf:80/samuel/102030/3563
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://floriu.com/imagem/off.png" group-title="MUSICAS E VARIEDADE",OFF HD
-http://sv1.casaplayer.cf:80/samuel/102030/3562
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",OS FLINTSTONES 24hs
-http://sv1.casaplayer.cf:80/samuel/102030/27217
-#EXTINF:-1 tvg-id="" tvg-name="PAGODE" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",PAGODE
-http://sv1.casaplayer.cf:80/samuel/102030/47559
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="PAI ETERNO" tvg-logo="http://floriu.com/imagem/paieterno.png" group-title="RELIGIOSOS",PAI ETERNO
-http://sv1.casaplayer.cf:80/samuel/102030/6551
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",Paramount
-http://sv1.casaplayer.cf:80/samuel/102030/3561
-#EXTINF:-1 tvg-id="Paramount" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://floriu.com/imagem/paramouth.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3369
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/250px-Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
-http://sv1.casaplayer.cf:80/samuel/102030/3560
-#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",Pegadinhas
-http://sv1.casaplayer.cf:80/samuel/102030/27218
-#EXTINF:-1 tvg-id="Playboy TV" tvg-name="Playboy TV" tvg-logo="floriu.com/imagem/playboy.png" group-title="XX + 18 XX",Playboy TV
-http://sv1.casaplayer.cf:80/samuel/102030/3720
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAYTV" tvg-logo="http://floriu.com/imagem/playtv.jpg" group-title="MUSICAS E VARIEDADE",PLAYTV
-http://sv1.casaplayer.cf:80/samuel/102030/6248
-#EXTINF:-1 tvg-id="" tvg-name="Policia 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24 HORAS",Policia 24h
-http://sv1.casaplayer.cf:80/samuel/102030/27219
-#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Pop Hits
-http://sv1.casaplayer.cf:80/samuel/102030/47560
-#EXTINF:-1 tvg-id="" tvg-name="POP ROCK" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",POP ROCK
-http://sv1.casaplayer.cf:80/samuel/102030/47561
-#EXTINF:-1 tvg-id="Powercouple.br" tvg-name="Power Couple Brasil 2021 - 01" tvg-logo="http://sv1.casap2p.cf:80/images/63e411639331180186421ae97937c4db.png" group-title="REALITY SHOW",Power Couple Brasil 2021 - 01
-http://sv1.casaplayer.cf:80/samuel/102030/47592
-#EXTINF:-1 tvg-id="Powercouple.br" tvg-name="Power Couple Brasil 2021 - 02" tvg-logo="http://sv1.casap2p.cf:80/images/63e411639331180186421ae97937c4db.png" group-title="REALITY SHOW",Power Couple Brasil 2021 - 02
-http://sv1.casaplayer.cf:80/samuel/102030/47591
-#EXTINF:-1 tvg-id="Powercouple.br" tvg-name="Power Couple Brasil 2021 - 03" tvg-logo="http://sv1.casap2p.cf:80/images/63e411639331180186421ae97937c4db.png" group-title="REALITY SHOW",Power Couple Brasil 2021 - 03
-http://sv1.casaplayer.cf:80/samuel/102030/47589
-#EXTINF:-1 tvg-id="Powercouple.br" tvg-name="Power Couple Brasil HD" tvg-logo="http://sv1.casap2p.cf:80/images/bf21cffb5311caf26fb2e3c26010c557.jpg" group-title="REALITY SHOW",Power Couple Brasil HD
-http://sv1.casaplayer.cf:80/samuel/102030/46949
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2
-http://sv1.casaplayer.cf:80/samuel/102030/4059
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://floriu.com/imagem/premiere2.jpg" group-title="PREMIERE",PREMIERE 2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/4053
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3
-http://sv1.casaplayer.cf:80/samuel/102030/4060
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://floriu.com/imagem/premiere3.jpg" group-title="PREMIERE",PREMIERE 3 HD
-http://sv1.casaplayer.cf:80/samuel/102030/4054
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4
-http://sv1.casaplayer.cf:80/samuel/102030/4061
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://floriu.com/imagem/premiere4.jpg" group-title="PREMIERE",PREMIERE 4 HD
-http://sv1.casaplayer.cf:80/samuel/102030/4055
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PREMIERE 5" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5
-http://sv1.casaplayer.cf:80/samuel/102030/4062
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://floriu.com/imagem/premiere5.png" group-title="PREMIERE",PREMIERE 5 HD
-http://sv1.casaplayer.cf:80/samuel/102030/6563
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6
-http://sv1.casaplayer.cf:80/samuel/102030/4063
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://floriu.com/imagem/premiere6.jpg" group-title="PREMIERE",PREMIERE 6 HD
-http://sv1.casaplayer.cf:80/samuel/102030/6565
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7
-http://sv1.casaplayer.cf:80/samuel/102030/4064
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://floriu.com/imagem/premiere7.jpg" group-title="PREMIERE",PREMIERE 7 HD
-http://sv1.casaplayer.cf:80/samuel/102030/6567
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8" tvg-logo="http://floriu.com/imagem/premiere8.jpg" group-title="PREMIERE",PREMIERE 8
-http://sv1.casaplayer.cf:80/samuel/102030/6569
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",Premiere Clubes
-http://sv1.casaplayer.cf:80/samuel/102030/3538
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3375
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES HD
-http://sv1.casaplayer.cf:80/samuel/102030/19381
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD ( Alternativo )" tvg-logo="http://floriu.com/imagem/premiere.jpg" group-title="PREMIERE",PREMIERE CLUBES HD ( Alternativo )
-http://sv1.casaplayer.cf:80/samuel/102030/47593
-#EXTINF:-1 tvg-id="" tvg-name="radio Infaltil Historinhas" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",radio Infaltil Historinhas
-http://sv1.casaplayer.cf:80/samuel/102030/47552
-#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rap Nacional
-http://sv1.casaplayer.cf:80/samuel/102030/47562
-#EXTINF:-1 tvg-id="" tvg-name="RAP NACIONAL 2" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",RAP NACIONAL 2
-http://sv1.casaplayer.cf:80/samuel/102030/47563
-#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="Record  Itapoan HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record  Itapoan HD
-http://sv1.casaplayer.cf:80/samuel/102030/23812
-#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BA" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD BA
-http://sv1.casaplayer.cf:80/samuel/102030/23814
-#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BA HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD BA HD
-http://sv1.casaplayer.cf:80/samuel/102030/23813
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record Campinas" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Campinas
-http://sv1.casaplayer.cf:80/samuel/102030/23816
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record Campinas HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Campinas HD
-http://sv1.casaplayer.cf:80/samuel/102030/23815
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goias (Goiania)" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Goias (Goiania)
-http://sv1.casaplayer.cf:80/samuel/102030/23828
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goias (TV Sucesso-Jatai-go)" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Goias (TV Sucesso-Jatai-go)
-http://sv1.casaplayer.cf:80/samuel/102030/23819
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goias SD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record Goias SD
-http://sv1.casaplayer.cf:80/samuel/102030/23818
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record HD
-http://sv1.casaplayer.cf:80/samuel/102030/23820
-#EXTINF:-1 tvg-id="Record MG HD [Alter]" tvg-name="RECORD MINAS HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD MINAS HD
-http://sv1.casaplayer.cf:80/samuel/102030/6299
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",Record News
-http://sv1.casaplayer.cf:80/samuel/102030/3527
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS 4K" tvg-logo="http://floriu.com/imagem/recordnews.png" group-title="NOTICIAS",RECORD NEWS 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3377
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordnewss.png" group-title="NOTICIAS",RECORD NEWS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3526
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record PA" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record PA
-http://sv1.casaplayer.cf:80/samuel/102030/23826
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD PA HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD PA HD
-http://sv1.casaplayer.cf:80/samuel/102030/23825
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record RJ
-http://sv1.casaplayer.cf:80/samuel/102030/23824
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record RJ HD
-http://sv1.casaplayer.cf:80/samuel/102030/23823
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="CANAIS ABERTOS",RECORD RS HD
-http://sv1.casaplayer.cf:80/samuel/102030/35050
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD" tvg-logo="http://jrlook.fun:80/Floriu/Fontetoop/81" group-title="CANAIS ABERTOS",RECORD RS SD
-http://sv1.casaplayer.cf:80/samuel/102030/35051
-#EXTINF:-1 tvg-id="Record SP FHD H.265" tvg-name="Record SP" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",Record SP
-http://sv1.casaplayer.cf:80/samuel/102030/3522
-#EXTINF:-1 tvg-id="Record SP HD [Alter]" tvg-name="Record SP 4K" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record SP 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6292
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",RECORD SP HD
-http://sv1.casaplayer.cf:80/samuel/102030/3523
-#EXTINF:-1 tvg-id="Record" tvg-name="RECORD TV VITORIA" tvg-logo="http://iptvclub.com.br/iptvhd-capas/recordtv.png" group-title="RECORD",RECORD TV VITORIA
-http://sv1.casaplayer.cf:80/samuel/102030/7090
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV Vitoria" tvg-logo="http://floriu.com/imagem/RECORD.png" group-title="RECORD",Record TV Vitoria
-http://sv1.casaplayer.cf:80/samuel/102030/23827
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://floriu.com/imagem/redegospel.jpg" group-title="RELIGIOSOS",REDE GOSPEL
-http://sv1.casaplayer.cf:80/samuel/102030/18944
-#EXTINF:-1 tvg-id="Rede Minas" tvg-name="REDE MINAS" tvg-logo="http://floriu.com/imagem/redeminas.png" group-title="CANAIS ABERTOS",REDE MINAS
-http://sv1.casaplayer.cf:80/samuel/102030/18096
-#EXTINF:-1 tvg-id="Rede Século 21" tvg-name="Rede Século 21" tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="CANAIS ABERTOS",Rede Século 21
-http://sv1.casaplayer.cf:80/samuel/102030/17788
-#EXTINF:-1 tvg-id="Rede TV 4K" tvg-name="Rede TV" tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",Rede TV
-http://sv1.casaplayer.cf:80/samuel/102030/3520
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="CANAIS ABERTOS",Rede TV
-http://sv1.casaplayer.cf:80/samuel/102030/17741
-#EXTINF:-1 tvg-id="Rede TV [Alter]" tvg-name="Rede TV! Tocantins" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS ABERTOS",Rede TV! Tocantins
-http://sv1.casaplayer.cf:80/samuel/102030/17742
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="http://floriu.com/imagem/redevida.png" group-title="RELIGIOSOS",Rede Vida
-http://sv1.casaplayer.cf:80/samuel/102030/3518
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA HD" tvg-logo="http://floriu.com/imagem/redevida.png" group-title="RELIGIOSOS",REDE VIDA HD
-http://sv1.casaplayer.cf:80/samuel/102030/6583
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDETV 4k" tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",REDETV 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18950
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDETV HD " tvg-logo="http://floriu.com/imagem/redetv.png" group-title="CANAIS ABERTOS",REDETV HD 
-http://sv1.casaplayer.cf:80/samuel/102030/18952
-#EXTINF:-1 tvg-id="" tvg-name="REGGAE" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",REGGAE
-http://sv1.casaplayer.cf:80/samuel/102030/47564
-#EXTINF:-1 tvg-id="" tvg-name="ROCK CLASSICO" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",ROCK CLASSICO
-http://sv1.casaplayer.cf:80/samuel/102030/47565
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO ATLÂNTIDA FM" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",RÁDIO ATLÂNTIDA FM
-http://sv1.casaplayer.cf:80/samuel/102030/47566
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Folk" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Folk
-http://sv1.casaplayer.cf:80/samuel/102030/47567
-#EXTINF:-1 tvg-id="" tvg-name="Rádio J-Pop" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio J-Pop
-http://sv1.casaplayer.cf:80/samuel/102030/47568
-#EXTINF:-1 tvg-id="" tvg-name="Rádio K-Pop" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio K-Pop
-http://sv1.casaplayer.cf:80/samuel/102030/47569
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Latina" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Latina
-http://sv1.casaplayer.cf:80/samuel/102030/47570
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Pop Nacional" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Pop Nacional
-http://sv1.casaplayer.cf:80/samuel/102030/47571
-#EXTINF:-1 tvg-id="" tvg-name="Rádio R&B" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio R&B
-http://sv1.casaplayer.cf:80/samuel/102030/47572
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Rock" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Rock
-http://sv1.casaplayer.cf:80/samuel/102030/47573
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Românticas" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Românticas
-http://sv1.casaplayer.cf:80/samuel/102030/47574
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Sertanejo Romântico" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Rádio Sertanejo Romântico
-http://sv1.casaplayer.cf:80/samuel/102030/47575
-#EXTINF:-1 tvg-id="" tvg-name="RÁDIO TRANSAMERICA FM" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",RÁDIO TRANSAMERICA FM
-http://sv1.casaplayer.cf:80/samuel/102030/47576
-#EXTINF:-1 tvg-id="SBT Rio" tvg-name="SBT RIO HD" tvg-logo="http://floriu.com/imagem/SBT.jpg" group-title="CANAIS ABERTOS",SBT RIO HD
-http://sv1.casaplayer.cf:80/samuel/102030/16334
-#EXTINF:-1 tvg-id="SBT Central" tvg-name="SBT SP" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP
-http://sv1.casaplayer.cf:80/samuel/102030/3515
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SBT SP 4k" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP 4k
-http://sv1.casaplayer.cf:80/samuel/102030/18956
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://sv1.casaplayer.cf:80/samuel/102030/3513
-#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",SERTANEJO
-http://sv1.casaplayer.cf:80/samuel/102030/47577
-#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO RAIZES" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",SERTANEJO RAIZES
-http://sv1.casaplayer.cf:80/samuel/102030/47578
-#EXTINF:-1 tvg-id="" tvg-name="SMOOTH JAZZ" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",SMOOTH JAZZ
-http://sv1.casaplayer.cf:80/samuel/102030/47579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",Space
-http://sv1.casaplayer.cf:80/samuel/102030/3511
-#EXTINF:-1 tvg-id="Space 4K" tvg-name="SPACE 4K" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3381
-#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://floriu.com/imagem/space.png" group-title="FILMES E SERIES",SPACE HD
-http://sv1.casaplayer.cf:80/samuel/102030/3510
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SporTV
-http://sv1.casaplayer.cf:80/samuel/102030/27922
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SporTV 2
-http://sv1.casaplayer.cf:80/samuel/102030/3508
-#EXTINF:-1 tvg-id="SporTV 2 [Alter]" tvg-name="SPORTV 2 4K" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3382
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://floriu.com/imagem/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3507
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SporTV 3
-http://sv1.casaplayer.cf:80/samuel/102030/3506
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 4K" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3383
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://floriu.com/imagem/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3505
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV 4K
-http://sv1.casaplayer.cf:80/samuel/102030/46536
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://floriu.com/imagem/sportv.png" group-title="ESPORTE",SPORTV HD
-http://sv1.casaplayer.cf:80/samuel/102030/46723
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO DO AMOR" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",STUDIO DO AMOR
-http://sv1.casaplayer.cf:80/samuel/102030/47580
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal
-http://sv1.casaplayer.cf:80/samuel/102030/3502
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://iptvclub.com.br/iptvhd-capas/studiouni.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3385
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://floriu.com/imagem/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3501
-#EXTINF:-1 tvg-id="" tvg-name="SUPER SOM fm" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",SUPER SOM fm
-http://sv1.casaplayer.cf:80/samuel/102030/47581
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",Syfy
-http://sv1.casaplayer.cf:80/samuel/102030/3500
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY 4K" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3386
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://floriu.com/imagem/syfy.png" group-title="FILMES E SERIES",SYFY HD
-http://sv1.casaplayer.cf:80/samuel/102030/3499
-#EXTINF:-1 tvg-id="TBS HD [Alter]" tvg-name="TBS" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS
-http://sv1.casaplayer.cf:80/samuel/102030/3498
-#EXTINF:-1 tvg-id="TBS HD [Alter]" tvg-name="TBS HD" tvg-logo="http://floriu.com/imagem/tbs.png" group-title="FILMES E SERIES",TBS HD
-http://sv1.casaplayer.cf:80/samuel/102030/3497
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM
-http://sv1.casaplayer.cf:80/samuel/102030/3496
-#EXTINF:-1 tvg-id="TCM HD [Alter]" tvg-name="TCM HD" tvg-logo="http://floriu.com/imagem/tcm.png" group-title="FILMES E SERIES",TCM HD
-http://sv1.casaplayer.cf:80/samuel/102030/3495
-#EXTINF:-1 tvg-id="" tvg-name="TECHNO" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",TECHNO
-http://sv1.casaplayer.cf:80/samuel/102030/47582
-#EXTINF:-1 tvg-id="" tvg-name="TECNO BREGA" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",TECNO BREGA
-http://sv1.casaplayer.cf:80/samuel/102030/47583
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION
-http://sv1.casaplayer.cf:80/samuel/102030/4021
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3387
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://floriu.com/imagem/tcaction.png" group-title="REDE TELECINE",TELECINE ACTION HD
-http://sv1.casaplayer.cf:80/samuel/102030/4027
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT
-http://sv1.casaplayer.cf:80/samuel/102030/4022
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="TELECINE CULT 4K" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3388
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TELECINE CULT HD" tvg-logo="http://floriu.com/imagem/tccult.png" group-title="REDE TELECINE",TELECINE CULT HD
-http://sv1.casaplayer.cf:80/samuel/102030/4028
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN
-http://sv1.casaplayer.cf:80/samuel/102030/4023
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN 4K" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3389
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="TELECINE FUN HD" tvg-logo="http://floriu.com/imagem/tcfun.png" group-title="REDE TELECINE",TELECINE FUN HD
-http://sv1.casaplayer.cf:80/samuel/102030/4029
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TELECINE PIPOCA" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA
-http://sv1.casaplayer.cf:80/samuel/102030/4024
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3390
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://floriu.com/imagem/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
-http://sv1.casaplayer.cf:80/samuel/102030/4030
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM
-http://sv1.casaplayer.cf:80/samuel/102030/4025
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3391
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://floriu.com/capasfilmes/tcpremium.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
-http://sv1.casaplayer.cf:80/samuel/102030/4031
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH
-http://sv1.casaplayer.cf:80/samuel/102030/4026
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3392
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="TELECINE TOUCH HD" tvg-logo="http://floriu.com/capasfilmes/tctouch.png" group-title="REDE TELECINE",TELECINE TOUCH HD
-http://sv1.casaplayer.cf:80/samuel/102030/4032
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K¹" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT 4K¹
-http://sv1.casaplayer.cf:80/samuel/102030/46717
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD¹" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT HD¹
-http://sv1.casaplayer.cf:80/samuel/102030/46716
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://sv1.casaplayer.cf:80/samuel/102030/3774
-#EXTINF:-1 tvg-id="TNT Series 4K" tvg-name="TNT SERIES 4K" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3394
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://floriu.com/imagem/tntseries.png" group-title="FILMES E SERIES",TNT SERIES HD
-http://sv1.casaplayer.cf:80/samuel/102030/3802
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT¹" tvg-logo="http://floriu.com/imagem/tnt.png" group-title="TNT SPORT",TNT¹
-http://sv1.casaplayer.cf:80/samuel/102030/46928
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast
-http://sv1.casaplayer.cf:80/samuel/102030/3473
-#EXTINF:-1 tvg-id="Tooncast HD [Alter]" tvg-name="Tooncast HD" tvg-logo="http://floriu.com/imagem/tooncast.png" group-title="INFANTIS",Tooncast HD
-http://sv1.casaplayer.cf:80/samuel/102030/6389
-#EXTINF:-1 tvg-id="" tvg-name="Trilhas Sonoras" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Trilhas Sonoras
-http://sv1.casaplayer.cf:80/samuel/102030/47584
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV" tvg-logo="http://floriu.com/imagem/TRUTV.png" group-title="MUSICAS E VARIEDADE",TRUTV
-http://sv1.casaplayer.cf:80/samuel/102030/6623
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida" tvg-logo="http://floriu.com/imagem/aparecida.png" group-title="RELIGIOSOS",TV Aparecida
-http://sv1.casaplayer.cf:80/samuel/102030/6392
-#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS",TV Cultura
-http://sv1.casaplayer.cf:80/samuel/102030/17751
-#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS ABERTOS",TV Câmara
-http://sv1.casaplayer.cf:80/samuel/102030/17806
-#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://floriu.com/imagem/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
-http://sv1.casaplayer.cf:80/samuel/102030/19035
-#EXTINF:-1 tvg-id="TV Ra tim bum HD [Alter]" tvg-name="TV RA TIM BUM HD" tvg-logo="http://floriu.com/imagem/ratimbum.jpg" group-title="INFANTIS",TV RA TIM BUM HD
-http://sv1.casaplayer.cf:80/samuel/102030/19038
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL 4K" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3395
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3714
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://floriu.com/imagem/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
-http://sv1.casaplayer.cf:80/samuel/102030/3713
-#EXTINF:-1 tvg-id="VH1 HD [Alter]" tvg-name="VH1" tvg-logo="http://floriu.com/imagem/vh1.png" group-title="MUSICAS E VARIEDADE",VH1
-http://sv1.casaplayer.cf:80/samuel/102030/3777
-#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://floriu.com/imagem/vh1.png" group-title="MUSICAS E VARIEDADE",VH1 HD
-http://sv1.casaplayer.cf:80/samuel/102030/3712
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",Viva
-http://sv1.casaplayer.cf:80/samuel/102030/3710
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA 4K" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA 4K
-http://sv1.casaplayer.cf:80/samuel/102030/3396
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://floriu.com/imagem/viva.png" group-title="MUSICAS E VARIEDADE",VIVA HD
-http://sv1.casaplayer.cf:80/samuel/102030/3709
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",Warner Channel
-http://sv1.casaplayer.cf:80/samuel/102030/3708
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-http://sv1.casaplayer.cf:80/samuel/102030/6407
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://floriu.com/imagem/WARNERCHANNEL.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
-http://sv1.casaplayer.cf:80/samuel/102030/3707
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO
-http://sv1.casaplayer.cf:80/samuel/102030/6641
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="http://floriu.com/imagem/WOOHOO.png" group-title="MUSICAS E VARIEDADE",WOOHOO HD
-http://sv1.casaplayer.cf:80/samuel/102030/6640
-#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="XXX - Sextreme " tvg-logo="http://floriu.com/imagem/sextreme.png" group-title="XX + 18 XX",XXX - Sextreme 
-http://sv1.casaplayer.cf:80/samuel/102030/4962
-#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="XXX - Sexy Hot" tvg-logo="http://floriu.com/imagem/sexyhot.jpg" group-title="XX + 18 XX",XXX - Sexy Hot
-http://sv1.casaplayer.cf:80/samuel/102030/4965
-#EXTINF:-1 tvg-id="Venus" tvg-name="XXX - Venus SD" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",XXX - Venus SD
-http://sv1.casaplayer.cf:80/samuel/102030/4968
-#EXTINF:-1 tvg-id="" tvg-name="XXX Big Dick" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Big Dick
-http://sv1.casaplayer.cf:80/samuel/102030/42548
-#EXTINF:-1 tvg-id="" tvg-name="XXX Big Tits" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Big Tits
-http://sv1.casaplayer.cf:80/samuel/102030/42549
-#EXTINF:-1 tvg-id="" tvg-name="XXX Blowjob" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Blowjob
-http://sv1.casaplayer.cf:80/samuel/102030/42550
-#EXTINF:-1 tvg-id="" tvg-name="Xxx Clubhot" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx Clubhot
-http://sv1.casaplayer.cf:80/samuel/102030/19076
-#EXTINF:-1 tvg-id="" tvg-name="XXX Cuckold" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Cuckold
-http://sv1.casaplayer.cf:80/samuel/102030/42551
-#EXTINF:-1 tvg-id="" tvg-name="XXX Fetish" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Fetish
-http://sv1.casaplayer.cf:80/samuel/102030/42552
-#EXTINF:-1 tvg-id="" tvg-name="XXX Hardcore" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Hardcore
-http://sv1.casaplayer.cf:80/samuel/102030/42553
-#EXTINF:-1 tvg-id="" tvg-name="XXX Interracial" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Interracial
-http://sv1.casaplayer.cf:80/samuel/102030/42554
-#EXTINF:-1 tvg-id="" tvg-name="XXX Latina" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Latina
-http://sv1.casaplayer.cf:80/samuel/102030/42555
-#EXTINF:-1 tvg-id="" tvg-name="Xxx Lovenight SD" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx Lovenight SD
-http://sv1.casaplayer.cf:80/samuel/102030/19078
-#EXTINF:-1 tvg-id="" tvg-name="XXX MILF" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX MILF
-http://sv1.casaplayer.cf:80/samuel/102030/42556
-#EXTINF:-1 tvg-id="" tvg-name="Xxx Pornhub SD" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx Pornhub SD
-http://sv1.casaplayer.cf:80/samuel/102030/19077
-#EXTINF:-1 tvg-id="" tvg-name="XXX Pornstar" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX Pornstar
-http://sv1.casaplayer.cf:80/samuel/102030/42557
-#EXTINF:-1 tvg-id="" tvg-name="XXX POV" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX POV
-http://sv1.casaplayer.cf:80/samuel/102030/42558
-#EXTINF:-1 tvg-id="" tvg-name="XXX Teen" tvg-logo="http://sv1.maincasa.cf:80/images/44c2bcb5c2431baaa582d53fb8a73f96.png" group-title="XX + 18 XX",XXX Teen
-http://sv1.casaplayer.cf:80/samuel/102030/42559
-#EXTINF:-1 tvg-id="" tvg-name="XXX TRANS 1" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX TRANS 1
-http://sv1.casaplayer.cf:80/samuel/102030/42560
-#EXTINF:-1 tvg-id="" tvg-name="XXX TRANS 2" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX TRANS 2
-http://sv1.casaplayer.cf:80/samuel/102030/42561
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="xxx- VENUS#" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx- VENUS#
-http://sv1.casaplayer.cf:80/samuel/102030/42562
-#EXTINF:-1 tvg-id="" tvg-name="xxx-Jasmin.TV" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-Jasmin.TV
-http://sv1.casaplayer.cf:80/samuel/102030/42563
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="xxx-PLAYBOY TV#" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-PLAYBOY TV#
-http://sv1.casaplayer.cf:80/samuel/102030/42564
-#EXTINF:-1 tvg-id="" tvg-name="xxx-REDISEX" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-REDISEX
-http://sv1.casaplayer.cf:80/samuel/102030/42569
-#EXTINF:-1 tvg-id="" tvg-name="xxx-SEXTREME#" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-SEXTREME#
-http://sv1.casaplayer.cf:80/samuel/102030/42565
-#EXTINF:-1 tvg-id="" tvg-name="xxx-SEXY HOT" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-SEXY HOT
-http://sv1.casaplayer.cf:80/samuel/102030/42567
-#EXTINF:-1 tvg-id="" tvg-name="xxx-SEXY#" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",xxx-SEXY#
-http://sv1.casaplayer.cf:80/samuel/102030/42566
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: BRAZZERS
-http://sv1.casaplayer.cf:80/samuel/102030/42568
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL TV HD" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: DORCEL TV HD
-http://sv1.casaplayer.cf:80/samuel/102030/42574
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",XXX: EROTIC
-http://sv1.casaplayer.cf:80/samuel/102030/7128
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOTCLUB 1" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: HOTCLUB 1
-http://sv1.casaplayer.cf:80/samuel/102030/42572
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOTCLUB 2" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: HOTCLUB 2
-http://sv1.casaplayer.cf:80/samuel/102030/42573
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: HUSTLER TV
-http://sv1.casaplayer.cf:80/samuel/102030/42575
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN.TV" tvg-logo="http://floriu.com/imagem/jasmintv.jpg" group-title="XX + 18 XX",XXX: JASMIN.TV
-http://sv1.casaplayer.cf:80/samuel/102030/7132
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Jasmin.tv" tvg-logo="" group-title="XX + 18 XX",Xxx: Jasmin.tv
-http://sv1.casaplayer.cf:80/samuel/102030/19084
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 1" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 1
-http://sv1.casaplayer.cf:80/samuel/102030/19096
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 11" tvg-logo="floriu.com/imagem/HBOXTREME.png" group-title="XX + 18 XX",Xxx: Ondemand 11
-http://sv1.casaplayer.cf:80/samuel/102030/19088
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 12" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 12
-http://sv1.casaplayer.cf:80/samuel/102030/19105
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 15" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 15
-http://sv1.casaplayer.cf:80/samuel/102030/19090
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 16" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 16
-http://sv1.casaplayer.cf:80/samuel/102030/19091
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 18" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 18
-http://sv1.casaplayer.cf:80/samuel/102030/19108
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 19" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 19
-http://sv1.casaplayer.cf:80/samuel/102030/19092
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 20" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 20
-http://sv1.casaplayer.cf:80/samuel/102030/19093
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 21" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 21
-http://sv1.casaplayer.cf:80/samuel/102030/19094
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 22" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 22
-http://sv1.casaplayer.cf:80/samuel/102030/19095
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 23" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 23
-http://sv1.casaplayer.cf:80/samuel/102030/19109
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 24" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 24
-http://sv1.casaplayer.cf:80/samuel/102030/19110
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 3" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 3
-http://sv1.casaplayer.cf:80/samuel/102030/19098
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 4" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 4
-http://sv1.casaplayer.cf:80/samuel/102030/19099
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 5" tvg-logo="floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 5
-http://sv1.casaplayer.cf:80/samuel/102030/19100
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 6" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 6
-http://sv1.casaplayer.cf:80/samuel/102030/19101
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 7" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 7
-http://sv1.casaplayer.cf:80/samuel/102030/19102
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 8" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 8
-http://sv1.casaplayer.cf:80/samuel/102030/19103
-#EXTINF:-1 tvg-id="" tvg-name="Xxx: Ondemand 9" tvg-logo="http://floriu.com/imagem/adultos.jpg" group-title="XX + 18 XX",Xxx: Ondemand 9
-http://sv1.casaplayer.cf:80/samuel/102030/19104
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TINY" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="XX + 18 XX",XXX: TINY
-http://sv1.casaplayer.cf:80/samuel/102030/42571
-#EXTINF:-1 tvg-id="" tvg-name="Young Money" tvg-logo="https://sites.dourahost.com.br/views/site-cliente/img/imagens_rotativas/02af39c62d1f4a40da1d143df08db5eb.gif" group-title="RADIO",Young Money
-http://sv1.casaplayer.cf:80/samuel/102030/47585
-#EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="Zoomoo HD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo HD
-http://sv1.casaplayer.cf:80/samuel/102030/4969
-#EXTINF:-1 tvg-id="Zoomoo [Alter]" tvg-name="Zoomoo SD" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="INFANTIS",Zoomoo SD
-http://sv1.casaplayer.cf:80/samuel/102030/4970
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178424
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178425
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178426
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178427
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TELECINE ACTION FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178428
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="CANAIS TELECINES",TC ACTION FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178429
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178430
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178431
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178432
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178433
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TELECINE CULT FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178434
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="CANAIS TELECINES",TC CULT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178435
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178436
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178437
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178438
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178439
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TELECINE FUN FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178440
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x512.jpg.pagespeed.ic.sLKeu3UKjl.webp" group-title="CANAIS TELECINES",TC FUN FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178441
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178442
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178443
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178444
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178445
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TELECINE PIPOCA FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178446
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="CANAIS TELECINES",TC PIPOCA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178447
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178448
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178449
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178450
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178451
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TELECINE PREMIUM FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178452
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="CANAIS TELECINES",TC PREMIUM FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178453
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178454
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178455
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178456
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178457
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TELECINE TOUCH FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178458
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD ALT" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="CANAIS TELECINES",TC TOUCH FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178459
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178460
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178461
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178462
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178463
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178464
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178465
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178466
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178467
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178468
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178469
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178470
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178471
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178472
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178473
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178474
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178475
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178476
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178477
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178478
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178479
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178480
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178481
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryturbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178482
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178483
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178484
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178485
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178486
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178487
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178488
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178489
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178490
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178491
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178492
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178493
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178494
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178495
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178496
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178497
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178498
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES ",A&E SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178499
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES ",A&E HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178500
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES ",A&E FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178501
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES ",AMC SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178502
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES ",AMC HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178503
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES ",AMC FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178504
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178505
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178506
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178507
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178508
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178509
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES ",AXN FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178510
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="FILMES ",ARTE 1 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178511
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="FILMES ",ARTE 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178512
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="FILMES ",ARTE 1 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178513
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="FILMES ",ARTE 1 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178514
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES ",CINEMAX SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178515
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES ",CINEMAX HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178516
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES ",CINEMAX HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178517
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES ",CINEMAX FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178518
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES ",CINEMAX FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178519
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES ",FOX SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178520
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES ",FOX SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178521
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES ",FOX HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178522
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES ",FOX HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178523
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES ",FOX FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178524
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 1 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178525
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178526
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 1 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178527
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 1 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178528
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 1 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178529
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES ",FOX PREMIUM 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178530
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES ",FOX PREMIUM 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178531
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES ",FOX PREMIUM 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178532
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES ",FOX PREMIUM 2 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178533
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES ",FOX PREMIUM 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178534
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178535
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178536
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178537
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178538
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178539
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES ",FX FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178540
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.jpg" group-title="FILMES ",MEGAPIX SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178541
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178542
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178543
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178544
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178545
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES ",MEGAPIX FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178546
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178547
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178548
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178549
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT CHANNEL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178550
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES ",PARAMOUNT CHANNEL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178551
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL SD ALT" tvg-logo="https://img1.gratispng.com/20181115/okv/kisspng-prime-box-brazil-logo-brand-film-5bed434e506ab1.0038946715422759183294.jpg" group-title="FILMES ",PRIME BOX BRASIL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178552
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL HD ALT" tvg-logo="https://img1.gratispng.com/20181115/okv/kisspng-prime-box-brazil-logo-brand-film-5bed434e506ab1.0038946715422759183294.jpg" group-title="FILMES ",PRIME BOX BRASIL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178553
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL FHD ALT" tvg-logo="https://img1.gratispng.com/20181115/okv/kisspng-prime-box-brazil-logo-brand-film-5bed434e506ab1.0038946715422759183294.jpg" group-title="FILMES ",PRIME BOX BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178554
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178555
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178556
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178557
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178558
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178559
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES ",SPACE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178560
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="STUDIO UNIVERSAL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",STUDIO UNIVERSAL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178561
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",STUDIO UNIVERSAL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178562
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",STUDIO UNIVERSAL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178563
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="STUDIO UNIVERSAL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",STUDIO UNIVERSAL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178564
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD ALT" tvg-logo="https://img2.gratispng.com/20180421/uxq/kisspng-sony-vaio-logo-cdr-metallic-vector-5adace5c8dd702.669430881524289116581.jpg" group-title="FILMES ",SONY SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178565
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD ALT" tvg-logo="https://img2.gratispng.com/20180421/uxq/kisspng-sony-vaio-logo-cdr-metallic-vector-5adace5c8dd702.669430881524289116581.jpg" group-title="FILMES ",SONY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178566
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD ALT" tvg-logo="https://img2.gratispng.com/20180421/uxq/kisspng-sony-vaio-logo-cdr-metallic-vector-5adace5c8dd702.669430881524289116581.jpg" group-title="FILMES ",SONY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178567
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES ",SYFY SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178568
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES ",SYFY SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178569
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES ",SYFY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178570
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES ",SYFY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178571
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES ",SYFY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178572
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="FILMES ",TBS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178573
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="FILMES ",TBS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178574
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="FILMES ",TBS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178575
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="FILMES ",TCM SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178576
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="FILMES ",TCM SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178577
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="FILMES ",TCM HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178578
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="FILMES ",TCM FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178579
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="FILMES ",TLC SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178580
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="FILMES ",TLC HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178581
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="FILMES ",TLC FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178582
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178583
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178584
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178585
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178586
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178587
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES ",TNT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178588
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES ",TNT SÉRIES SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178589
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES ",TNT SERIES SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178590
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES ",TNT SÉRIES HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178591
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES ",TNT SERIES HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178592
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES ",TNT SERIES FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178593
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",UNIVERSAL TV SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178594
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="FILMES ",UNIVERSAL CHANNEL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178595
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="FILMES ",UNIVERSAL TV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178596
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="FILMES ",UNIVERSAL CHANNEL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178597
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD ALT" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet.png" group-title="FILMES ",UNIVERSAL CHANNEL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178598
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES ",WARNER CHANNEL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178599
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES ",WARNER CHANNEL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178600
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES ",WARNER CHANNEL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178601
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES ",WARNER CHANNEL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178602
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES ",WARNER CHANNEL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178603
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE ",BAND SPORTS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178604
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE ",BAND SPORTS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178605
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE ",BAND SPORTS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178606
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE ",BAND SPORTS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178607
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE ",BAND SPORTS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178608
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178609
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178610
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178611
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178612
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178613
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE ",COMBATE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178614
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://reports.exodus-privacy.eu.org/reports/13215/icon" group-title="ESPORTE ",DAZN SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178615
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://reports.exodus-privacy.eu.org/reports/13215/icon" group-title="ESPORTE ",DAZN 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178616
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE ",SPORTV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178653
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE ",SPORTV HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178655
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE ",SPORTV FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178657
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178658
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178659
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178660
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178661
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178662
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE ",SPORTV 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178663
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178664
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178665
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178666
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178667
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE ",SPORTV 3 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178668
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178669
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178670
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178671
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178672
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178673
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="DOCUMENTÁRIO ",ANIMAL PLANET FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178674
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIO ",HGTV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178675
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIO ",HGTV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178676
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIO ",HGTV HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178677
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIO ",HGTV FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178678
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178679
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178680
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178681
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178682
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="DOCUMENTÁRIO ",HISTORY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178683
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO ",H2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178684
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO ",H2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178685
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO ",H2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178686
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO ",H2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178687
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="DOCUMENTÁRIO ",H2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178688
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178689
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178690
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178691
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178692
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="DOCUMENTÁRIO ",NATIONAL GEOGRAPHIC FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178693
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIO ",NATGEO WILD SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178694
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIO ",NATGEO WILD SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178695
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIO ",NATGEO WILD HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178696
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIO ",NATGEO WILD HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178697
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="DOCUMENTÁRIO ",NATGEO WILD FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178698
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178699
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178700
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178701
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178702
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178703
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178704
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178705
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178706
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178707
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD ALT." tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD ALT.
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178708
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178709
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178710
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178711
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178712
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178713
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178714
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178715
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178716
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178717
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178718
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178719
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178720
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178721
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178722
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178723
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178724
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178725
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178726
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178727
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178728
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178729
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178730
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178731
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178732
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178733
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178734
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178735
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178736
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178737
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178738
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178739
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178740
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178741
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD ALT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178742
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178743
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD ALT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178744
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178745
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD ALT" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178746
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178747
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178748
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178749
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178750
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178751
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178752
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178753
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178754
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178755
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178756
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178757
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD ALT" tvg-logo="https://banner2.cleanpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="CANAIS HBO",HBO PLUS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178758
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ALT" tvg-logo="https://banner2.cleanpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="CANAIS HBO",HBO PLUS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178759
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD ALT" tvg-logo="https://banner2.cleanpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="CANAIS HBO",HBO PLUS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178760
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178761
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178762
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178763
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178764
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178765
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CANAIS HBO",HBO SIGNATURE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178766
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CANAIS HBO",HBO SIGNATURE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178767
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CANAIS HBO",HBO SIGNATURE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178768
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178769
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="CANAIS HBO",HBO SIGNATURE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178770
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178771
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178772
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178773
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178774
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178775
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178776
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178777
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178778
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178779
+#EXTINF:-1 tvg-id="Redeamazonica.br" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="CANAIS GLOBOS",GLOBO AMAZÔNICA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178780
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA SD ALT" tvg-logo="https://vignette1.wikia.nocookie.net/rede-globo-logopedia-2/images/6/6d/TV_Centro_Am%C3%A9rica.png/revision/latest?cb=20150219150018" group-title="CANAIS GLOBOS",GLOBO CENTRO AMERICA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178781
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA HD ALT" tvg-logo="https://vignette1.wikia.nocookie.net/rede-globo-logopedia-2/images/6/6d/TV_Centro_Am%C3%A9rica.png/revision/latest?cb=20150219150018" group-title="CANAIS GLOBOS",GLOBO CENTRO AMERICA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178782
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA FHD ALT" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvcentroamerica.png" group-title="CANAIS GLOBOS",GLOBO CENTRO AMERICA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178783
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Bahia.jpg" group-title="CANAIS GLOBOS",GLOBO BAHIA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178784
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Bahia.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178785
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Bahia.jpg" group-title="CANAIS GLOBOS",GLOBO BAHIA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178786
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Bahia.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178787
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Bahia.jpg" group-title="CANAIS GLOBOS",GLOBO TV BAHIA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178788
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png" group-title="CANAIS GLOBOS",GLOBO TV BELEM SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178789
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png" group-title="CANAIS GLOBOS",GLOBO TV BELEM HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178790
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png" group-title="CANAIS GLOBOS",GLOBO TV BELEM FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178791
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBOS",GLOBO BRASÍLIA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178792
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO TV BRASILIA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBOS",GLOBO TV BRASILIA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178793
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBOS",GLOBO BRASÍLIA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178794
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBOS",GLOBO BRASILIA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178795
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO TV BRASILIA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="CANAIS GLOBOS",GLOBO TV BRASILIA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178796
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CUAIBÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="CANAIS GLOBOS",GLOBO CUAIBÁ SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178797
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178798
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV CAMPINAS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",Globo EPTV CAMPINAS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178799
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178800
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178801
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV CAMPINAS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178802
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV RIBEIRÃO PRETO SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178803
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV RIBEIRÃO PRETO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178804
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="CANAIS GLOBOS",GLOBO EPTV SÃO CARLOS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178805
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/CETVfull2_400x400" group-title="CANAIS GLOBOS",GLOBO FORTALEZA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178806
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="GLOBO FORTALEZA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/CETVfull2_400x400" group-title="CANAIS GLOBOS",GLOBO FORTALEZA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178807
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/image.png" group-title="CANAIS GLOBOS",GLOBO GOIÂNIA - TV ANHANGUERA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178808
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_InterTV.png" group-title="CANAIS GLOBOS",GLOBO INTER TV CABUGI HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178809
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS GLOBOS",GLOBO MINAS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178810
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS GLOBOS",Globo Minas SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178811
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS GLOBOS",GLOBO MINAS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178812
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS GLOBOS",Globo Minas HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178813
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS GLOBOS",Globo Minas FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178814
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178815
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178816
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178817
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178818
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178819
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="CANAIS GLOBOS",GLOBO NEWS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178820
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178821
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178822
+#EXTINF:-1 tvg-id="Tvmirante.br" tvg-name="GLOBO TV MIRANTE FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="CANAIS GLOBOS",GLOBO TV MIRANTE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178823
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TV_Globo_Nordeste.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178824
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TV_Globo_Nordeste.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178825
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TV_Globo_Nordeste.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178826
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TV_Globo_Nordeste.jpg" group-title="CANAIS GLOBOS",GLOBO NORDESTE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178827
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="CANAIS GLOBOS",GLOBO NSC BLUMENAU HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178828
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="CANAIS GLOBOS",GLOBO NSC JOINVILLE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178829
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="CANAIS GLOBOS",GLOBO NSC TV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178830
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="CANAIS GLOBOS",GLOBO RBS TV POA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178831
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="CANAIS GLOBOS",GLOBO RBS TV POA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178832
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="CANAIS GLOBOS",GLOBO RBS TV POA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178833
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="CANAIS GLOBOS",GLOBO RBS TV FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178834
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="CANAIS GLOBOS",GLOBO RBS TV 4K
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178835
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",GLOBO RJ SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178839
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",Globo RJ SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178840
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",GLOBO RJ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178841
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",Globo RJ HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178842
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",GLOBO RJ FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178843
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="CANAIS GLOBOS",GLOBO RJ FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178844
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rpc.png" group-title="CANAIS GLOBOS",GLOBO RPC CURITIBA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178845
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rpc.png" group-title="CANAIS GLOBOS",GLOBO RPC CURITIBA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178846
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO RPC MARINGÁ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rpc.png" group-title="CANAIS GLOBOS",GLOBO RPC MARINGÁ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178847
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="CANAIS GLOBOS",GLOBO SP SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178848
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="CANAIS GLOBOS",GLOBO SP SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178849
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="CANAIS GLOBOS",GLOBO SP HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178850
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="CANAIS GLOBOS",GLOBO SP HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178851
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="CANAIS GLOBOS",GLOBO SP FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178852
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178853
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178854
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178855
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBOS",GLOBO TV TEM BAURU HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178856
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178857
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178858
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="CANAIS GLOBOS",GLOBO TV MORENA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178859
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBOS",GLOBO TV TEM SJRP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178860
+#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="CANAIS GLOBOS",GLOBO TV TEM SOROCABA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178861
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0.jpg" group-title="CANAIS GLOBOS",GLOBO TV TRIBUNA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178862
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="CANAIS GLOBOS",GLOBO TV VANGUARDA SJC
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178863
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV SUL DE MINAS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178864
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV SUL DE MINAS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178865
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO EPTV SUL DE MINAS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178866
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV CABUGI SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178867
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV GRANDE MINAS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178868
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="GLOBO INTER TV GRANDE MINAS FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO INTER TV GRANDE MINAS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178869
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178870
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178871
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO NSC FLORIANOPOLIS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178872
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO RBS PORTO ALEGRE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178873
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS SD ALT#" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO REDE AMAZONICA MANAUS SD ALT#
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178874
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV CURITIBA SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO RPC TV CURITIBA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178875
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA  SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV ANHANGUERA  SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178876
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA GOIÃNIA SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV ANHANGUERA GOIÃNIA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178877
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL BELEM SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV LIBERAL BELEM SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178878
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV TEM BAURU SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178879
+#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="GLOBO TV TEM SOROCABA SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV TEM SOROCABA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178880
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV TRIBUNA SANTOS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178881
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA SÃO JOSE DOS CAMPOS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV VANGUARDA SÃO JOSE DOS CAMPOS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178882
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178883
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178884
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBO TV VERDES MARES FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178885
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOTV ANHANGUERA HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBOTV ANHANGUERA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178886
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOTV ANHANGUERA FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",GLOBOTV ANHANGUERA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178887
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV DOS VALES SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",INTER TV DOS VALES SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178888
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV DOS VALES FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",INTER TV DOS VALES FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178889
+#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="INTER TV GRANDE MINAS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",INTER TV GRANDE MINAS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178890
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV BLUMENAU SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",NSC TV BLUMENAU SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178891
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV BLUMENAU FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",NSC TV BLUMENAU FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178892
+#EXTINF:-1 tvg-id="TVGazetaal.br" tvg-name="TV GAZETA ALAGOAS SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV GAZETA ALAGOAS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178893
+#EXTINF:-1 tvg-id="TVGazetaal.br" tvg-name="TV GAZETA ALAGOAS FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV GAZETA ALAGOAS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178894
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV GAZETA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178895
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV GAZETA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178896
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SUL SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV GAZETA SUL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178897
+#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="TV RIO SUL SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV RIO SUL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178898
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV SANTA CRUZ SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178899
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV SANTA CRUZ FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178900
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="TV SERGIPE SD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV SERGIPE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178901
+#EXTINF:-1 tvg-id="Tvsergipe.br" tvg-name="TV SERGIPE FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV SERGIPE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178902
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU HD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV TEM BAURU HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178903
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU FHD ALT" tvg-logo="https://img.favpng.com/24/1/21/brazil-rede-globo-logo-globo-com-globo-tv-international-png-favpng-eSaBmiiVVZcefW4td7T7kutEu.jpg" group-title="CANAIS GLOBOS",TV TEM BAURU FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178904
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS ",BAND NEWS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178905
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS ",BAND NEWS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178906
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS ",BAND NEWS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178907
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS ",BAND NEWS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178908
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS ",BAND NEWS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178909
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178910
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178911
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178912
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178913
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178914
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="NOTICIAS ",CNN BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178915
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="NOTICIAS ",CNN ESPANHOL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178916
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD ALT" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/b/b0/CNN_International_%281985%29.png/revision/latest?cb=20131103045710&path-prefix=ru" group-title="NOTICIAS ",CNN INTERNACIONAL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178919
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD ALT" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/b/b0/CNN_International_%281985%29.png/revision/latest?cb=20131103045710&path-prefix=ru" group-title="NOTICIAS ",CNN INTERNACIONAL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178920
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD ALT" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/b/b0/CNN_International_%281985%29.png/revision/latest?cb=20131103045710&path-prefix=ru" group-title="NOTICIAS ",CNN INTERNACIONAL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178921
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD ALT" tvg-logo="https://i0.wp.com/castlemontessori.com/wp-content/uploads/2016/06/fox-news-logo-gray.png?ssl=1" group-title="NOTICIAS ",FOX NEWS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178923
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178925
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178926
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178927
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/2n5ddfj51y_3b09iwqp9r_file" group-title="NOTICIAS ",RECORD NEWS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178928
+#EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178929
+#EXTINF:-1 tvg-id="" tvg-name="BAND SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178930
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178931
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178932
+#EXTINF:-1 tvg-id="" tvg-name="BAND FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS ",BAND FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178933
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178934
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178935
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-17.png" group-title="CANAIS ABERTOS ",CANAL BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178936
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178937
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178938
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",RECORD HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178939
+#EXTINF:-1 tvg-id="" tvg-name="Record FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",Record FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178940
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BH HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD BH HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178941
+#EXTINF:-1 tvg-id="" tvg-name="Record BH HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS ABERTOS ",Record BH HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178942
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD DF HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178943
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD RS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178944
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1riwnhm0pe_1m2s0jio9l_file" group-title="CANAIS ABERTOS ",RECORD SP HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178945
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/a0d63881986e2d53734fb0660594b420.png" group-title="CANAIS ABERTOS ",REDE VIDA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178946
+#EXTINF:-1 tvg-id="" tvg-name="REDETV!" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/redetv.png" group-title="CANAIS ABERTOS ",REDETV!
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178947
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rit.jpg" group-title="CANAIS ABERTOS ",RIT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178948
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178949
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178950
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD." tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT HD.
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178951
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD AL" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT HD AL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178952
+#EXTINF:-1 tvg-id="" tvg-name="SBT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178953
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BA HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD BA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178954
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD BELEM
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178955
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD DF HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178956
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GO HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD GO HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178958
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD MINAS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178959
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD MINAS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178960
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD RJ HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178962
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD RS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178963
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD RS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178964
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="CANAIS ABERTOS ",RECORD SP HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178965
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD ALT" tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png" group-title="CANAIS ABERTOS ",REDE TV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178970
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD ALT" tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png" group-title="CANAIS ABERTOS ",REDE TV HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178971
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD ALT" tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png" group-title="CANAIS ABERTOS ",REDE TV FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178972
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO SD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS ABERTOS ",TV DIARIO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178973
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS ABERTOS ",TV DIARIO HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178974
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FHD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS ABERTOS ",TV DIARIO FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178975
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo-2.png" group-title="CANAIS ABERTOS ",TV CÂMARA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178976
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cY2qU7jK_400x400.jpg" group-title="CANAIS ABERTOS ",TVE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178977
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN TV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/jasmintv.png" group-title="ADULTOS",XXX: JASMIN TV
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178978
+#EXTINF:-1 tvg-id="" tvg-name="XX: PLAYBOY TV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/playboytv.png" group-title="ADULTOS",XX: PLAYBOY TV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178979
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/playboytv.png" group-title="ADULTOS",XXX: PLAYBOY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178980
+#EXTINF:-1 tvg-id="" tvg-name="XX: PLAYBOY HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/playboytv.png" group-title="ADULTOS",XX: PLAYBOY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178981
+#EXTINF:-1 tvg-id="" tvg-name="XX: PLAYBOY FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/playboytv.png" group-title="ADULTOS",XX: PLAYBOY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178982
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO ",CANÇÃO NOVA  HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178988
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO ",CANÇÃO NOVA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178989
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/f/8/csm_7050-1071_import_72c2332cd2.png" group-title="RELIGIÃO ",NOVO TEMPO HD ²
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178991
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="https://i.pinimg.com/originals/78/e9/6d/78e96ddb5c393444edea830430bbb2c9.png" group-title="RELIGIÃO ",REDE VIDA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178993
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  SD" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="RELIGIÃO ",TV APARECIDA  SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178994
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA ²" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="RELIGIÃO ",TV APARECIDA ²
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178995
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="http://logocanais.ddns.net/Logo/Aparecida1.png" group-title="RELIGIÃO ",TV APARECIDA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178996
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR ES ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO ",TV EVANGELIZAR ES ²
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178997
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/f/8/csm_7050-1071_import_72c2332cd2.png" group-title="RELIGIÃO ",TV NOVO TEMPO  SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178998
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIL ",BABY TV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/178999
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIL ",BABY HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179000
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="INFANTIL ",BABY FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179001
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL ",BOOMERANG
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179002
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL ",BOOMERANG SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179003
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL ",BOOMERANG HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179004
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL ",BOOMERANG HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179005
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL ",BOOMERANG FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179006
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL ",CARTOON NETWORK SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179007
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL ",CARTOON NETWORK SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179008
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL ",CARTOON NETWORK HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179009
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL ",CARTOON NETWORK HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179010
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL ",CARTOON NETWORK FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179011
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="INFANTIL ",DISCOVERY KIDS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179012
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="INFANTIL ",DISCOVERY KIDS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179013
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="INFANTIL ",DISCOVERY KIDS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179014
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="INFANTIL ",DISCOVERY KIDS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179015
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="INFANTIL ",DISCOVERY KIDS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179016
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL ",DISNEY CHANNEL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179017
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL ",DISNEY CHANNEL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179018
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL ",DISNEY CHANNEL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179019
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL ",DISNEY CHANNEL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179020
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL ",DISNEY CHANNEL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179021
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Disney_Junior_On_Disney_Channel_Logo.jpg" group-title="INFANTIL ",DISNEY JUNIOR SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179022
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Disney_Junior_On_Disney_Channel_Logo.jpg" group-title="INFANTIL ",DISNEY JUNIOR SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179023
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Disney_Junior_On_Disney_Channel_Logo.jpg" group-title="INFANTIL ",DISNEY JUNIOR HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179024
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Disney_Junior_On_Disney_Channel_Logo.jpg" group-title="INFANTIL ",DISNEY JR HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179025
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Disney_Junior_On_Disney_Channel_Logo.jpg" group-title="INFANTIL ",DISNEY JR FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179026
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disneyxd.png" group-title="INFANTIL ",DISNEY XD SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179027
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disneyxd.png" group-title="INFANTIL ",DISNEY XD SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179028
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disneyxd.png" group-title="INFANTIL ",DISNEY XD HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179029
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disneyxd.png" group-title="INFANTIL ",DISNEY XD FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179030
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL ",GLOOB SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179031
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL ",GLOOB SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179032
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL ",GLOOB HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179033
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL ",GLOOB HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179034
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL ",GLOOB FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179035
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIL ",GLOOBINHO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179036
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIL ",GLOOBINHO FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179038
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeokids.png" group-title="INFANTIL ",NATGEO KIDS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179039
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeokids.png" group-title="INFANTIL ",NATGEO KIDS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179040
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD ALT" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeokids.png" group-title="INFANTIL ",NATGEO KIDS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179041
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL ",NICK JR. SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179042
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL ",NICK JR SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179043
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL ",NICK JR. HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179044
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL ",NICK JR HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179045
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL ",NICK JR FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179046
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL ",NICKELODEON SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179047
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL ",NICKELODEON SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179048
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL ",NICKELODEON HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179049
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL ",NICKELODEON HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179050
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL ",NICKELODEON FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179051
+#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS HD ALT" tvg-logo="https://mms.businesswire.com/media/20180201005411/en/638300/23/Playkids_Logo_ColorForLightBackground_2400x2400.jpg" group-title="INFANTIL ",PLAY KIDS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179052
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL ",TOONCAST SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179053
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL ",TOONCAST SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179054
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL ",TOONCAST HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179055
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL ",TOONCAST FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179056
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ-TIM-BUM SSD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL ",TV RÁ-TIM-BUM SSD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179057
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL ",TV RA TIM BUM SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179058
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL ",TV RA TIM BUM HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179059
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL ",TV RA TIM BUM FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179060
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/ZooMoo_logo.svg.png/revision/latest?cb=20171225070513" group-title="INFANTIL ",ZOOMOO
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179061
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179062
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179063
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179064
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179065
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179066
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ENTRETENIMENTO ",BIS FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179067
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD ALT" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png" group-title="ENTRETENIMENTO ",CURTA! SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179071
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD ALT" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png" group-title="ENTRETENIMENTO ",CURTA! HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179072
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD ALT" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png" group-title="ENTRETENIMENTO ",CURTA! FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179073
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2018/01/canal-brasil.jpg" group-title="ENTRETENIMENTO ",CANAL BRASIL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179074
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sony.png" group-title="ENTRETENIMENTO ",CANAL SONY SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179075
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sony.png" group-title="ENTRETENIMENTO ",CANAL SONY HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179076
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png" group-title="ENTRETENIMENTO ",CANÇÃO NOVA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179077
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png" group-title="ENTRETENIMENTO ",CANÇÃO NOVA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179078
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179079
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179080
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179081
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179082
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179083
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="ENTRETENIMENTO ",COMEDY CENTRAL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179084
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179085
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179086
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179087
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="ENTRETENIMENTO ",E! FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179088
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="ENTRETENIMENTO ",FISH TV SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179089
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="ENTRETENIMENTO ",FISH TV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179090
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="ENTRETENIMENTO ",FISH TV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179091
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="ENTRETENIMENTO ",FISH TV HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179092
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="ENTRETENIMENTO ",FISH TV FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179093
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179094
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179095
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179096
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179097
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179098
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="ENTRETENIMENTO ",FOOD NETWORK FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179099
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179100
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179101
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179102
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179103
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179104
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="ENTRETENIMENTO ",FOX LIFE FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179105
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/futura.png" group-title="ENTRETENIMENTO ",FUTURA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179106
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179107
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179108
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179109
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179110
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179111
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="ENTRETENIMENTO ",GNT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179112
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179113
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179114
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179115
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179116
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="ENTRETENIMENTO ",LIFETIME FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179117
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179118
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179119
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179120
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179121
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/maisglobosat.png" group-title="ENTRETENIMENTO ",MAIS GLOBOSAT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179122
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179123
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179124
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179125
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179126
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="ENTRETENIMENTO ",MTV FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179127
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179128
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179129
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179130
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179131
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="ENTRETENIMENTO ",MULTISHOW FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179132
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179133
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179134
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="ENTRETENIMENTO ",MUSIC BOX BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179135
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179136
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179137
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179138
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179139
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ENTRETENIMENTO ",OFF FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179140
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT SD ALT" tvg-logo="https://canaismax.com/img/canais/f7422362f0ef3e962ea38809a265bda0.png" group-title="ENTRETENIMENTO ",I SAT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179144
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="i SAT HD ALT" tvg-logo="https://canaismax.com/img/canais/f7422362f0ef3e962ea38809a265bda0.png" group-title="ENTRETENIMENTO ",i SAT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179145
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="i SAT FHD ALT" tvg-logo="https://canaismax.com/img/canais/f7422362f0ef3e962ea38809a265bda0.png" group-title="ENTRETENIMENTO ",i SAT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179146
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME SD ALT" tvg-logo="https://www.promobit.com.br/static/p/267502668415381601186288346503.jpg" group-title="ENTRETENIMENTO ",SHOPTIME SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179147
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="ENTRETENIMENTO ",VIVA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179149
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="ENTRETENIMENTO ",VIVA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179150
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="ENTRETENIMENTO ",VIVA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179151
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="ENTRETENIMENTO ",VIVA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179152
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="ENTRETENIMENTO ",VIVA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179153
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ENTRETENIMENTO ",WOOHOO SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179154
+#EXTINF:-1 tvg-id="" tvg-name="WOHOO SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ENTRETENIMENTO ",WOHOO SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179155
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ENTRETENIMENTO ",WOOHOO HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179156
+#EXTINF:-1 tvg-id="" tvg-name="WOHOO FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ENTRETENIMENTO ",WOHOO FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179157
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS ",SBT RS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179228
+#EXTINF:-1 tvg-id="" tvg-name="XX: Hustler HD" tvg-logo="https://pbs.twimg.com/media/CMJ_3lFVEAA8kd6.jpg" group-title="ADULTOS",XX: Hustler HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179270
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO ",CANÇÃO NOVA  HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179369
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://fonteangelusiptv.com:25461/images/4fc48a8c7542b77b7d85bc49bba18942.png" group-title="RELIGIÃO ",CANÇÃO NOVA SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179370
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  SD" tvg-logo="http://fonteangelusiptv.com:25461/images/693e18d447e80f4789a715a7016585d7.png" group-title="RELIGIÃO ",TV APARECIDA  SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179371
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="http://fonteangelusiptv.com:25461/images/ac064e089f1976f24db1aa85d7fb6fc2.png" group-title="RELIGIÃO ",TV NOVO TEMPO  SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/179372
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeões S01 E35" tvg-logo="http://cclb.ddns.net:25461/images/3bd48ffbd8509bf2217b0a7188063f0b.jpg" group-title="ANIME | SUPER CAMPEÕES",Super Campeões S01 E35
+http://fonteangelusiptv.com:25461/movie/tatiana2021/2021tatiana/219110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Religioso 1" tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/estampa-evangelica-png-2-Transparent-Images.png" group-title="RELIGIÃO ",Religioso 1
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228769
+#EXTINF:-1 tvg-id="" tvg-name="religioso 2" tvg-logo="http://fonteangelusiptv.com:25461/images/a92c85762962a8289f5f07b735a6e29f.png" group-title="RELIGIÃO ",religioso 2
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228770
+#EXTINF:-1 tvg-id="" tvg-name="PN 1 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTE ",PN 1 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228773
+#EXTINF:-1 tvg-id="" tvg-name="PN 1 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPORTE ",PN 1 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228774
+#EXTINF:-1 tvg-id="" tvg-name="PN 1 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPORTE ",PN 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228775
+#EXTINF:-1 tvg-id="" tvg-name="PN 1 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPORTE ",PN 1 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228776
+#EXTINF:-1 tvg-id="" tvg-name="PN 1 FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="ESPORTE ",PN 1 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228777
+#EXTINF:-1 tvg-id="" tvg-name="PN 2 SD" tvg-logo="http://fonteangelusiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE ",PN 2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228778
+#EXTINF:-1 tvg-id="" tvg-name="PN 2 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE ",PN 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228779
+#EXTINF:-1 tvg-id="" tvg-name="PN 2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE ",PN 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228780
+#EXTINF:-1 tvg-id="" tvg-name="PN 2 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE ",PN 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228781
+#EXTINF:-1 tvg-id="" tvg-name="PN 2 FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/23c114bed848b2e2e48b0c6176bfb394.png" group-title="ESPORTE ",PN 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228782
+#EXTINF:-1 tvg-id="" tvg-name="PN BRASIL SD" tvg-logo="http://fonteangelusiptv.com:25461/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="ESPORTE ",PN BRASIL SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228783
+#EXTINF:-1 tvg-id="" tvg-name="PN BRASIL SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="ESPORTE ",PN BRASIL SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228784
+#EXTINF:-1 tvg-id="" tvg-name="PN BRASIL HD" tvg-logo="http://fonteangelusiptv.com:25461/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="ESPORTE ",PN BRASIL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228785
+#EXTINF:-1 tvg-id="" tvg-name="PN BRASIL HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="ESPORTE ",PN BRASIL HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228786
+#EXTINF:-1 tvg-id="" tvg-name="PN BRASIL FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="ESPORTE ",PN BRASIL FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228787
+#EXTINF:-1 tvg-id="" tvg-name="PN EXTRA SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTE ",PN EXTRA SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228788
+#EXTINF:-1 tvg-id="" tvg-name="PN EXTRA HD" tvg-logo="http://fonteangelusiptv.com:25461/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTE ",PN EXTRA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228789
+#EXTINF:-1 tvg-id="" tvg-name="PN EXTRA HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTE ",PN EXTRA HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228790
+#EXTINF:-1 tvg-id="" tvg-name="PN EXTRA FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTE ",PN EXTRA FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228791
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 1 SD" tvg-logo="http://fonteangelusiptv.com:25461/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPORTE ",SPORTS 1 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228792
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 1 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPORTE ",SPORTS 1 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228793
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 1 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/940c833d678f4b63c44d1f528a8ed5cf.png" group-title="ESPORTE ",SPORTS 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228794
+#EXTINF:-1 tvg-id="" tvg-name="SPORT HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPORTE ",SPORT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228795
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 1 FHD" tvg-logo="http://fonteangelusiptv.com:25461/images/940c833d678f4b63c44d1f528a8ed5cf.png" group-title="ESPORTE ",SPORTS 1 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228796
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 1 FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/32f3121bc314ba06628573737f575b3e.png" group-title="ESPORTE ",SPORTS 1 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228797
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 2 SD" tvg-logo="http://fonteangelusiptv.com:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTE ",SPORTS 2 SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228798
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 2 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTE ",SPORTS 2 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228799
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/9227570c18d28bd08e0aec5a61920ff0.png" group-title="ESPORTE ",SPORTS 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228800
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 2 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTE ",SPORTS 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228801
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 2 FHD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="ESPORTE ",SPORTS 2 FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228802
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE ",SPORTV SD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228820
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="http://fonteangelusiptv.com:25461/images/43c36900b0aa86ded24077870df74926.png" group-title="ESPORTE ",SPORTV HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228821
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="http://fonteangelusiptv.com:25461/images/43c36900b0aa86ded24077870df74926.png" group-title="ESPORTE ",SPORTV FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/228822
+#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235340
+#EXTINF:-1 tvg-id="" tvg-name="24H TESTE DE FIDELIDADE" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H TESTE DE FIDELIDADE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235341
+#EXTINF:-1 tvg-id="" tvg-name="24H MAYDAY DESASTRES AEREOS BRASIL" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H MAYDAY DESASTRES AEREOS BRASIL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235342
+#EXTINF:-1 tvg-id="" tvg-name="24H ACUMULADORES" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H ACUMULADORES
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235343
+#EXTINF:-1 tvg-id="" tvg-name="24H VIDEO CASSETADAS" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H VIDEO CASSETADAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235344
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMAOS A OBRA" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H IRMAOS A OBRA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235345
+#EXTINF:-1 tvg-id="" tvg-name="24H PESADELO NA COZINHA" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H PESADELO NA COZINHA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235346
+#EXTINF:-1 tvg-id="" tvg-name="24H STAND UP DANILO GENTILI" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H STAND UP DANILO GENTILI
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235347
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES - CHAPOLI" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H CHAVES - CHAPOLI
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235348
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H EU A PATROA E AS CRIANÇAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235349
+#EXTINF:-1 tvg-id="" tvg-name="24H VAI QUE COLA" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H VAI QUE COLA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235350
+#EXTINF:-1 tvg-id="" tvg-name="24H TRATO FEITO" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H TRATO FEITO
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235351
+#EXTINF:-1 tvg-id="" tvg-name="24H MYTBUSTER CAÇADORES DE MITOS" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H MYTBUSTER CAÇADORES DE MITOS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235352
+#EXTINF:-1 tvg-id="" tvg-name="24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235353
+#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H POLICIA 24 HORAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235354
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS BRASIL" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H LARGADOS E PELADOS BRASIL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235355
+#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHA JÃO KLEBER" tvg-logo="http://fonteangelusiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="PROGRAMAS 24 HORAS",24H PEGADINHA JÃO KLEBER
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235356
+#EXTINF:-1 tvg-id="" tvg-name="PORNO 4K" tvg-logo="http://fonteangelusiptv.com:25461/images/45b5c5c495b7bc8d055717f72c42c4f8.png" group-title="ADULTOS",PORNO 4K
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/235470
+#EXTINF:-1 tvg-id="" tvg-name="24hs 101 Dálmatas" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs 101 Dálmatas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236526
+#EXTINF:-1 tvg-id="" tvg-name="24hs 3 Palavrinhas" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs 3 Palavrinhas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236527
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Família Addams" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs A Família Addams
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236528
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Formiga Atômica" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs A Formiga Atômica
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236529
+#EXTINF:-1 tvg-id="" tvg-name="24hs A GRANDE FAMILIA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A GRANDE FAMILIA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236530
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Mansão Foster Para Amigos Imaginários" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Mansão Foster Para Amigos Imaginários
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236531
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Pantera Cor de Rosa" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Pantera Cor de Rosa
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236532
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Patrulha Canina" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Patrulha Canina
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236533
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Vaca e o Frango" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Vaca e o Frango
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236534
+#EXTINF:-1 tvg-id="" tvg-name="24hs Aladdin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Aladdin
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236535
+#EXTINF:-1 tvg-id="" tvg-name="24hs Animaniacs" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Animaniacs
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236536
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Aventuras de Tintin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Aventuras de Tintin
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236537
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Meninas Super Poderosas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Meninas Super Poderosas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236538
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Terríveis Aventuras de Billy e Mandy" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Terríveis Aventuras de Billy e Mandy
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236539
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Visões de Raven" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Visões de Raven
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236540
+#EXTINF:-1 tvg-id="" tvg-name="24hs AUTHENTIC GAMES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs AUTHENTIC GAMES
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236541
+#EXTINF:-1 tvg-id="" tvg-name="24hs Avatar a Lenda de Aang" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Avatar a Lenda de Aang
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236542
+#EXTINF:-1 tvg-id="" tvg-name="24hs Baby Looney Tunes" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Baby Looney Tunes
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236543
+#EXTINF:-1 tvg-id="" tvg-name="24hs BACKARDIGANS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BACKARDIGANS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236544
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236545
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10 Omniverse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10 Omniverse
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236546
+#EXTINF:-1 tvg-id="" tvg-name="24hs Beyblade" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Beyblade
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236547
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Esponja" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Esponja
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236548
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O CONSTRUTOR" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O CONSTRUTOR
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236549
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O TREM" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O TREM
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236550
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Zoom" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Zoom
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236551
+#EXTINF:-1 tvg-id="" tvg-name="24hs Boku no Hero Academia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Boku no Hero Academia
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236552
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOOBA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOOBA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236553
+#EXTINF:-1 tvg-id="" tvg-name="24hs Brasil Visto de Cima" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Brasil Visto de Cima
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236554
+#EXTINF:-1 tvg-id="" tvg-name="24hs Brooklyn Nine-Nine" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Brooklyn Nine-Nine
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236555
+#EXTINF:-1 tvg-id="" tvg-name="24hs Cadillacs e Dinossauros" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Cadillacs e Dinossauros
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236556
+#EXTINF:-1 tvg-id="" tvg-name="24hs CAILLOU" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CAILLOU
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236557
+#EXTINF:-1 tvg-id="" tvg-name="24hs Capitão Caverna" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Capitão Caverna
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236558
+#EXTINF:-1 tvg-id="" tvg-name="24hs Capitão Planeta" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Capitão Planeta
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236559
+#EXTINF:-1 tvg-id="" tvg-name="24hs Castelo Rá Tim Bum" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Castelo Rá Tim Bum
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236560
+#EXTINF:-1 tvg-id="" tvg-name="24hs Cavalo de Fogo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Cavalo de Fogo
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236561
+#EXTINF:-1 tvg-id="" tvg-name="24hs Caverna do Dragão" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Caverna do Dragão
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236562
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chapolin Colorado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chapolin Colorado
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236563
+#EXTINF:-1 tvg-id="" tvg-name="24hs CHAVES do 8" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CHAVES do 8
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236564
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chaves em desenho animado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chaves em desenho animado
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236565
+#EXTINF:-1 tvg-id="" tvg-name="24hs Como Eu Conheci Sua Mãe" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Como Eu Conheci Sua Mãe
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236566
+#EXTINF:-1 tvg-id="" tvg-name="24hs CORAGEM, O CÃO COVARDE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CORAGEM, O CÃO COVARDE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236567
+#EXTINF:-1 tvg-id="" tvg-name="24hs Corrida Maluca" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Corrida Maluca
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236568
+#EXTINF:-1 tvg-id="" tvg-name="24hs CUT THE HOPE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CUT THE HOPE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236569
+#EXTINF:-1 tvg-id="" tvg-name="24hs De Volta para o Futuro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs De Volta para o Futuro
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236570
+#EXTINF:-1 tvg-id="" tvg-name="24hs Detetives do Prédio Azul" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Detetives do Prédio Azul
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236571
+#EXTINF:-1 tvg-id="" tvg-name="24hs DIGIMON" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs DIGIMON
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236572
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dora a Aventureira" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dora a Aventureira
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236573
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dragon Ball Super" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dragon Ball Super
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236574
+#EXTINF:-1 tvg-id="" tvg-name="24hs Drake & Josh" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Drake & Josh
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236575
+#EXTINF:-1 tvg-id="" tvg-name="24hs Du, Dudu e Edu" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Du, Dudu e Edu
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236576
+#EXTINF:-1 tvg-id="" tvg-name="24hs Duck Dodgers" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Duck Dodgers
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236577
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ducktales" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ducktales
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236578
+#EXTINF:-1 tvg-id="" tvg-name="24hs EU A PATROA E AS CRIANÇAS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs EU A PATROA E AS CRIANÇAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236579
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236580
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash Gordon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash Gordon
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236581
+#EXTINF:-1 tvg-id="" tvg-name="24hs FLINTSTONES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FLINTSTONES
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236582
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fly o pequeno guerreiro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Fly o pequeno guerreiro
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236583
+#EXTINF:-1 tvg-id="" tvg-name="24hs Freakazoid!" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Freakazoid!
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236584
+#EXTINF:-1 tvg-id="" tvg-name="24hs FullMetal Alchemist" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FullMetal Alchemist
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236585
+#EXTINF:-1 tvg-id="" tvg-name="24hs Galinha Pintadinha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Galinha Pintadinha
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236586
+#EXTINF:-1 tvg-id="" tvg-name="24hs Gárgulas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Gárgulas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236587
+#EXTINF:-1 tvg-id="" tvg-name="24hs Homem Aranha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Homem Aranha
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236588
+#EXTINF:-1 tvg-id="" tvg-name="24hs Hora da Aventura" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Hora da Aventura
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236589
+#EXTINF:-1 tvg-id="" tvg-name="24hs Hércules" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Hércules
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236590
+#EXTINF:-1 tvg-id="" tvg-name="24hs Jackie Chan e Amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Jackie Chan e Amigos
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236591
+#EXTINF:-1 tvg-id="" tvg-name="24hs KENAN E KEL" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs KENAN E KEL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236592
+#EXTINF:-1 tvg-id="" tvg-name="24hs Little Angel" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Little Angel
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236593
+#EXTINF:-1 tvg-id="" tvg-name="24hs Medabots" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Medabots
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236594
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mega Man" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mega Man
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236595
+#EXTINF:-1 tvg-id="" tvg-name="24hs MIB Homens de Preto" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs MIB Homens de Preto
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236596
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mickey Mouse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mickey Mouse
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236597
+#EXTINF:-1 tvg-id="" tvg-name="24hs Miraculous Ladybug" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Miraculous Ladybug
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236598
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mortal Kombat" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mortal Kombat
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236599
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mr. Bean" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mr. Bean
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236600
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mucha Lucha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mucha Lucha
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236601
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mundo Bita" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mundo Bita
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236602
+#EXTINF:-1 tvg-id="" tvg-name="24hs Naruto" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Naruto
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236603
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Fantástico Mundo de Bobby" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Fantástico Mundo de Bobby
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236604
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Incrível Mundo de Gumball" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Incrível Mundo de Gumball
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236605
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Laboratório de Dexter" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Laboratório de Dexter
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236606
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Mundo de Beakman" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Mundo de Beakman
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236607
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Máskara" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Máskara
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236608
+#EXTINF:-1 tvg-id="" tvg-name="24hs os Cavaleiros do Zodíaco" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs os Cavaleiros do Zodíaco
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236609
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Flintstones" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Flintstones
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236610
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Padrinhos Mágicos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Padrinhos Mágicos
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236611
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Simpsons" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Simpsons
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236612
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Super Patos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Super Patos
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236613
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Vingadores" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Vingadores
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236614
+#EXTINF:-1 tvg-id="" tvg-name="24hs Papa Léguas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Papa Léguas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236615
+#EXTINF:-1 tvg-id="" tvg-name="24hs Patati e Patatá" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Patati e Patatá
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236616
+#EXTINF:-1 tvg-id="" tvg-name="24hs Peppa Pig" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Peppa Pig
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236617
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pernalonga e seus amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pernalonga e seus amigos
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236618
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pica Pau" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pica Pau
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236619
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pinky e o Cérebro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pinky e o Cérebro
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236620
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pocoyo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pocoyo
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236621
+#EXTINF:-1 tvg-id="" tvg-name="24hs POKEMOM MANICRAFT" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs POKEMOM MANICRAFT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236622
+#EXTINF:-1 tvg-id="" tvg-name="24hs Popeye" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Popeye
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236623
+#EXTINF:-1 tvg-id="" tvg-name="24hs RICK E MORTY" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs RICK E MORTY
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236624
+#EXTINF:-1 tvg-id="" tvg-name="24hs Sailor Moon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Sailor Moon
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236625
+#EXTINF:-1 tvg-id="" tvg-name="24hs Samurai Warriors" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Samurai Warriors
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236626
+#EXTINF:-1 tvg-id="" tvg-name="24hs SCOOBY DOO" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs SCOOBY DOO
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236627
+#EXTINF:-1 tvg-id="" tvg-name="24hs South Park" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs South Park
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236628
+#EXTINF:-1 tvg-id="" tvg-name="24hs Steven Universo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Steven Universo
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236629
+#EXTINF:-1 tvg-id="" tvg-name="24hs Super Choque" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Super Choque
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236630
+#EXTINF:-1 tvg-id="" tvg-name="24hs Taz Mania" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Taz Mania
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236631
+#EXTINF:-1 tvg-id="" tvg-name="24hs Thundercats" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Thundercats
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236632
+#EXTINF:-1 tvg-id="" tvg-name="24hs Timão e Pumba" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Timão e Pumba
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236633
+#EXTINF:-1 tvg-id="" tvg-name="24hs TODO MUNDO ODEIA O CHRIS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TODO MUNDO ODEIA O CHRIS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236634
+#EXTINF:-1 tvg-id="" tvg-name="24hs Tom & Jerry" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Tom & Jerry
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236635
+#EXTINF:-1 tvg-id="" tvg-name="24hs TROLLS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TROLLS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236636
+#EXTINF:-1 tvg-id="" tvg-name="24hs Três Espiãs Demais" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Três Espiãs Demais
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236637
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Mônica" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Mônica
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236638
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Pateta" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Pateta
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236639
+#EXTINF:-1 tvg-id="" tvg-name="24hs Uma família da pesada" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Uma família da pesada
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236640
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ursinhos Carinhosos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ursinhos Carinhosos
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236641
+#EXTINF:-1 tvg-id="" tvg-name="24hs X-men" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs X-men
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236642
+#EXTINF:-1 tvg-id="" tvg-name="24hs Zé Colméia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Zé Colméia
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236643
+#EXTINF:-1 tvg-id="" tvg-name="24hs Jaspion" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Jaspion
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236644
+#EXTINF:-1 tvg-id="" tvg-name="24hs Um Maluco no Pedaço" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Um Maluco no Pedaço
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236645
+#EXTINF:-1 tvg-id="" tvg-name="24hs Escolinha do Professor Raimundo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Escolinha do Professor Raimundo
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236646
+#EXTINF:-1 tvg-id="" tvg-name="24hs THE WALKING DEAD" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs THE WALKING DEAD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236647
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vai que Cola" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vai que Cola
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236648
+#EXTINF:-1 tvg-id="" tvg-name="24hs Arqueiro Verde" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Arqueiro Verde
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236649
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fate" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Fate
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236650
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vikings" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vikings
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236651
+#EXTINF:-1 tvg-id="" tvg-name="24hs Big Bang Theory" tvg-logo="http://fonteangelusiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Big Bang Theory
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/236652
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ALT" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="ESPORTE ",TNT SPORTS ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237789
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237790
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 2 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237791
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237792
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 3 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237793
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 3 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237794
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 4 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237795
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 4 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237796
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 5 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237797
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 5 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237798
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 6 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237799
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 6 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237800
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 7 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237801
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 7 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237802
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 8 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237803
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 SD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 8 SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237804
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237805
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237806
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 3 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237807
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 4 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237808
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/163576906e883a1972ed96c39a7a2111.png" group-title="ESPORTE ",TNT SPORTS 5 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237809
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 1 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237832
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237833
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 3 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237834
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 1 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237835
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 1 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237836
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 2 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237837
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237838
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 3 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237839
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 3 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237840
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 4 ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237841
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD ALT" tvg-logo="http://fonteangelusiptv.com:25461/images/d92b74778b65db9e4e8bd5982b23f939.png" group-title="COPA LIBERTADORES",CONMEBOL 4 HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237842
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS VIP" tvg-logo="https://i.pinimg.com/originals/07/9c/b2/079cb20478ba2e9e9443be2105a06bc0.png" group-title="DESENHOS 24 HORAS",24H 3 PALAVRINHAS VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237952
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES VIP" tvg-logo="https://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png" group-title="DESENHOS 24 HORAS",24H BABY LOONEY TUNES VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237966
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="DESENHOS 24 HORAS",24H BEN 10 VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237969
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE VIP" tvg-logo="https://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png" group-title="DESENHOS 24 HORAS",24H BEN 10 OMNIVERSE VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237970
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999 VIP" tvg-logo="https://w7.pngwing.com/pngs/803/701/png-transparent-black-panther-captain-america-dizzy-madurairajanbuilders-builder-fictional-characters-toddler-film-thumbnail.png" group-title="DESENHOS 24 HORAS",24H BOB CONSTRUTOR 1999 VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237971
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA VIP" tvg-logo="https://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO CAVERNA VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237979
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA VIP" tvg-logo="https://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO PLANETA VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237980
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVALO DE FOGO VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237982
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVERNA DO DRAGÃO VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237983
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DIGIMON VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/237994
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DRAKE & JOSH VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238009
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK DODGERS VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238010
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK TALES CLÁSSICO VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238011
+#EXTINF:-1 tvg-id="" tvg-name="24H FAISCA & FUMAÇA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H FAISCA & FUMAÇA VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238012
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H FLY O PEQUENO GUERREIRO VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238013
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GALINHA PINTADINHA VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238019
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GATO FELIX VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238021
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H HE-MAN VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238022
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H JASPION VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238023
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H MUNDO BITA VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238029
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H NARUTO VIP
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238030
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ FHD" tvg-logo="http://fonteangelusiptv.com:25461/images/a9cbaad55dd74e652dd8ed2c03aaceb5.jpg" group-title="ESPORTE ",FLA TV+ FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238105
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ HD" tvg-logo="http://fonteangelusiptv.com:25461/images/a9cbaad55dd74e652dd8ed2c03aaceb5.jpg" group-title="ESPORTE ",FLA TV+ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238106
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 01
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238112
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 02
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238113
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 03
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238114
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 04
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238115
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 05
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238116
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 06
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238117
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 07
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238118
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 08
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238119
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 09
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238120
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CINE SKY",CINE SKY 10
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238121
+#EXTINF:-1 tvg-id="" tvg-name="24H TRANSEXUAL" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H TRANSEXUAL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238627
+#EXTINF:-1 tvg-id="" tvg-name="24H SURUBA CASEIRA" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H SURUBA CASEIRA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238628
+#EXTINF:-1 tvg-id="" tvg-name="24H RUIVAS" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H RUIVAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238629
+#EXTINF:-1 tvg-id="" tvg-name="24H Sexo Na Praia" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H Sexo Na Praia
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238630
+#EXTINF:-1 tvg-id="" tvg-name="24H INTER RACIAL" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H INTER RACIAL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238631
+#EXTINF:-1 tvg-id="" tvg-name="24H GORDAS" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H GORDAS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238632
+#EXTINF:-1 tvg-id="" tvg-name="24H Cine Adulto" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H Cine Adulto
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238633
+#EXTINF:-1 tvg-id="" tvg-name="24H A Casa das Brasileirinhas" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H A Casa das Brasileirinhas
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238634
+#EXTINF:-1 tvg-id="" tvg-name="24H Bisexual" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H Bisexual
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238635
+#EXTINF:-1 tvg-id="" tvg-name="24H Amador Gay" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H Amador Gay
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238636
+#EXTINF:-1 tvg-id="" tvg-name="24H Amadoras" tvg-logo="https://1.bp.blogspot.com/-Bqnpm0MJN38/WgDRep0Y0PI/AAAAAAAAADA/4vdbuYvO57EEU4dghQhMaAZavqrGlGyyQCLcBGAs/s1600/0.png" group-title="ADULTOS",24H Amadoras
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238637
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO ACRE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238638
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO ACRE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238639
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO BOA VISTA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238640
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO BOA VISTA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238641
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO CEARÁ
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238642
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO CEARÁ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238643
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_intertv-grande-minas_m.png" group-title="CANAIS GLOBOS",GLOBO INTER TV ALTO LITORAL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238644
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_intertv-grande-minas_m.png" group-title="CANAIS GLOBOS",GLOBO INTER TV SERRA MAR HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238645
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO MACAPA
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238646
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO MACAPA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238647
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO NATAL
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238648
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO NATAL HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238649
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBOS",GLOBO NSC TV CHAPECO HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238650
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBOS",GLOBO NSC TV CRICIUMA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238651
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO PORTO VELHO
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238652
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO PORTO VELHO HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238653
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO RECIFE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238654
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO RECIFE HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238655
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE FHD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="CANAIS GLOBOS",GLOBO RECIFE FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238656
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBOS",GLOBO RPC FOZ DO IGUACU HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238657
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBOS",GLOBO RPC MARINGA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238658
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBOS",GLOBO RPC PARANAVAI HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238659
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="CANAIS GLOBOS",GLOBO RPC PONTA GROSSA HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238660
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sextreme.png" group-title="ADULTOS",XXX: SEXTREME
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238661
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sexyhot.png" group-title="ADULTOS",XXX: SEXY HOT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238662
+#EXTINF:-1 tvg-id="" tvg-name="XX: Sexy HOT SD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sexyhot.png" group-title="ADULTOS",XX: Sexy HOT SD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238663
+#EXTINF:-1 tvg-id="" tvg-name="XX: Sexy HOT HD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sexyhot.png" group-title="ADULTOS",XX: Sexy HOT HD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238664
+#EXTINF:-1 tvg-id="" tvg-name="XX: Sexy HOT FHD ALT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sexyhot.png" group-title="ADULTOS",XX: Sexy HOT FHD ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238665
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/venus.png" group-title="ADULTOS",XXX: VENUS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238666
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVÉ" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0f2068031348e8918c7_Sexprive.png" group-title="ADULTOS",SEX PRIVÉ
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238667
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVÉ FHD H265" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0f2068031348e8918c7_Sexprive.png" group-title="ADULTOS",SEX PRIVÉ FHD H265
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238668
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVÉ HD" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0f2068031348e8918c7_Sexprive.png" group-title="ADULTOS",SEX PRIVÉ HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238669
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME²" tvg-logo="https://uploaddeimagens.com.br/images/001/277/692/full/Sextreme.png" group-title="ADULTOS",SEXTREME²
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238670
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ADULTOS",VENUS
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238671
+#EXTINF:-1 tvg-id="" tvg-name="VENUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ADULTOS",VENUS HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238672
+#EXTINF:-1 tvg-id="" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ADULTOS",VENUS FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238673
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://carlosbaraza.com/content/images/2020/07/dazn-logo.png" group-title="ESPORTE ",DAZN FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238674
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2" tvg-logo="http://fonteangelusiptv.com:25461/images/73bc3e95d8738ac8e4d0f08223542764.png" group-title="ESPORTE ",DAZN2
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238675
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 FHD" tvg-logo="http://fonteangelusiptv.com:25461/images/73bc3e95d8738ac8e4d0f08223542764.png" group-title="ESPORTE ",DAZN2 FHD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238676
+#EXTINF:-1 tvg-id="" tvg-name="DAZN2 HD" tvg-logo="http://fonteangelusiptv.com:25461/images/73bc3e95d8738ac8e4d0f08223542764.png" group-title="ESPORTE ",DAZN2 HD
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238677
+#EXTINF:-1 tvg-id="" tvg-name="DAZN²" tvg-logo="http://fonteangelusiptv.com:25461/images/73bc3e95d8738ac8e4d0f08223542764.png" group-title="ESPORTE ",DAZN²
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238678
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/04/power-couple-brasil-5-600x400.jpeg" group-title="POWER COUPLE",POWER COUPLE
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238679
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL AO VIVO ALT" tvg-logo="https://2.bp.blogspot.com/-0srNI8s5JJ0/XSjmE8qkfkI/AAAAAAAABDA/wkhfRTU6Gog7My5C8MV8117Y3eIJPWpbwCK4BGAYYCw/s400/logo_210x180_sn%2B%25281%2529.png" group-title="POWER COUPLE",POWER COUPLE BRASIL AO VIVO ALT
+http://fonteangelusiptv.com:25461/tatiana2021/2021tatiana/238680
 ###FILMES####
 #EXTINF:-1 tvg-id="" tvg-name="A Caminho de Casa" tvg-logo="http://listaccess.me:8880/images/pZn87R7gtmMCGGO8KeaAfZDhXLg_small.jpg" group-title="FILMES | LANÇAMENTOS",A Caminho de Casa
 http://fonteangelusiptv.com:25461/movie/tatiana2021/2021tatiana/244092.mp4
