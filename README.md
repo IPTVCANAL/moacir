@@ -167,3 +167,22 @@ http://187.120.222.12:8000/play/a057/index.m3u8
 http://187.120.222.12:8000/play/a056/index.m3u8
 #EXTINF:-1,RBSTV P FUNDO
 http://187.120.222.12:8000/play/a059/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+http://200.4.96.35:8004/play/a0dy/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+http://201.159.95.114:8000/play/a0bb/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://200.4.96.35:8004/play/a0dz/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://201.159.95.114:8000/play/a0ap/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+http://200.4.96.35:8002/play/a0ea/index.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+http://201.159.95.114:8000/play/a0dh/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
+http://200.4.96.35:8001/play/a0eb/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
+http://200.4.96.35:8002/play/a0eb/index.m3u8
+#EXTINF:-1,CONMEBOL TV 4
