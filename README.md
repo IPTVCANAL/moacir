@@ -1,454 +1,255 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
-http://rec2.distv.net:80/pedrinho/pedrinho/113
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="" group-title="CANAIS LOCAIS",AGRO BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/263
-#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://distv.net/icons/agrocanal.png" group-title="CANAIS LOCAIS",AGRO CANAL
-http://rec2.distv.net:80/pedrinho/pedrinho/264
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
-http://rec2.distv.net:80/pedrinho/pedrinho/223
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
-http://rec2.distv.net:80/pedrinho/pedrinho/114
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
-http://rec2.distv.net:80/pedrinho/pedrinho/115
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
-http://rec2.distv.net:80/pedrinho/pedrinho/116
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-http://rec2.distv.net:80/pedrinho/pedrinho/117
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
-http://rec2.distv.net:80/pedrinho/pedrinho/224
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-http://rec2.distv.net:80/pedrinho/pedrinho/118
-#EXTINF:-1 tvg-id="" tvg-name="BAND PALMAS" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS TOCANTINS",BAND PALMAS
-http://rec2.distv.net:80/pedrinho/pedrinho/299
-#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="" group-title=" CANAIS LOCAIS NATAL",BAND RN
-http://rec2.distv.net:80/pedrinho/pedrinho/294
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
-http://rec2.distv.net:80/pedrinho/pedrinho/119
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
-http://rec2.distv.net:80/pedrinho/pedrinho/120
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-http://rec2.distv.net:80/pedrinho/pedrinho/121
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://distv.net/icons/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
-http://rec2.distv.net:80/pedrinho/pedrinho/61
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
-http://rec2.distv.net:80/pedrinho/pedrinho/265
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/122
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
-http://rec2.distv.net:80/pedrinho/pedrinho/267
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
-http://rec2.distv.net:80/pedrinho/pedrinho/266
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://distv.net/icons/canalrural.png" group-title="CANAIS LOCAIS",CANAL RURAL
-http://rec2.distv.net:80/pedrinho/pedrinho/268
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://distv.net/icons/canalsaude.png" group-title="CANAIS LOCAIS",CANAL SAUDE
-http://rec2.distv.net:80/pedrinho/pedrinho/284
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
-http://rec2.distv.net:80/pedrinho/pedrinho/123
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-http://rec2.distv.net:80/pedrinho/pedrinho/65
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-http://rec2.distv.net:80/pedrinho/pedrinho/124
-#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="CANAIS LOCAIS",CINE BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/269
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
-http://rec2.distv.net:80/pedrinho/pedrinho/48
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
-http://rec2.distv.net:80/pedrinho/pedrinho/49
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
-http://rec2.distv.net:80/pedrinho/pedrinho/50
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
-http://rec2.distv.net:80/pedrinho/pedrinho/51
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
-http://rec2.distv.net:80/pedrinho/pedrinho/52
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
-http://rec2.distv.net:80/pedrinho/pedrinho/53
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
-http://rec2.distv.net:80/pedrinho/pedrinho/54
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
-http://rec2.distv.net:80/pedrinho/pedrinho/55
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
-http://rec2.distv.net:80/pedrinho/pedrinho/56
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
-http://rec2.distv.net:80/pedrinho/pedrinho/57
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://rec2.distv.net:80/pedrinho/pedrinho/125
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/225
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
-http://rec2.distv.net:80/pedrinho/pedrinho/126
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
-http://rec2.distv.net:80/pedrinho/pedrinho/127
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
-http://rec2.distv.net:80/pedrinho/pedrinho/128
-#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
-http://rec2.distv.net:80/pedrinho/pedrinho/129
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
-http://rec2.distv.net:80/pedrinho/pedrinho/226
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
-http://rec2.distv.net:80/pedrinho/pedrinho/130
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
-http://rec2.distv.net:80/pedrinho/pedrinho/131
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
-http://rec2.distv.net:80/pedrinho/pedrinho/132
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-http://rec2.distv.net:80/pedrinho/pedrinho/133
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
-http://rec2.distv.net:80/pedrinho/pedrinho/134
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
-http://rec2.distv.net:80/pedrinho/pedrinho/135
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-http://rec2.distv.net:80/pedrinho/pedrinho/136
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-http://rec2.distv.net:80/pedrinho/pedrinho/137
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-http://rec2.distv.net:80/pedrinho/pedrinho/138
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-http://rec2.distv.net:80/pedrinho/pedrinho/139
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-http://rec2.distv.net:80/pedrinho/pedrinho/140
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
-http://rec2.distv.net:80/pedrinho/pedrinho/141
-#EXTINF:-1 tvg-id="" tvg-name="EDUCAÇÃO" tvg-logo="" group-title="CANAIS LOCAIS",EDUCAÇÃO
-http://rec2.distv.net:80/pedrinho/pedrinho/285
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
-http://rec2.distv.net:80/pedrinho/pedrinho/142
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
-http://rec2.distv.net:80/pedrinho/pedrinho/143
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/144
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
-http://rec2.distv.net:80/pedrinho/pedrinho/145
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="" group-title="CANAIS LOCAIS",EURO NEWS
-http://rec2.distv.net:80/pedrinho/pedrinho/270
-#EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
-http://rec2.distv.net:80/pedrinho/pedrinho/82
-#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
-http://rec2.distv.net:80/pedrinho/pedrinho/227
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
-http://rec2.distv.net:80/pedrinho/pedrinho/146
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
-http://rec2.distv.net:80/pedrinho/pedrinho/147
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
-http://rec2.distv.net:80/pedrinho/pedrinho/148
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-http://rec2.distv.net:80/pedrinho/pedrinho/149
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
-http://rec2.distv.net:80/pedrinho/pedrinho/150
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-http://rec2.distv.net:80/pedrinho/pedrinho/151
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
-http://rec2.distv.net:80/pedrinho/pedrinho/152
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
-http://rec2.distv.net:80/pedrinho/pedrinho/153
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="ENTRETENIMENTO",FUTURA
-http://rec2.distv.net:80/pedrinho/pedrinho/228
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
-http://rec2.distv.net:80/pedrinho/pedrinho/229
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
-http://rec2.distv.net:80/pedrinho/pedrinho/230
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-http://rec2.distv.net:80/pedrinho/pedrinho/231
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO BRASILIA
-http://rec2.distv.net:80/pedrinho/pedrinho/3
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO FLORIANOPOLIS
-http://rec2.distv.net:80/pedrinho/pedrinho/5
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO MINAS
-http://rec2.distv.net:80/pedrinho/pedrinho/6
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO NATAL
-http://rec2.distv.net:80/pedrinho/pedrinho/7
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
-http://rec2.distv.net:80/pedrinho/pedrinho/232
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO REDE AMAZÔNICA
-http://rec2.distv.net:80/pedrinho/pedrinho/11
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
-http://rec2.distv.net:80/pedrinho/pedrinho/13
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO GRANDE DO SUL
-http://rec2.distv.net:80/pedrinho/pedrinho/12
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RPC CURITIBA
-http://rec2.distv.net:80/pedrinho/pedrinho/14
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGÁ" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS PARANÁ",GLOBO RPC MARINGÁ
-http://rec2.distv.net:80/pedrinho/pedrinho/112
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO SP
-http://rec2.distv.net:80/pedrinho/pedrinho/15
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV ANHANGUERA GOIANIA
-http://rec2.distv.net:80/pedrinho/pedrinho/16
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV BAHIA
-http://rec2.distv.net:80/pedrinho/pedrinho/17
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV LIBERAL BELEM
-http://rec2.distv.net:80/pedrinho/pedrinho/18
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV MIRANTE
-http://rec2.distv.net:80/pedrinho/pedrinho/19
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-http://rec2.distv.net:80/pedrinho/pedrinho/154
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-http://rec2.distv.net:80/pedrinho/pedrinho/215
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
-http://rec2.distv.net:80/pedrinho/pedrinho/155
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
-http://rec2.distv.net:80/pedrinho/pedrinho/156
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
-http://rec2.distv.net:80/pedrinho/pedrinho/157
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
-http://rec2.distv.net:80/pedrinho/pedrinho/158
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
-http://rec2.distv.net:80/pedrinho/pedrinho/159
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
-http://rec2.distv.net:80/pedrinho/pedrinho/160
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
-http://rec2.distv.net:80/pedrinho/pedrinho/161
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-http://rec2.distv.net:80/pedrinho/pedrinho/162
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
-http://rec2.distv.net:80/pedrinho/pedrinho/163
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-http://rec2.distv.net:80/pedrinho/pedrinho/164
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
-http://rec2.distv.net:80/pedrinho/pedrinho/165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",HISTORY 2
-http://rec2.distv.net:80/pedrinho/pedrinho/166
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV CABUGI(GLOBO)" tvg-logo="" group-title=" CANAIS LOCAIS NATAL",INTERTV CABUGI(GLOBO)
-http://rec2.distv.net:80/pedrinho/pedrinho/295
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV DOS VALES" tvg-logo="" group-title="CANAIS LOCAIS",INTERTV DOS VALES
-http://rec2.distv.net:80/pedrinho/pedrinho/286
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="" group-title="CANAIS LOCAIS",INTERTV GRANDE MINAS
-http://rec2.distv.net:80/pedrinho/pedrinho/287
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV SERRA MAR" tvg-logo="" group-title="CANAIS LOCAIS",INTERTV SERRA MAR
-http://rec2.distv.net:80/pedrinho/pedrinho/288
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="ENTRETENIMENTO",LIFE TIME
-http://rec2.distv.net:80/pedrinho/pedrinho/167
-#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://distv.net/icons/like.png" group-title="ENTRETENIMENTO",LIKE
-http://rec2.distv.net:80/pedrinho/pedrinho/233
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-http://rec2.distv.net:80/pedrinho/pedrinho/235
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://rec2.distv.net:80/pedrinho/pedrinho/168
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
-http://rec2.distv.net:80/pedrinho/pedrinho/169
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
-http://rec2.distv.net:80/pedrinho/pedrinho/236
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
-http://rec2.distv.net:80/pedrinho/pedrinho/170
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
-http://rec2.distv.net:80/pedrinho/pedrinho/171
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
-http://rec2.distv.net:80/pedrinho/pedrinho/172
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
-http://rec2.distv.net:80/pedrinho/pedrinho/173
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-http://rec2.distv.net:80/pedrinho/pedrinho/174
-#EXTINF:-1 tvg-id="" tvg-name="NBR TV" tvg-logo="http://distv.net/icons/nbr.png" group-title="CANAIS LOCAIS",NBR TV
-http://rec2.distv.net:80/pedrinho/pedrinho/271
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-http://rec2.distv.net:80/pedrinho/pedrinho/175
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-http://rec2.distv.net:80/pedrinho/pedrinho/176
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
-http://rec2.distv.net:80/pedrinho/pedrinho/177
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
-http://rec2.distv.net:80/pedrinho/pedrinho/178
-#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="http://distv.net/icons/playkids.png" group-title="KIDS",PLAY KIDS
-http://rec2.distv.net:80/pedrinho/pedrinho/216
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://distv.net/icons/polishop.png" group-title="CANAIS LOCAIS",POLISHOP
-http://rec2.distv.net:80/pedrinho/pedrinho/272
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-http://rec2.distv.net:80/pedrinho/pedrinho/179
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-http://rec2.distv.net:80/pedrinho/pedrinho/180
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-http://rec2.distv.net:80/pedrinho/pedrinho/181
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-http://rec2.distv.net:80/pedrinho/pedrinho/182
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-http://rec2.distv.net:80/pedrinho/pedrinho/183
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-http://rec2.distv.net:80/pedrinho/pedrinho/237
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-http://rec2.distv.net:80/pedrinho/pedrinho/184
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
-http://rec2.distv.net:80/pedrinho/pedrinho/185
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
-http://rec2.distv.net:80/pedrinho/pedrinho/23
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BRASILIA 
-http://rec2.distv.net:80/pedrinho/pedrinho/25
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD GOIAS 
-http://rec2.distv.net:80/pedrinho/pedrinho/26
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MANAUS
-http://rec2.distv.net:80/pedrinho/pedrinho/22
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MG
-http://rec2.distv.net:80/pedrinho/pedrinho/32
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MINAS 
-http://rec2.distv.net:80/pedrinho/pedrinho/27
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
-http://rec2.distv.net:80/pedrinho/pedrinho/28
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://distv.net/icons/recordnews.png" group-title="CANAIS LOCAIS RECORD",RECORD NEWS TO
-http://rec2.distv.net:80/pedrinho/pedrinho/301
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD PARA 
-http://rec2.distv.net:80/pedrinho/pedrinho/30
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
-http://rec2.distv.net:80/pedrinho/pedrinho/31
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD SP 
-http://rec2.distv.net:80/pedrinho/pedrinho/33
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS TOCANTINS",RECORD TV
-http://rec2.distv.net:80/pedrinho/pedrinho/300
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://distv.net/icons/redegenesis.png" group-title="CANAIS LOCAIS",REDE GENESIS
-http://rec2.distv.net:80/pedrinho/pedrinho/273
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://distv.net/icons/redegospel.png" group-title="CANAIS LOCAIS",REDE GOSPEL
-http://rec2.distv.net:80/pedrinho/pedrinho/274
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="" group-title="CANAIS LOCAIS",REDE MINAS
-http://rec2.distv.net:80/pedrinho/pedrinho/275
-#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://distv.net/icons/seculo21.png" group-title="CANAIS LOCAIS",REDE SECULO 21
-http://rec2.distv.net:80/pedrinho/pedrinho/276
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://distv.net/icons/redesuper.png" group-title="CANAIS LOCAIS",REDE SUPER
-http://rec2.distv.net:80/pedrinho/pedrinho/277
-#EXTINF:-1 tvg-id="" tvg-name="REDE SÉCULO" tvg-logo="" group-title="CANAIS LOCAIS",REDE SÉCULO
-http://rec2.distv.net:80/pedrinho/pedrinho/289
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-http://rec2.distv.net:80/pedrinho/pedrinho/69
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://distv.net/icons/redevida.png" group-title="ENTRETENIMENTO",REDE VIDA
-http://rec2.distv.net:80/pedrinho/pedrinho/218
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",RIT TV
-http://rec2.distv.net:80/pedrinho/pedrinho/70
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-http://rec2.distv.net:80/pedrinho/pedrinho/238
-#EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
-http://rec2.distv.net:80/pedrinho/pedrinho/296
-#EXTINF:-1 tvg-id="" tvg-name="SBT TO" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS TOCANTINS",SBT TO
-http://rec2.distv.net:80/pedrinho/pedrinho/302
-#EXTINF:-1 tvg-id="" tvg-name="SEX HOT " tvg-logo="http://distv.net/icons/sexyhot.png" group-title="ADULTOS",SEX HOT 
-http://rec2.distv.net:80/pedrinho/pedrinho/58
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="http://distv.net/icons/sexprive.png" group-title="ADULTOS",SEX PRIVE
-http://rec2.distv.net:80/pedrinho/pedrinho/59
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://distv.net/icons/smithsonian.png" group-title="ENTRETENIMENTO",SMITHSONIAN
-http://rec2.distv.net:80/pedrinho/pedrinho/239
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
-http://rec2.distv.net:80/pedrinho/pedrinho/187
-#EXTINF:-1 tvg-id="" tvg-name="SPNET" tvg-logo="" group-title="CANAIS LOCAIS",SPNET
-http://rec2.distv.net:80/pedrinho/pedrinho/290
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
-http://rec2.distv.net:80/pedrinho/pedrinho/188
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
-http://rec2.distv.net:80/pedrinho/pedrinho/189
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
-http://rec2.distv.net:80/pedrinho/pedrinho/190
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://rec2.distv.net:80/pedrinho/pedrinho/191
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
-http://rec2.distv.net:80/pedrinho/pedrinho/192
-#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="" group-title="CANAIS LOCAIS",TBC
-http://rec2.distv.net:80/pedrinho/pedrinho/278
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
-http://rec2.distv.net:80/pedrinho/pedrinho/193
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
-http://rec2.distv.net:80/pedrinho/pedrinho/194
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
-http://rec2.distv.net:80/pedrinho/pedrinho/195
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
-http://rec2.distv.net:80/pedrinho/pedrinho/196
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
-http://rec2.distv.net:80/pedrinho/pedrinho/197
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
-http://rec2.distv.net:80/pedrinho/pedrinho/198
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
-http://rec2.distv.net:80/pedrinho/pedrinho/199
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
-http://rec2.distv.net:80/pedrinho/pedrinho/200
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
-http://rec2.distv.net:80/pedrinho/pedrinho/201
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://rec2.distv.net:80/pedrinho/pedrinho/202
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-http://rec2.distv.net:80/pedrinho/pedrinho/203
-#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
-http://rec2.distv.net:80/pedrinho/pedrinho/240
-#EXTINF:-1 tvg-id="" tvg-name="TV ALEPE" tvg-logo="" group-title=" CANAIS LOCAIS RECIFE",TV ALEPE
-http://rec2.distv.net:80/pedrinho/pedrinho/72
-#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA(GLOBO)" tvg-logo="" group-title="CANAIS LOCAIS TOCANTINS",TV ANHANGUERA(GLOBO)
-http://rec2.distv.net:80/pedrinho/pedrinho/303
-#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN" tvg-logo="http://distv.net/icons/tvarapuan.png" group-title="CANAIS LOCAIS PARAIBA",TV ARAPUAN
-http://rec2.distv.net:80/pedrinho/pedrinho/98
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="ENTRETENIMENTO",TV BRASIL
-http://rec2.distv.net:80/pedrinho/pedrinho/241
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL 2
-http://rec2.distv.net:80/pedrinho/pedrinho/279
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO PB" tvg-logo="http://distv.net/icons/tvcabobranco.png" group-title="CANAIS LOCAIS PARAIBA",TV CABO BRANCO PB
-http://rec2.distv.net:80/pedrinho/pedrinho/100
-#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://distv.net/icons/tvcamara.png" group-title="ENTRETENIMENTO",TV CAMARA
-http://rec2.distv.net:80/pedrinho/pedrinho/222
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV CIDADE
-http://rec2.distv.net:80/pedrinho/pedrinho/308
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title="CANAIS LOCAIS CEÁRA",TV CIDADE CE
-http://rec2.distv.net:80/pedrinho/pedrinho/305
-#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE" tvg-logo="http://distv.net/icons/tvclube.png" group-title=" CANAIS LOCAIS RECIFE",TV CLUBE
-http://rec2.distv.net:80/pedrinho/pedrinho/73
-#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO PB" tvg-logo="http://distv.net/icons/tvcorreio.png" group-title="CANAIS LOCAIS PARAIBA",TV CORREIO PB
-http://rec2.distv.net:80/pedrinho/pedrinho/101
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://distv.net/icons/tvdiario.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV DIARIO
-http://rec2.distv.net:80/pedrinho/pedrinho/309
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO CE" tvg-logo="http://distv.net/icons/tvdiario.png" group-title="CANAIS LOCAIS CEÁRA",TV DIARIO CE
-http://rec2.distv.net:80/pedrinho/pedrinho/307
-#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="" group-title="CANAIS LOCAIS",TV ESCOLA DIGITAL
-http://rec2.distv.net:80/pedrinho/pedrinho/280
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
-http://rec2.distv.net:80/pedrinho/pedrinho/91
-#EXTINF:-1 tvg-id="" tvg-name="TV FELIZ" tvg-logo="" group-title=" CANAIS LOCAIS NATAL",TV FELIZ
-http://rec2.distv.net:80/pedrinho/pedrinho/297
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV GLOBO NE
-http://rec2.distv.net:80/pedrinho/pedrinho/75
-#EXTINF:-1 tvg-id="" tvg-name="TV HORIZONTE" tvg-logo="" group-title="CANAIS LOCAIS",TV HORIZONTE
-http://rec2.distv.net:80/pedrinho/pedrinho/281
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" group-title=" CANAIS LOCAIS RECIFE",TV JORNAL
-http://rec2.distv.net:80/pedrinho/pedrinho/76
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR PB" tvg-logo="http://distv.net/icons/tvmiramar.png" group-title="CANAIS LOCAIS PARAIBA",TV MIRAMAR PB
-http://rec2.distv.net:80/pedrinho/pedrinho/102
-#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="" group-title="CANAIS LOCAIS TOCANTINS",TV MUNDIAL
-http://rec2.distv.net:80/pedrinho/pedrinho/304
-#EXTINF:-1 tvg-id="" tvg-name="TV NAZARE" tvg-logo="" group-title="CANAIS LOCAIS",TV NAZARE
-http://rec2.distv.net:80/pedrinho/pedrinho/282
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://distv.net/icons/novanordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV NOVA NORDESTE
-http://rec2.distv.net:80/pedrinho/pedrinho/62
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO
-http://rec2.distv.net:80/pedrinho/pedrinho/242
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO
-http://rec2.distv.net:80/pedrinho/pedrinho/103
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-http://rec2.distv.net:80/pedrinho/pedrinho/204
-#EXTINF:-1 tvg-id="" tvg-name="TV RIOSUL" tvg-logo="http://distv.net/icons/tvriosul.png" group-title="CANAIS LOCAIS",TV RIOSUL
-http://rec2.distv.net:80/pedrinho/pedrinho/283
-#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA" tvg-logo="http://distv.net/icons/tvtaroba.png" group-title="CANAIS LOCAIS PARANÁ",TV TAROBA
-http://rec2.distv.net:80/pedrinho/pedrinho/109
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title=" CANAIS LOCAIS RECIFE",TV TRIBUNA
-http://rec2.distv.net:80/pedrinho/pedrinho/77
-#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="" group-title=" CANAIS LOCAIS NATAL",TV TROPICAL (RECORD TV)
-http://rec2.distv.net:80/pedrinho/pedrinho/298
-#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" group-title="CANAIS LOCAIS PARAIBA",TV UFPB TV
-http://rec2.distv.net:80/pedrinho/pedrinho/104
-#EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV UNIAO
-http://rec2.distv.net:80/pedrinho/pedrinho/92
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES" tvg-logo="http://distv.net/icons/globotvverdesmares.png" group-title="CANAIS LOCAIS CEÁRA",TV VERDE MARES
-http://rec2.distv.net:80/pedrinho/pedrinho/310
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES CE" tvg-logo="http://distv.net/icons/globotvverdesmares.png" group-title="CANAIS LOCAIS CEÁRA",TV VERDE MARES CE
-http://rec2.distv.net:80/pedrinho/pedrinho/306
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE
-http://rec2.distv.net:80/pedrinho/pedrinho/293
-#EXTINF:-1 tvg-id="" tvg-name="TVE REME" tvg-logo="" group-title="CANAIS LOCAIS",TVE REME
-http://rec2.distv.net:80/pedrinho/pedrinho/291
-#EXTINF:-1 tvg-id="" tvg-name="TVUP FUTURA FHD" tvg-logo="http://distv.net/icons/tvup.png" group-title="CANAIS LOCAIS PARANÁ",TVUP FUTURA FHD
-http://rec2.distv.net:80/pedrinho/pedrinho/111
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://rec2.distv.net:80/pedrinho/pedrinho/205
-#EXTINF:-1 tvg-id="" tvg-name="UNIVESP" tvg-logo="" group-title="CANAIS LOCAIS",UNIVESP
-http://rec2.distv.net:80/pedrinho/pedrinho/292
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
-http://rec2.distv.net:80/pedrinho/pedrinho/206
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
-http://rec2.distv.net:80/pedrinho/pedrinho/207
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://rec2.distv.net:80/pedrinho/pedrinho/208
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-http://rec2.distv.net:80/pedrinho/pedrinho/243
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-http://rec2.distv.net:80/pedrinho/pedrinho/244
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CANAIS LOCAIS",PLAY TV
-http://rec2.distv.net:80/pedrinho/pedrinho/217
-####FILMES####
+#EXTINF:-1,-------| BRAZIL |-------
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116352
+#EXTINF:-1,|BRAZIL|FOX PREMIUM  2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28902
+#EXTINF:-1,|BR| AMC HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28887
+#EXTINF:-1,|BR| AXN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28900
+#EXTINF:-1,|BR| BAND HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28932
+#EXTINF:-1,|BR| BAND NEWS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28876
+#EXTINF:-1,|BR| BAND SPORTS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28868
+#EXTINF:-1,|BR| TLC HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28827
+#EXTINF:-1,|BR| UNIVERSAL CHANNEL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28841
+#EXTINF:-1,|BR| E! HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28821
+#EXTINF:-1,|BR| GLOBO NORDESTE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28867
+#EXTINF:-1,|BR| Rede New
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28835
+#EXTINF:-1,|BR| FOOD NETWORK HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28814
+#EXTINF:-1,|BR| FOX HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28904
+#EXTINF:-1,|BR| FOX LIFE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28903
+#EXTINF:-1,|BR| FOX PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28901
+#EXTINF:-1,|BR| FX HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28897
+#EXTINF:-1,|BR| GLOBO NEWS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28877
+#EXTINF:-1,|BR| GLOBO PT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28879
+#EXTINF:-1,|BR|  Globo Amazonica Manaus HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148407
+#EXTINF:-1,|BR|  Globo Amazônica HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148406
+#EXTINF:-1,|BR|  Globo Centro America FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148405
+#EXTINF:-1,|BR|  Globo EPTV Campinas FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148404
+#EXTINF:-1,|BR|  Globo EPTV Ribeirão Preto
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148403
+#EXTINF:-1,|BR|  Globo EPTV Sul de Minas FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148402
+#EXTINF:-1,|BR|  Globo EPTV São Carlos
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148401
+#EXTINF:-1,|BR|  Globo Inter Cabugi HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148400
+#EXTINF:-1,|BR|  Globo Inter PT FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148399
+#EXTINF:-1,|BR|  Globo Inter TV Alto Litoral FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148398
+#EXTINF:-1,|BR|  Globo Inter TV Cabugi FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148397
+#EXTINF:-1,|BR|  Globo Inter TV Grande Minas FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148396
+#EXTINF:-1,|BR|  Globo Minas FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148395
+#EXTINF:-1,|BR|  Globo NOW
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148394
+#EXTINF:-1,|BR|  Globo NSC Centro Oeste FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148393
+#EXTINF:-1,|BR|  Globo NSC Florianopolis FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148392
+#EXTINF:-1,|BR|  Globo NSC TV Blumenau FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148391
+#EXTINF:-1,|BR|  Globo NSC TV Chapeco FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148390
+#EXTINF:-1,|BR|  Globo NSC TV Criciuma FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148389
+#EXTINF:-1,|BR|  Globo NSC TV Joinville FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148388
+#EXTINF:-1,|BR|  Globo RBS TV 4K
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148387
+#EXTINF:-1,|BR|  Globo RBS TV Caxias do Sul FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148386
+#EXTINF:-1,|BR|  Globo RBS TV Pelotas FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148385
+#EXTINF:-1,|BR|  Globo RBS TV POA FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148384
+#EXTINF:-1,|BR|  Globo RBS TV Santa Maria FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148383
+#EXTINF:-1,|BR|  Globo Rede Amazonica FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148382
+#EXTINF:-1,|BR|  Globo RJ FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148381
+#EXTINF:-1,|BR|  Globo RPC Curitiba FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148380
+#EXTINF:-1,|BR|  Globo RPC Foz do Iguaçu FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148379
+#EXTINF:-1,|BR|  Globo RPC Maringa FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148378
+#EXTINF:-1,|BR|  Globo RPC Ponta Grossa FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/148377
+#EXTINF:-1,|BR|  GLOBO EPTV CAMPINAS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28896
+#EXTINF:-1,|BR| GNT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28895
+#EXTINF:-1,|BR| SYFY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28820
+#EXTINF:-1,|BR| LIFETIME HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28819
+#EXTINF:-1,|BR| WOOHOO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28834
+#EXTINF:-1,|BR| MEGAPIX HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28894
+#EXTINF:-1,|BR| MTV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28832
+#EXTINF:-1,|BR| MTV LIVE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28831
+#EXTINF:-1,|BR| MULTISHOW HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28893
+#EXTINF:-1,|BR| Canal Sony
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28830
+#EXTINF:-1,|BR| OFF HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28861
+#EXTINF:-1,|BR| RECORD HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28934
+#EXTINF:-1,|BR| RECORD NEWS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28875
+#EXTINF:-1,|BR| REDE TV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28931
+#EXTINF:-1,|BR| REDE VIDA
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28816
+#EXTINF:-1,|BR| SBT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28933
+#EXTINF:-1,|BR| SPACE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28884
+#EXTINF:-1,|BR| SYFY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28890
+#EXTINF:-1,|BR| TLC HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28881
+#EXTINF:-1,|BR| VIVA HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28823
+#EXTINF:-1,|BR| WOOHOO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28862
+#EXTINF:-1,-----| DOCUMENTARY |-----
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116351
+#EXTINF:-1,|BR| ANIMAL PLANET HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28846
+#EXTINF:-1,|BR| NATGEO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28837
+#EXTINF:-1,|BR| NATGEO WILD HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28836
+#EXTINF:-1,|BR| DISCOVERY CIVILIZATION HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28844
+#EXTINF:-1,|BR| DISCOVERY H&H HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28843
+#EXTINF:-1,|BR| DISCOVERY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28842
+#EXTINF:-1,|BR| DISCOVERY KIDS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28855
+#EXTINF:-1,|BR| DISCOVERY THEATHER HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28840
+#EXTINF:-1,|BR| DISCOVERY TURBO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28839
+#EXTINF:-1,|BR| DISCOVERY WORLD HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28845
+#EXTINF:-1,|BR| HISTORY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28838
+#EXTINF:-1,|BR| H2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28898
+#EXTINF:-1,--------| KIDS |--------
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116348
+#EXTINF:-1,|BR| BOOMERANG HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28858
+#EXTINF:-1,|BR| CARTOON HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28857
+#EXTINF:-1,|BR| DISNEY CHANNEL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28856
+#EXTINF:-1,|BR| DISNEY JUNIOR HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28854
+#EXTINF:-1,|BR| DISNEY XD HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28853
+#EXTINF:-1,|BR| NICK HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28851
+#EXTINF:-1,|BR| NICK JR HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28852
+#EXTINF:-1,-------| SPORTS |-------
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116349
+#EXTINF:-1,|BR| FOX SPORTS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28870
+#EXTINF:-1,|BR| FOX SPORTS 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28869
+#EXTINF:-1,|BR| SPORTV HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28873
+#EXTINF:-1,|BR| SPORT TV 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28871
+#EXTINF:-1,|BR| ESPN BR HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28865
+#EXTINF:-1,|BR| ESPN INTERNACIONAL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28864
+#EXTINF:-1,|BR| COMBATE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28860
+#EXTINF:-1,-------| CINEMA |-------
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/116350
+#EXTINF:-1,|BR| HBO HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28916
+#EXTINF:-1,|BR| HBO PLUS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28913
+#EXTINF:-1,|BR| HBO2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28915
+#EXTINF:-1,|BR| HBO FAMILY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28914
+#EXTINF:-1,|BR| HBO SIGNATURE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28912
+#EXTINF:-1,|BR| PREMIERE 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28928
+#EXTINF:-1,|BR| PREMIERE 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28927
+#EXTINF:-1,|BR| PREMIERE 4 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28926
+#EXTINF:-1,|BR| PREMIERE 5 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28925
+#EXTINF:-1,|BR| PREMIERE 6 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28924
+#EXTINF:-1,|BR| PREMIERE 7 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28923
+#EXTINF:-1,|BR| PREMIERE CLUBES HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28863
+#EXTINF:-1,|BR| TELECINE ACTION HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28922
+#EXTINF:-1,|BR| TELECINE CULT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28921
+#EXTINF:-1,|BR| TELECINE FUN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28920
+#EXTINF:-1,|BR| TELECINE PIPOCA HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28919
+#EXTINF:-1,|BR| TELECINE PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28918
+#EXTINF:-1,|BR| TELECINE TOUCH HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28917
+#EXTINF:-1,|BR| TNT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28889
+#EXTINF:-1,|BR| CINEMAX HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28906
+#EXTINF:-1,|BR| SONY  HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28885
+#EXTINF:-1,|BR| PARAMOUNT HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28892
+#EXTINF:-1,|BR| STUDIO UNIVERSAL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28908
+#EXTINF:-1,|BR| COMEDY CENTRAL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28905
+#EXTINF:-1,|BR| UNIVERSAL CHANNEL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28899
+#EXTINF:-1,|BR| WARNER CHANNEL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/28907
+####
