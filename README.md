@@ -31,6 +31,10 @@ http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
 #EXTINF:-1,Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1,Premiere 3
+http://200.4.96.35:8003/play/a03r/index.m3u8
+#EXTINF:-1,Premiere 4
+http://200.4.96.35:8003/play/a022/index.m3u8
 #EXTINF:-1,Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
 #EXTINF:-1,Premiere Clubes HD
