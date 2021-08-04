@@ -37,6 +37,22 @@ http://200.4.96.35:8003/play/a03r/index.m3u8
 http://200.4.96.35:8003/play/a022/index.m3u8
 #EXTINF:-1,Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1,Premiere 6
+http://200.4.96.35:8002/play/a0ed/index.m3u8
+#EXTINF:-1,Premiere 6
+http://201.159.95.114:8000/play/a0bu/index.m3u8
+#EXTINF:-1,Premiere 6 HD
+http://201.159.95.238:8000/play/a01m/index.m3u8
+#EXTINF:-1,Premiere 7
+http://200.4.96.35:8001/play/a0ee/index.m3u8
+#EXTINF:-1,Premiere 7
+http://200.4.96.35:8002/play/a0ee/index.m3u8
+#EXTINF:-1,Premiere 7
+http://201.159.95.114:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://201.159.95.238:8000/play/a01n/index.m3u8
+#EXTINF:-1,Premiere 8 HD | SPORTV ALTERNATIVO
+http://201.159.95.238:8000/play/a01o/index.m3u8
 #EXTINF:-1,Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 #EXTINF:-1,Sextreme
