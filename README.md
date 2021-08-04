@@ -185,4 +185,23 @@ http://201.159.95.114:8000/play/a0dh/index.m3u8
 http://200.4.96.35:8001/play/a0eb/index.m3u8
 #EXTINF:-1,CONMEBOL TV 4
 http://200.4.96.35:8002/play/a0eb/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
+#EXTINF:-1,SporTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1,SporTV
+http://200.4.96.35:8003/play/a03q/index.m3u8
+#EXTINF:-1,SporTV 2
+http://200.4.96.35:8003/play/a03p/index.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://201.159.95.114:8000/play/a0bd/index.m3u8
+#EXTINF:-1,SporTV 3
+http://200.4.96.35:8002/play/a0ej/index.m3u8
+#EXTINF:-1,SporTV 3
+http://201.159.95.114:8000/play/a0ea/index.m3u8
+#EXTINF:-1,SporTV HD
+http://201.159.95.238:8000/play/a01y/index.m3u8
+#EXTINF:-1,SporTV2 HD
+http://201.159.95.238:8000/play/a01x/index.m3u8
+#EXTINF:-1,SporTV3
+http://200.4.96.35:8001/play/a0ej/index.m3u8
+#EXTINF:-1,SporTV3 HD
+http://201.159.95.238:8000/play/a01t/index.m3u8
