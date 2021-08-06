@@ -173,7 +173,7 @@ http://187.120.222.12:8000/play/CNNBrasil/index.m3u8
 http://187.120.222.12:8000/play/a04n/index.m3u8
 #EXTINF:-1,FOX Life HD
 http://187.120.222.12:8000/play/a04p/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1,tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
 http://187.120.222.12:8000/play/a04o/index.m3u8
 #EXTINF:-1,Trace Brazuca HD
 http://187.120.222.12:8000/play/TraceBrazuca/index.m3u8
@@ -205,17 +205,17 @@ http://201.159.95.114:8000/play/a0dh/index.m3u8
 http://200.4.96.35:8001/play/a0eb/index.m3u8
 #EXTINF:-1,CONMEBOL TV 4
 http://200.4.96.35:8002/play/a0eb/index.m3u8
-#EXTINF:-1,SporTV
+#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-#EXTINF:-1,SporTV
+#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV Alternativo
 http://200.4.96.35:8003/play/a03q/index.m3u8
-#EXTINF:-1,SporTV 2
+#EXTINF:-1,tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
 http://200.4.96.35:8003/play/a03p/index.m3u8
-#EXTINF:-1,SporTV 2 Alternativo
+#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV 2 Alt" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV 2 Alt
 http://201.159.95.114:8000/play/a0bd/index.m3u8
-#EXTINF:-1,SporTV 3
+#EXTINF:-1,tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
 http://200.4.96.35:8002/play/a0ej/index.m3u8
-#EXTINF:-1,SporTV 3
+#EXTINF:-1,tvg-id="sportv3.br" tvg-name="SporTV 3 Alt" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 Alt
 http://201.159.95.114:8000/play/a0ea/index.m3u8
 #EXTINF:-1,SporTV HD
 http://201.159.95.238:8000/play/a01y/index.m3u8
