@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,AXN HD
+#EXTINF:-1,tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
 http://187.120.222.12:8000/play/AXNLEG/index.m3u8
 #EXTINF:-1,Boa Vontade TV
 http://187.120.222.12:8000/play/BoaVontade/index.m3u8
-#EXTINF:-1,Canal Sony HD
+#EXTINF:-1,tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.servidor.tv/sony.png" group-title="Canais: Filme e Série",Sony HD
 http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
 #EXTINF:-1,Cultura HD
 http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1,FOX HD
+#EXTINF:-1,tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="https://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD
 http://187.120.222.12:8000/play/FOXLEG/index.m3u8
 #EXTINF:-1,FOX Life HD
 http://187.120.222.12:8000/play/a00q/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1,tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://187.120.222.12:8000/play/a00k/index.m3u8
@@ -187,21 +187,21 @@ http://187.120.222.12:8000/play/a057/index.m3u8
 http://187.120.222.12:8000/play/a056/index.m3u8
 #EXTINF:-1,RBSTV P FUNDO
 http://187.120.222.12:8000/play/a059/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
 http://200.4.96.35:8004/play/a0dy/index.m3u8
 #EXTINF:-1,CONMEBOL TV 1
 http://201.159.95.114:8000/play/a0bb/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD
 http://200.4.96.35:8004/play/a0dz/index.m3u8
 #EXTINF:-1,CONMEBOL TV 2
 http://201.159.95.114:8000/play/a0ap/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
 http://200.4.96.35:8001/play/a0ea/index.m3u8
 #EXTINF:-1,CONMEBOL TV 3
 http://200.4.96.35:8002/play/a0ea/index.m3u8
 #EXTINF:-1,CONMEBOL TV 3
 http://201.159.95.114:8000/play/a0dh/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
 http://200.4.96.35:8001/play/a0eb/index.m3u8
 #EXTINF:-1,CONMEBOL TV 4
 http://200.4.96.35:8002/play/a0eb/index.m3u8
