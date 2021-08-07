@@ -13,47 +13,41 @@ http://187.120.222.12:8000/play/FOXLEG/index.m3u8
 http://187.120.222.12:8000/play/a00q/index.m3u8
 #EXTINF:-1,tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1,HBO tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
 http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,tvg-id="hbo.br" tvg-name="HBO LEG HD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO LEG HD
 http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1,tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
 http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1,HBO+ HD
+#EXTINF:-1,tvg-id="hboplusbrasil.br" tvg-name="HBO Plus LEG HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus LEG HD
 http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1,HBO2 HD
+#EXTINF:-1,tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
 http://187.120.222.12:8000/play/a00i/index.m3u8
 #EXTINF:-1,Like HD
 http://187.120.222.12:8000/play/LikeHD/index.m3u8
 #EXTINF:-1,MAX UP HD
 http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
-#EXTINF:-1,Megapix HD
+#EXTINF:-1,tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
-#EXTINF:-1,Premiere 2 HD
+#EXTINF:-1,tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1,Premiere 3
+#EXTINF:-1,tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
 http://200.4.96.35:8003/play/a03r/index.m3u8
-#EXTINF:-1,Premiere 4
+#EXTINF:-1,tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
 http://200.4.96.35:8003/play/a022/index.m3u8
-#EXTINF:-1,Premiere 5 HD
+#EXTINF:-1,tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1,Premiere 6
+#EXTINF:-1,tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
 http://200.4.96.35:8002/play/a0ed/index.m3u8
-#EXTINF:-1,Premiere 6
+#EXTINF:-1,tvg-id="premiere6.br" tvg-name="Premiere 6 ALT HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 ALT HD
 http://201.159.95.114:8000/play/a0bu/index.m3u8
-#EXTINF:-1,Premiere 6 HD
-http://201.159.95.238:8000/play/a01m/index.m3u8
-#EXTINF:-1,Premiere 7
+#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
 http://200.4.96.35:8001/play/a0ee/index.m3u8
-#EXTINF:-1,Premiere 7
+#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 7 ALT HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 ALT HD
 http://200.4.96.35:8002/play/a0ee/index.m3u8
-#EXTINF:-1,Premiere 7
-http://201.159.95.114:8000/play/a0c0/index.m3u8
-#EXTINF:-1,Premiere 7 HD
-http://201.159.95.238:8000/play/a01n/index.m3u8
-#EXTINF:-1,Premiere 8 HD | SPORTV ALTERNATIVO
+#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 8 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 8 HD
 http://201.159.95.238:8000/play/a01o/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
+#EXTINF:-1,tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
 #EXTINF:-1,Sextreme
 http://187.120.222.12:8000/play/Sextreme/index.m3u8
@@ -197,13 +191,13 @@ http://200.4.96.35:8004/play/a0dz/index.m3u8
 http://201.159.95.114:8000/play/a0ap/index.m3u8
 #EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
 http://200.4.96.35:8001/play/a0ea/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
 http://200.4.96.35:8002/play/a0ea/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 ALT HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 ALT HD
 http://201.159.95.114:8000/play/a0dh/index.m3u8
 #EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
 http://200.4.96.35:8001/play/a0eb/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 ALT HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 ALT HD
 http://200.4.96.35:8002/play/a0eb/index.m3u8
 #EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
