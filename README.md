@@ -73,14 +73,6 @@ http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 http://187.120.222.12:8000/play/UniversalTV/index.m3u8
 #EXTINF:-1,tvg-id="warnerchannel.br" tvg-name="Warner Channel LEG HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel LEG HD
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
-#EXTINF:-1,BBB HD 1
-http://187.120.222.12:8000/play/BBBHD1a/index.m3u8
-#EXTINF:-1,BBB HD 1
-http://187.120.222.12:8000/play/BBBHD1/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/a01n/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/a01o/index.m3u8
 #EXTINF:-1,Canal Rural
 http://187.120.222.12:8000/play/CanalRural/index.m3u8
 #EXTINF:-1,GloboNews HD
@@ -203,14 +195,6 @@ http://201.159.95.114:8000/play/a0bd/index.m3u8
 http://200.4.96.35:8002/play/a0ej/index.m3u8
 #EXTINF:-1,tvg-id="sportv3.br" tvg-name="SporTV 3 Alt" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 Alt
 http://201.159.95.114:8000/play/a0ea/index.m3u8
-#EXTINF:-1,SporTV HD
-http://201.159.95.238:8000/play/a01y/index.m3u8
-#EXTINF:-1,SporTV2 HD
-http://201.159.95.238:8000/play/a01x/index.m3u8
-#EXTINF:-1,SporTV3
-http://200.4.96.35:8001/play/a0ej/index.m3u8
-#EXTINF:-1,SporTV3 HD
-http://201.159.95.238:8000/play/a01t/index.m3u8
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name=" Halloween A Noite do Terror (1978)" tvg-logo="http://floriu.com/imagem/Halloween%20A%20Noite%20do%20Terror%20(1978).jpg" group-title="FILMES ( TERROR )", Halloween A Noite do Terror (1978)
 http://sv1.casaplayer.cf:80/movie/samuel/102030/33891.mkv
