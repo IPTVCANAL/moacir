@@ -57,17 +57,17 @@ http://187.120.222.12:8000/play/TNTLEG/index.m3u8
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 #EXTINF:-1,TV TEM SJRP – Globo HD
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1,Telecine Action HD
+#EXTINF:-1,tvg-id="telecineaction.br" tvg-name="Telecine Action LEG HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action LEG HD
 http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
-#EXTINF:-1,Telecine Cult HD
+#EXTINF:-1,#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
 http://187.120.222.12:8000/play/a00b/index.m3u8
-#EXTINF:-1,Telecine Fun HD
+#EXTINF:-1,tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
 http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1,Telecine Pipoca HD
+#EXTINF:-1,tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
 http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1,Telecine Premium HD
+#EXTINF:-1,tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
 http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1,Telecine Touch HD
+#EXTINF:-1,tvg-id="telecinetouch.br" tvg-name="Telecine Touch LEG HD" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch LEG HD
 http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 #EXTINF:-1,Universal TV HD
 http://187.120.222.12:8000/play/UniversalTV/index.m3u8
