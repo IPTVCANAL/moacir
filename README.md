@@ -451,6 +451,14 @@ http://rec2.distv.net:80/pedrinho/pedrinho/243
 http://rec2.distv.net:80/pedrinho/pedrinho/244
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CANAIS LOCAIS",PLAY TV
 http://rec2.distv.net:80/pedrinho/pedrinho/217
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 1 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 1 HD
+http://200.4.96.35:8004/play/a0dy/index.m3u8
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 2 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 2 HD
+http://200.4.96.35:8004/play/a0dz/index.m3u8
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
+http://200.4.96.35:8001/play/a0ea/index.m3u8
+#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
+http://200.4.96.35:8001/play/a0eb/index.m3u8
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name=" Halloween A Noite do Terror (1978)" tvg-logo="http://floriu.com/imagem/Halloween%20A%20Noite%20do%20Terror%20(1978).jpg" group-title="FILMES ( TERROR )", Halloween A Noite do Terror (1978)
 http://sv1.casaplayer.cf:80/movie/samuel/102030/33891.mkv
