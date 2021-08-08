@@ -71,7 +71,7 @@ http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
 http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 #EXTINF:-1,Universal TV HD
 http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,Warner HD
+#EXTINF:-1,tvg-id="warnerchannel.br" tvg-name="Warner Channel LEG HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel LEG HD
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
 #EXTINF:-1,BBB HD 1
 http://187.120.222.12:8000/play/BBBHD1a/index.m3u8
@@ -81,12 +81,6 @@ http://187.120.222.12:8000/play/BBBHD1/index.m3u8
 http://187.120.222.12:8000/play/a01n/index.m3u8
 #EXTINF:-1,Unknown
 http://187.120.222.12:8000/play/a01o/index.m3u8
-#EXTINF:-1,BBB HD 1
-http://187.120.222.12:8000/play/a01s/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/BBBHD2/index.m3u8
-#EXTINF:-1,Unknown
-http://187.120.222.12:8000/play/BBBHD3/index.m3u8
 #EXTINF:-1,Canal Rural
 http://187.120.222.12:8000/play/CanalRural/index.m3u8
 #EXTINF:-1,GloboNews HD
