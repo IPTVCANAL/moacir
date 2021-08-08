@@ -49,13 +49,11 @@ http://200.4.96.35:8002/play/a0ee/index.m3u8
 http://201.159.95.238:8000/play/a01o/index.m3u8
 #EXTINF:-1,tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,Sextreme
-http://187.120.222.12:8000/play/Sextreme/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1,tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
 http://187.120.222.12:8000/play/a00f/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1,tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte",TNT Sports HD
 http://187.120.222.12:8000/play/TNTLEG/index.m3u8
-#EXTINF:-1,TNT SØries HD
+#EXTINF:-1,tvg-id="tnt.br" tvg-name="TNT Series HD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 #EXTINF:-1,TV TEM SJRP – Globo HD
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
