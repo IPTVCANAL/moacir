@@ -13,66 +13,88 @@ http://187.120.222.12:8000/play/FOXLEG/index.m3u8
 http://187.120.222.12:8000/play/a00q/index.m3u8
 #EXTINF:-1,tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
 http://187.120.222.12:8000/play/FXLEG/index.m3u8
-#EXTINF:-1,HBO tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
+#EXTINF:-1,HBO Family HD
 http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1,tvg-id="hbo.br" tvg-name="HBO LEG HD" tvg-logo="https://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO LEG HD
+#EXTINF:-1,HBO HD
 http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1,tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
+#EXTINF:-1,HBO Signature HD
 http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1,tvg-id="hboplusbrasil.br" tvg-name="HBO Plus LEG HD" tvg-logo="https://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus LEG HD
+#EXTINF:-1,HBO+ HD
 http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1,tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
+#EXTINF:-1,HBO2 HD
 http://187.120.222.12:8000/play/a00i/index.m3u8
 #EXTINF:-1,Like HD
 http://187.120.222.12:8000/play/LikeHD/index.m3u8
 #EXTINF:-1,MAX UP HD
 http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
-#EXTINF:-1,tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.servidor.tv/megapix.png" group-title="Canais: Filme e Série",Megapix HD
+#EXTINF:-1,Megapix HD
 http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
-#EXTINF:-1,tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+#EXTINF:-1,Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1,tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+#EXTINF:-1,Premiere 3
 http://200.4.96.35:8003/play/a03r/index.m3u8
-#EXTINF:-1,tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+#EXTINF:-1,Premiere 4
 http://200.4.96.35:8003/play/a022/index.m3u8
-#EXTINF:-1,tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+#EXTINF:-1,Premiere 5 HD
 http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1,tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+#EXTINF:-1,Premiere 6
 http://200.4.96.35:8002/play/a0ed/index.m3u8
-#EXTINF:-1,tvg-id="premiere6.br" tvg-name="Premiere 6 ALT HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 ALT HD
+#EXTINF:-1,Premiere 6
 http://201.159.95.114:8000/play/a0bu/index.m3u8
-#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+#EXTINF:-1,Premiere 6 HD
+http://201.159.95.238:8000/play/a01m/index.m3u8
+#EXTINF:-1,Premiere 7
 http://200.4.96.35:8001/play/a0ee/index.m3u8
-#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 7 ALT HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 ALT HD
+#EXTINF:-1,Premiere 7
 http://200.4.96.35:8002/play/a0ee/index.m3u8
-#EXTINF:-1,tvg-id="premiere7.br" tvg-name="Premiere 8 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 8 HD
+#EXTINF:-1,Premiere 7
+http://201.159.95.114:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://201.159.95.238:8000/play/a01n/index.m3u8
+#EXTINF:-1,Premiere 8 HD | SPORTV ALTERNATIVO
 http://201.159.95.238:8000/play/a01o/index.m3u8
-#EXTINF:-1,tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.servidor.tv/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+#EXTINF:-1,Premiere Clubes HD
 http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.servidor.tv/space.png" group-title="Canais: Filme e Série",Space HD
+#EXTINF:-1,Sextreme
+http://187.120.222.12:8000/play/Sextreme/index.m3u8
+#EXTINF:-1,Space HD
 http://187.120.222.12:8000/play/a00f/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logos.servidor.tv/tntsport.png" group-title="Canais: Esporte",TNT Sports HD
+#EXTINF:-1,TNT HD
 http://187.120.222.12:8000/play/TNTLEG/index.m3u8
-#EXTINF:-1,tvg-id="tnt.br" tvg-name="TNT Series HD" tvg-logo="https://logos.servidor.tv/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
+#EXTINF:-1,TNT SØries HD
 http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 #EXTINF:-1,TV TEM SJRP – Globo HD
 http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1,tvg-id="telecineaction.br" tvg-name="Telecine Action LEG HD" tvg-logo="https://logos.servidor.tv/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action LEG HD
+#EXTINF:-1,Telecine Action HD
 http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://logos.servidor.tv/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
+#EXTINF:-1,Telecine Cult HD
 http://187.120.222.12:8000/play/a00b/index.m3u8
-#EXTINF:-1,tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://logos.servidor.tv/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
+#EXTINF:-1,Telecine Fun HD
 http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1,tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.servidor.tv/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
+#EXTINF:-1,Telecine Pipoca HD
 http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1,tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://logos.servidor.tv/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
+#EXTINF:-1,Telecine Premium HD
 http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1,tvg-id="telecinetouch.br" tvg-name="Telecine Touch LEG HD" tvg-logo="https://logos.servidor.tv/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch LEG HD
+#EXTINF:-1,Telecine Touch HD
 http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 #EXTINF:-1,Universal TV HD
 http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,tvg-id="warnerchannel.br" tvg-name="Warner Channel LEG HD" tvg-logo="https://logos.servidor.tv/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel LEG HD
+#EXTINF:-1,Warner HD
 http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/BBBHD1a/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/BBBHD1/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/a01n/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/a01o/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/a01s/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/BBBHD2/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/BBBHD3/index.m3u8
 #EXTINF:-1,Canal Rural
 http://187.120.222.12:8000/play/CanalRural/index.m3u8
 #EXTINF:-1,GloboNews HD
@@ -151,7 +173,7 @@ http://187.120.222.12:8000/play/CNNBrasil/index.m3u8
 http://187.120.222.12:8000/play/a04n/index.m3u8
 #EXTINF:-1,FOX Life HD
 http://187.120.222.12:8000/play/a04p/index.m3u8
-#EXTINF:-1,tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
+#EXTINF:-1,FX HD
 http://187.120.222.12:8000/play/a04o/index.m3u8
 #EXTINF:-1,Trace Brazuca HD
 http://187.120.222.12:8000/play/TraceBrazuca/index.m3u8
@@ -175,26 +197,34 @@ http://200.4.96.35:8004/play/a0dz/index.m3u8
 http://201.159.95.114:8000/play/a0ap/index.m3u8
 #EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
 http://200.4.96.35:8001/play/a0ea/index.m3u8
-#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 HD
+#EXTINF:-1,CONMEBOL TV 3
 http://200.4.96.35:8002/play/a0ea/index.m3u8
-#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 3 ALT HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 3 ALT HD
+#EXTINF:-1,CONMEBOL TV 3
 http://201.159.95.114:8000/play/a0dh/index.m3u8
 #EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 HD
 http://200.4.96.35:8001/play/a0eb/index.m3u8
-#EXTINF:-1,tvg-id="Conmebol" tvg-name="Conmebol 4 ALT HD" tvg-logo="https://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 4 ALT HD
+#EXTINF:-1,CONMEBOL TV 4
 http://200.4.96.35:8002/play/a0eb/index.m3u8
-#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
+#EXTINF:-1,SporTV
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV Alternativo
+#EXTINF:-1,SporTV
 http://200.4.96.35:8003/play/a03q/index.m3u8
-#EXTINF:-1,tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
+#EXTINF:-1,SporTV 2
 http://200.4.96.35:8003/play/a03p/index.m3u8
-#EXTINF:-1,tvg-id="sportv.br" tvg-name="SporTV 2 Alt" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV 2 Alt
+#EXTINF:-1,SporTV 2 Alternativo
 http://201.159.95.114:8000/play/a0bd/index.m3u8
-#EXTINF:-1,tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
+#EXTINF:-1,SporTV 3
 http://200.4.96.35:8002/play/a0ej/index.m3u8
-#EXTINF:-1,tvg-id="sportv3.br" tvg-name="SporTV 3 Alt" tvg-logo="https://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 Alt
+#EXTINF:-1,SporTV 3
 http://201.159.95.114:8000/play/a0ea/index.m3u8
+#EXTINF:-1,SporTV HD
+http://201.159.95.238:8000/play/a01y/index.m3u8
+#EXTINF:-1,SporTV2 HD
+http://201.159.95.238:8000/play/a01x/index.m3u8
+#EXTINF:-1,SporTV3
+http://200.4.96.35:8001/play/a0ej/index.m3u8
+#EXTINF:-1,SporTV3 HD
+http://201.159.95.238:8000/play/a01t/index.m3u8
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name=" Halloween A Noite do Terror (1978)" tvg-logo="http://floriu.com/imagem/Halloween%20A%20Noite%20do%20Terror%20(1978).jpg" group-title="FILMES ( TERROR )", Halloween A Noite do Terror (1978)
 http://sv1.casaplayer.cf:80/movie/samuel/102030/33891.mkv
