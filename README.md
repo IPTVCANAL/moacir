@@ -110,6 +110,32 @@ http://serverfulltop.com:80/nilberto/123456/312
 http://serverfulltop.com:80/nilberto/123456/100
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD*" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports SD*
 http://serverfulltop.com:80/nilberto/123456/313
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 FHD
+http://serverfulltop.com:80/nilberto/123456/804
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 HD
+http://serverfulltop.com:80/nilberto/123456/635
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV 2 HD [ALTER]
+http://serverfulltop.com:80/nilberto/123456/82
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 SD
+http://serverfulltop.com:80/nilberto/123456/636
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 FHD
+http://serverfulltop.com:80/nilberto/123456/805
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 HD
+http://serverfulltop.com:80/nilberto/123456/637
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 SD
+http://serverfulltop.com:80/nilberto/123456/638
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 4 FHD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTES",Sportv 4 FHD
+http://serverfulltop.com:80/nilberto/123456/20712
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 4 HD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTES",Sportv 4 HD
+http://serverfulltop.com:80/nilberto/123456/20713
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 4 SD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTES",Sportv 4 SD
+http://serverfulltop.com:80/nilberto/123456/20714
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV 4K" tvg-logo="http://ux.minhatela.vip:80/images/f2e8afb10bd1acf52dc881b99da1489f.png" group-title="4K",SporTV 4K
+http://serverfulltop.com:80/nilberto/123456/265
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV FHD
+http://serverfulltop.com:80/nilberto/123456/806
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD
+http://serverfulltop.com:80/nilberto/123456/639
 #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/bbc-logo.png" group-title="NOTICIAS",BBC WORLD HD
 http://serverfulltop.com:80/nilberto/123456/20836
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="Bis FHD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis FHD
