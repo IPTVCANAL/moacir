@@ -308,27 +308,27 @@ http://serverfulltop.com:80/nilberto/123456/352
 http://serverfulltop.com:80/nilberto/123456/104
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central SD
 http://serverfulltop.com:80/nilberto/123456/353
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",CONMEBOL 1 HD
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",CONMEBOL 1 HD
 http://serverfulltop.com:80/nilberto/123456/14277
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",CONMEBOL 2 HD
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",CONMEBOL 2 HD
 http://serverfulltop.com:80/nilberto/123456/14274
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 FHD
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 1 FHD
 http://serverfulltop.com:80/nilberto/123456/355
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 FHD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 FHD [ALTER 2]
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 FHD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 1 FHD [ALTER 2]
 http://serverfulltop.com:80/nilberto/123456/354
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 HD [ALTER]
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 1 HD [ALTER]
 http://serverfulltop.com:80/nilberto/123456/356
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 2 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 2 FHD
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 2 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 2 FHD
 http://serverfulltop.com:80/nilberto/123456/357
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 2 HD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 2 HD [ALTER 2]
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="Conmebol TV 2 HD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 2 HD [ALTER 2]
 http://serverfulltop.com:80/nilberto/123456/358
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 3 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 3 FHD
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 3 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 3 FHD
 http://serverfulltop.com:80/nilberto/123456/359
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 3 HD
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="Conmebol TV 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 3 HD
 http://serverfulltop.com:80/nilberto/123456/716
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 4 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 4 FHD
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 4 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 4 FHD
 http://serverfulltop.com:80/nilberto/123456/360
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 4 HD [ALTER]
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="Conmebol TV 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="ESPORTES",Conmebol TV 4 HD [ALTER]
 http://serverfulltop.com:80/nilberto/123456/361
 #EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1" tvg-logo="http://u.meulogin.net:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CAMPEONATOS",Copa Nordeste 1
 http://serverfulltop.com:80/nilberto/123456/363
