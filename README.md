@@ -1,1661 +1,1952 @@
-#EXTINF:-1 tvg-id="26" tvg-name="A&E 4K" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="4K",A&E 4K
-http://serverfulltop.com:80/rogerio/rogerio/21418
-#EXTINF:-1 tvg-id="26" tvg-name="A&E FHD" tvg-logo="http://u.meulogin.net:80/images/78330c5ae17c0baf6084035a26df1a35.png" group-title="FILMES E SERIES",A&E FHD
-http://serverfulltop.com:80/rogerio/rogerio/700
-#EXTINF:-1 tvg-id="26" tvg-name="A&E HD" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="FILMES E SERIES",A&E HD
-http://serverfulltop.com:80/rogerio/rogerio/288
-#EXTINF:-1 tvg-id="26" tvg-name="A&E HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/78330c5ae17c0baf6084035a26df1a35.png" group-title="FILMES E SERIES",A&E HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/46
-#EXTINF:-1 tvg-id="26" tvg-name="A&E SD" tvg-logo="http://ux.minhatela.vip:80/images/dbdbc66158890bf65923c8646d00fdaf.png" group-title="FILMES E SERIES",A&E SD
-http://serverfulltop.com:80/rogerio/rogerio/289
-#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="http://ux.minhatela.vip:80/images/822d86a21921864543490c5e596c6b69.png" group-title="ABERTOS",Agro Brasil HD
-http://serverfulltop.com:80/rogerio/rogerio/697
-#EXTINF:-1 tvg-id="Agro Mais" tvg-name="Agro Mais HD" tvg-logo="http://ux.minhatela.vip:80/images/3719a339f165e74e7ab42a48bdc52d41.png" group-title="ABERTOS",Agro Mais HD
-http://serverfulltop.com:80/rogerio/rogerio/698
-#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="http://ux.minhatela.vip:80/images/112db86f2a0db8f90bd703adcef867fc.png" group-title="ESPORTES",All Sports
-http://serverfulltop.com:80/rogerio/rogerio/290
-#EXTINF:-1 tvg-id="1" tvg-name="AMC 4K" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="4K",AMC 4K
-http://serverfulltop.com:80/rogerio/rogerio/41578
-#EXTINF:-1 tvg-id="1" tvg-name="AMC FHD" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC FHD
-http://serverfulltop.com:80/rogerio/rogerio/701
-#EXTINF:-1 tvg-id="1" tvg-name="AMC HD" tvg-logo="http://ux.minhatela.vip:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC HD
-http://serverfulltop.com:80/rogerio/rogerio/291
-#EXTINF:-1 tvg-id="1" tvg-name="AMC HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/47
-#EXTINF:-1 tvg-id="1" tvg-name="AMC SD" tvg-logo="http://u.meulogin.net:80/images/3d69462b1d78e64c62dfa83126f2175a.png" group-title="FILMES E SERIES",AMC SD
-http://serverfulltop.com:80/rogerio/rogerio/292
-#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet 4k" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="4K",Animal Planet 4k
-http://serverfulltop.com:80/rogerio/rogerio/245
-#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet FHD" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet FHD
-http://serverfulltop.com:80/rogerio/rogerio/702
-#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet HD" tvg-logo="http://ux.minhatela.vip:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet HD
-http://serverfulltop.com:80/rogerio/rogerio/293
-#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/48461d199501af467f084647fc71194d.png" group-title="DOCUMENTARIOS",Animal Planet HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/48
-#EXTINF:-1 tvg-id="132" tvg-name="Animal Planet SD" tvg-logo="http://u.meulogin.net:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="DOCUMENTARIOS",Animal Planet SD
-http://serverfulltop.com:80/rogerio/rogerio/294
-#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 FHD" tvg-logo="http://u.meulogin.net:80/images/3f838c01d2c5267cbf9c109091c90a87.png" group-title="FILMES E SERIES",Arte 1 FHD
-http://serverfulltop.com:80/rogerio/rogerio/703
-#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png" group-title="FILMES E SERIES",Arte 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/97
-#EXTINF:-1 tvg-id="89" tvg-name="ARTE 1 HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png" group-title="FILMES E SERIES",ARTE 1 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/14278
-#EXTINF:-1 tvg-id="89" tvg-name="Arte 1 SD" tvg-logo="http://u.meulogin.net:80/images/31b6dd4ecc2c2e1de65bcf4eac145960.png" group-title="FILMES E SERIES",Arte 1 SD
-http://serverfulltop.com:80/rogerio/rogerio/296
-#EXTINF:-1 tvg-id="27" tvg-name="AXN 4K" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="4K",AXN 4K
-http://serverfulltop.com:80/rogerio/rogerio/19296
-#EXTINF:-1 tvg-id="27" tvg-name="AXN FHD" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN FHD
-http://serverfulltop.com:80/rogerio/rogerio/704
-#EXTINF:-1 tvg-id="27" tvg-name="AXN FHD LEG" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="LEGENDADOS",AXN FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/271
-#EXTINF:-1 tvg-id="27" tvg-name="AXN HD" tvg-logo="http://ux.minhatela.vip:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN HD
-http://serverfulltop.com:80/rogerio/rogerio/297
-#EXTINF:-1 tvg-id="27" tvg-name="AXN HD LEG" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="LEGENDADOS",AXN HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20774
-#EXTINF:-1 tvg-id="27" tvg-name="AXN HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/593d06f649c76a30f2f27a552702a819.png" group-title="FILMES E SERIES",AXN HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/49
-#EXTINF:-1 tvg-id="27" tvg-name="AXN SD" tvg-logo="http://u.meulogin.net:80/images/5360ed4bc0c08746770e645fde5348dd.png" group-title="FILMES E SERIES",AXN SD
-http://serverfulltop.com:80/rogerio/rogerio/298
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://static.wikia.nocookie.net/santiago/images/1/16/Bftvlogo2019.png" group-title="INFANTIL",Baby First
-http://serverfulltop.com:80/rogerio/rogerio/14602
-#EXTINF:-1 tvg-id="72" tvg-name="BabyTV FHD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV FHD
-http://serverfulltop.com:80/rogerio/rogerio/705
-#EXTINF:-1 tvg-id="72" tvg-name="BabyTV HD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV HD
-http://serverfulltop.com:80/rogerio/rogerio/299
-#EXTINF:-1 tvg-id="72" tvg-name="BabyTV HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/98
-#EXTINF:-1 tvg-id="72" tvg-name="BabyTV SD" tvg-logo="http://u.meulogin.net:80/images/b055d436f0b5d380c1e2a61206c8b60c.png" group-title="INFANTIL",BabyTV SD
-http://serverfulltop.com:80/rogerio/rogerio/300
-#EXTINF:-1 tvg-id="157" tvg-name="Band 4K" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="4K",Band 4K
-http://serverfulltop.com:80/rogerio/rogerio/246
-#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="Band Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Bahia HD
-http://serverfulltop.com:80/rogerio/rogerio/301
-#EXTINF:-1 tvg-id="Band Brasília" tvg-name="Band Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Brasilia HD
-http://serverfulltop.com:80/rogerio/rogerio/302
-#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="Band Campinas HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Campinas HD
-http://serverfulltop.com:80/rogerio/rogerio/303
-#EXTINF:-1 tvg-id="Band Curitiba HD" tvg-name="Band Curitiba HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Curitiba HD
-http://serverfulltop.com:80/rogerio/rogerio/20837
-#EXTINF:-1 tvg-id="148" tvg-name="Band News 4K" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png" group-title="4K",Band News 4K
-http://serverfulltop.com:80/rogerio/rogerio/19295
-#EXTINF:-1 tvg-id="148" tvg-name="Band News FHD" tvg-logo="http://u.meulogin.net:80/images/47edc605752b0883c16e44c1f18115a8.png" group-title="NOTICIAS",Band News FHD
-http://serverfulltop.com:80/rogerio/rogerio/706
-#EXTINF:-1 tvg-id="148" tvg-name="Band News HD" tvg-logo="http://ux.minhatela.vip:80/images/bbf92603486f1a8723f31caa538a0d2a.png" group-title="NOTICIAS",Band News HD
-http://serverfulltop.com:80/rogerio/rogerio/304
-#EXTINF:-1 tvg-id="148" tvg-name="Band News HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/bbf92603486f1a8723f31caa538a0d2a.png" group-title="NOTICIAS",Band News HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/99
-#EXTINF:-1 tvg-id="148" tvg-name="Band News SD" tvg-logo="http://u.meulogin.net:80/images/bbf92603486f1a8723f31caa538a0d2a.png" group-title="NOTICIAS",Band News SD
-http://serverfulltop.com:80/rogerio/rogerio/305
-#EXTINF:-1 tvg-id="Band Curitiba HD" tvg-name="Band Parana HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band Parana HD
-http://serverfulltop.com:80/rogerio/rogerio/306
-#EXTINF:-1 tvg-id="Band RJ HD" tvg-name="BAND RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",BAND RJ HD
-http://serverfulltop.com:80/rogerio/rogerio/15468
-#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="Band RS HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band RS HD
-http://serverfulltop.com:80/rogerio/rogerio/308
-#EXTINF:-1 tvg-id="157" tvg-name="Band SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP FHD
-http://serverfulltop.com:80/rogerio/rogerio/707
-#EXTINF:-1 tvg-id="157" tvg-name="Band SP HD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP HD
-http://serverfulltop.com:80/rogerio/rogerio/310
-#EXTINF:-1 tvg-id="157" tvg-name="Band SP SD" tvg-logo="http://ux.minhatela.vip:80/images/4c340e00fc2fd4531df5122e218bcc42.png" group-title="ABERTOS",Band SP SD
-http://serverfulltop.com:80/rogerio/rogerio/311
-#EXTINF:-1 tvg-id="45" tvg-name="Band Sports 4K" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="4K",Band Sports 4K
-http://serverfulltop.com:80/rogerio/rogerio/19294
-#EXTINF:-1 tvg-id="45" tvg-name="Band Sports FHD" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports FHD
-http://serverfulltop.com:80/rogerio/rogerio/708
-#EXTINF:-1 tvg-id="45" tvg-name="Band Sports HD" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports HD
-http://serverfulltop.com:80/rogerio/rogerio/312
-#EXTINF:-1 tvg-id="45" tvg-name="Band Sports HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/100
-#EXTINF:-1 tvg-id="45" tvg-name="Band Sports SD*" tvg-logo="http://u.meulogin.net:80/images/15b25d884191cd85c238db4fdcec1386.png" group-title="ESPORTES",Band Sports SD*
-http://serverfulltop.com:80/rogerio/rogerio/313
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC WORLD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/bbc-logo.png" group-title="NOTICIAS",BBC WORLD HD
-http://serverfulltop.com:80/rogerio/rogerio/20836
-#EXTINF:-1 tvg-id="90" tvg-name="BIS 4K" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="4K",BIS 4K
-http://serverfulltop.com:80/rogerio/rogerio/41579
-#EXTINF:-1 tvg-id="90" tvg-name="Bis FHD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis FHD
-http://serverfulltop.com:80/rogerio/rogerio/709
-#EXTINF:-1 tvg-id="90" tvg-name="Bis HD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis HD
-http://serverfulltop.com:80/rogerio/rogerio/314
-#EXTINF:-1 tvg-id="90" tvg-name="Bis HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/101
-#EXTINF:-1 tvg-id="90" tvg-name="Bis SD" tvg-logo="http://u.meulogin.net:80/images/d9985e1b0041aacef7251bb56a6d7327.png" group-title="VARIEDADES E MUSICAIS",Bis SD
-http://serverfulltop.com:80/rogerio/rogerio/315
-#EXTINF:-1 tvg-id="73" tvg-name="Boomerang 4K" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="4K",Boomerang 4K
-http://serverfulltop.com:80/rogerio/rogerio/19293
-#EXTINF:-1 tvg-id="73" tvg-name="Boomerang FHD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Boomerang FHD
-http://serverfulltop.com:80/rogerio/rogerio/710
-#EXTINF:-1 tvg-id="73" tvg-name="Boomerang HD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Boomerang HD
-http://serverfulltop.com:80/rogerio/rogerio/316
-#EXTINF:-1 tvg-id="73" tvg-name="Boomerang HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Boomerang HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/50
-#EXTINF:-1 tvg-id="73" tvg-name="Boomerang SD" tvg-logo="http://u.meulogin.net:80/images/4123616c747d753a6279fe0759aa4ca7.png" group-title="INFANTIL",Boomerang SD
-http://serverfulltop.com:80/rogerio/rogerio/317
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (COZINHA)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (COZINHA)
-http://serverfulltop.com:80/rogerio/rogerio/20812
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (PISCINA)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (PISCINA)
-http://serverfulltop.com:80/rogerio/rogerio/20813
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (QUARTO)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (QUARTO)
-http://serverfulltop.com:80/rogerio/rogerio/20814
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (SACADA)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (SACADA)
-http://serverfulltop.com:80/rogerio/rogerio/20815
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (SALA 2)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (SALA 2)
-http://serverfulltop.com:80/rogerio/rogerio/20816
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (SALA PRINCINPAL)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (SALA PRINCINPAL)
-http://serverfulltop.com:80/rogerio/rogerio/20817
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS (STUDIO)" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRASILEIRINHAS (STUDIO)
-http://serverfulltop.com:80/rogerio/rogerio/20818
-#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS FHD" tvg-logo="http://ux.minhatela.vip:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",BRAZZERS FHD
-http://serverfulltop.com:80/rogerio/rogerio/828
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/66e8ba8216a1e152d72653d99a4f03ab.png" group-title="CAMPEONATOS",Campeonato Carioca 1 FHD
-http://serverfulltop.com:80/rogerio/rogerio/318
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/66e8ba8216a1e152d72653d99a4f03ab.png" group-title="CAMPEONATOS",Campeonato Carioca 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/319
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 FHD" tvg-logo="http://u.meulogin.net:80/images/66e8ba8216a1e152d72653d99a4f03ab.png" group-title="CAMPEONATOS",Campeonato Carioca 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/320
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 HD" tvg-logo="http://u.meulogin.net:80/images/66e8ba8216a1e152d72653d99a4f03ab.png" group-title="CAMPEONATOS",Campeonato Carioca 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/321
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense HD 1" tvg-logo="http://ux.minhatela.vip:80/images/ee2b6b899d0f15e374da43150a00b838.png" group-title="CAMPEONATOS",Campeonato Catarinense HD 1
-http://serverfulltop.com:80/rogerio/rogerio/322
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense HD 2" tvg-logo="http://ux.minhatela.vip:80/images/ee2b6b899d0f15e374da43150a00b838.png" group-title="CAMPEONATOS",Campeonato Catarinense HD 2
-http://serverfulltop.com:80/rogerio/rogerio/323
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 2021 HD" tvg-logo="http://u.meulogin.net:80/images/cafe7ba9a34b483071a84fcf3fbad883.png" group-title="CAMPEONATOS",Campeonato Sergipano 2021 HD
-http://serverfulltop.com:80/rogerio/rogerio/324
-#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil 4K" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png" group-title="4K",Canal Brasil 4K
-http://serverfulltop.com:80/rogerio/rogerio/41580
-#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil FHD" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png" group-title="FILMES E SERIES",Canal Brasil FHD
-http://serverfulltop.com:80/rogerio/rogerio/827
-#EXTINF:-1 tvg-id="2" tvg-name="Canal Brasil HD" tvg-logo="http://ux.minhatela.vip:80/images/0bdba217c57922ca70453187ce757b8a.png" group-title="FILMES E SERIES",Canal Brasil HD
-http://serverfulltop.com:80/rogerio/rogerio/325
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://ux.minhatela.vip:80/images/5e711b057e3dcf51d19020d88ae00bce.png" group-title="ABERTOS",Canal do Boi HD
-http://serverfulltop.com:80/rogerio/rogerio/699
-#EXTINF:-1 tvg-id="92" tvg-name="Canal Rural HD" tvg-logo="http://ux.minhatela.vip:80/images/6d03d7ca9f00a58a2327ae6d6c939051.png" group-title="ABERTOS",Canal Rural HD
-http://serverfulltop.com:80/rogerio/rogerio/326
-#EXTINF:-1 tvg-id="93" tvg-name="Canção Nova HD" tvg-logo="http://u.meulogin.net:80/images/408d8d584a3d301898666a3062d5a5f2.jpg" group-title="RELIGIOSOS",Canção Nova HD
-http://serverfulltop.com:80/rogerio/rogerio/327
-#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network 4K" tvg-logo="http://ux.minhatela.vip:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="4K",Cartoon Network 4K
-http://serverfulltop.com:80/rogerio/rogerio/247
-#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network FHD" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network FHD
-http://serverfulltop.com:80/rogerio/rogerio/711
-#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network HD" tvg-logo="http://ux.minhatela.vip:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network HD
-http://serverfulltop.com:80/rogerio/rogerio/328
-#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/51
-#EXTINF:-1 tvg-id="74" tvg-name="Cartoon Network SD" tvg-logo="http://u.meulogin.net:80/images/89827dcd9dc1ab6712cd1de825153706.png" group-title="INFANTIL",Cartoon Network SD
-http://serverfulltop.com:80/rogerio/rogerio/329
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="Chef TV FHD" tvg-logo="http://ux.minhatela.vip:80/images/c64f97c06632d1e7bd43603c64c19e67.png" group-title="VARIEDADES E MUSICAIS",Chef TV FHD
-http://serverfulltop.com:80/rogerio/rogerio/20835
-#EXTINF:-1 tvg-id="Chef TV" tvg-name="Chef TV HD" tvg-logo="http://ux.minhatela.vip:80/images/c64f97c06632d1e7bd43603c64c19e67.png" group-title="VARIEDADES E MUSICAIS",Chef TV HD
-http://serverfulltop.com:80/rogerio/rogerio/330
-#EXTINF:-1 tvg-id="" tvg-name="Cine GO #1 (Lançamentos HBO)" tvg-logo="http://u.meulogin.net:80/images/b76cdd7d784d59d606a6c20da1ce2359.png" group-title="CINE SKY",Cine GO #1 (Lançamentos HBO)
-http://serverfulltop.com:80/rogerio/rogerio/216
-#EXTINF:-1 tvg-id="" tvg-name="Cine GO #2 (Lançamentos HBO)" tvg-logo="http://u.meulogin.net:80/images/b76cdd7d784d59d606a6c20da1ce2359.png" group-title="CINE SKY",Cine GO #2 (Lançamentos HBO)
-http://serverfulltop.com:80/rogerio/rogerio/217
-#EXTINF:-1 tvg-id="" tvg-name="Cine GO #3 (Lançamentos HBO)" tvg-logo="http://u.meulogin.net:80/images/b76cdd7d784d59d606a6c20da1ce2359.png" group-title="CINE SKY",Cine GO #3 (Lançamentos HBO)
-http://serverfulltop.com:80/rogerio/rogerio/218
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca #1 (Lançamentos TeleCine)" tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="CINE SKY",Cine Pipoca #1 (Lançamentos TeleCine)
-http://serverfulltop.com:80/rogerio/rogerio/211
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca #2 (Lançamentos TeleCine)" tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="CINE SKY",Cine Pipoca #2 (Lançamentos TeleCine)
-http://serverfulltop.com:80/rogerio/rogerio/212
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca #3 (Lançamentos TeleCine)" tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="CINE SKY",Cine Pipoca #3 (Lançamentos TeleCine)
-http://serverfulltop.com:80/rogerio/rogerio/213
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca #4 (Lançamentos TeleCine)" tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="CINE SKY",Cine Pipoca #4 (Lançamentos TeleCine)
-http://serverfulltop.com:80/rogerio/rogerio/214
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca #5 (Lançamentos TeleCine)" tvg-logo="http://u.meulogin.net:80/images/e855eb2baf0212f2e9bf9efc593c67b4.png" group-title="CINE SKY",Cine Pipoca #5 (Lançamentos TeleCine)
-http://serverfulltop.com:80/rogerio/rogerio/215
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 01 FHD
-http://serverfulltop.com:80/rogerio/rogerio/331
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 02 FHD
-http://serverfulltop.com:80/rogerio/rogerio/332
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 03 FHD
-http://serverfulltop.com:80/rogerio/rogerio/333
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 04 FHD
-http://serverfulltop.com:80/rogerio/rogerio/334
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05 FHD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 05 FHD
-http://serverfulltop.com:80/rogerio/rogerio/335
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 06 HD
-http://serverfulltop.com:80/rogerio/rogerio/336
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 07 HD
-http://serverfulltop.com:80/rogerio/rogerio/337
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 08 HD
-http://serverfulltop.com:80/rogerio/rogerio/338
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 09 HD
-http://serverfulltop.com:80/rogerio/rogerio/339
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 10 HD
-http://serverfulltop.com:80/rogerio/rogerio/340
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 11 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 11 HD
-http://serverfulltop.com:80/rogerio/rogerio/341
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 12 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 12 HD
-http://serverfulltop.com:80/rogerio/rogerio/342
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 13 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 13 HD
-http://serverfulltop.com:80/rogerio/rogerio/343
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 14 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 14 HD
-http://serverfulltop.com:80/rogerio/rogerio/344
-#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 15 HD" tvg-logo="http://ux.minhatela.vip:80/images/ff17f5ee247e0b84e4525374ed3cba69.jpg" group-title="CINE SKY",Cine SKY 15 HD
-http://serverfulltop.com:80/rogerio/rogerio/345
-#EXTINF:-1 tvg-id="3" tvg-name="Cinemax 4K" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="4K",Cinemax 4K
-http://serverfulltop.com:80/rogerio/rogerio/19292
-#EXTINF:-1 tvg-id="3" tvg-name="Cinemax FHD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax FHD
-http://serverfulltop.com:80/rogerio/rogerio/712
-#EXTINF:-1 tvg-id="3" tvg-name="Cinemax HD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax HD
-http://serverfulltop.com:80/rogerio/rogerio/346
-#EXTINF:-1 tvg-id="3" tvg-name="Cinemax HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/102
-#EXTINF:-1 tvg-id="3" tvg-name="Cinemax SD" tvg-logo="http://u.meulogin.net:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="FILMES E SERIES",Cinemax SD
-http://serverfulltop.com:80/rogerio/rogerio/347
-#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil FHD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil FHD
-http://serverfulltop.com:80/rogerio/rogerio/713
-#EXTINF:-1 tvg-id="152" tvg-name="CNN BRASIL FHD[ALTER]" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN BRASIL FHD[ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/15327
-#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil HD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil HD
-http://serverfulltop.com:80/rogerio/rogerio/348
-#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/103
-#EXTINF:-1 tvg-id="152" tvg-name="CNN Brasil SD" tvg-logo="http://u.meulogin.net:80/images/62788158be0a70e0f1018de2a3da6ef2.png" group-title="NOTICIAS",CNN Brasil SD
-http://serverfulltop.com:80/rogerio/rogerio/349
-#EXTINF:-1 tvg-id="46" tvg-name="Combate 4K" tvg-logo="http://ux.minhatela.vip:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="4K",Combate 4K
-http://serverfulltop.com:80/rogerio/rogerio/248
-#EXTINF:-1 tvg-id="46" tvg-name="Combate FHD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",Combate FHD
-http://serverfulltop.com:80/rogerio/rogerio/714
-#EXTINF:-1 tvg-id="46" tvg-name="Combate FHD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",Combate FHD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/52
-#EXTINF:-1 tvg-id="46" tvg-name="COMBATE HD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",COMBATE HD
-http://serverfulltop.com:80/rogerio/rogerio/14272
-#EXTINF:-1 tvg-id="46" tvg-name="Combate SD" tvg-logo="http://u.meulogin.net:80/images/299f4b3064094cb510f4529cd6d79ab6.png" group-title="ESPORTES",Combate SD
-http://serverfulltop.com:80/rogerio/rogerio/351
-#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central 4K" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="4K",Comedy Central 4K
-http://serverfulltop.com:80/rogerio/rogerio/19290
-#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central FHD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central FHD
-http://serverfulltop.com:80/rogerio/rogerio/715
-#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central HD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central HD
-http://serverfulltop.com:80/rogerio/rogerio/352
-#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/104
-#EXTINF:-1 tvg-id="95" tvg-name="Comedy Central SD" tvg-logo="http://u.meulogin.net:80/images/dfbafdc3fc41171c129a097012b9f794.png" group-title="FILMES E SERIES",Comedy Central SD
-http://serverfulltop.com:80/rogerio/rogerio/353
-#EXTINF:-1 tvg-id="47" tvg-name="CONMEBOL 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",CONMEBOL 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/14277
-#EXTINF:-1 tvg-id="48" tvg-name="CONMEBOL 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",CONMEBOL 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/14274
-#EXTINF:-1 tvg-id="47" tvg-name="Conmebol TV 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 FHD
-http://serverfulltop.com:80/rogerio/rogerio/355
-#EXTINF:-1 tvg-id="47" tvg-name="Conmebol TV 1 FHD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 FHD [ALTER 2]
-http://serverfulltop.com:80/rogerio/rogerio/354
-#EXTINF:-1 tvg-id="47" tvg-name="Conmebol TV 1 HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 1 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/356
-#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/357
-#EXTINF:-1 tvg-id="48" tvg-name="Conmebol TV 2 HD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 2 HD [ALTER 2]
-http://serverfulltop.com:80/rogerio/rogerio/358
-#EXTINF:-1 tvg-id="49" tvg-name="Conmebol TV 3 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 3 FHD
-http://serverfulltop.com:80/rogerio/rogerio/359
-#EXTINF:-1 tvg-id="49" tvg-name="Conmebol TV 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/716
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 4 FHD
-http://serverfulltop.com:80/rogerio/rogerio/360
-#EXTINF:-1 tvg-id="50" tvg-name="Conmebol TV 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/9a875e31ee8e8011d25eae40b7af0977.png" group-title="CONMEBOL",Conmebol TV 4 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/361
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1" tvg-logo="http://u.meulogin.net:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CAMPEONATOS",Copa Nordeste 1
-http://serverfulltop.com:80/rogerio/rogerio/363
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1 [ALTER]" tvg-logo="http://u.meulogin.net:80/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CAMPEONATOS",Copa Nordeste 1 [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/362
-#EXTINF:-1 tvg-id="170" tvg-name="Cultura HD" tvg-logo="http://ux.minhatela.vip:80/images/87d7cf86abebfceacb93e7a690739d31.png" group-title="ABERTOS",Cultura HD
-http://serverfulltop.com:80/rogerio/rogerio/364
-#EXTINF:-1 tvg-id="128" tvg-name="Curta! HD" tvg-logo="https://www.tribunaribeirao.com.br/site/wp-content/uploads/2020/05/Curta.png" group-title="VARIEDADES E MUSICAIS",Curta! HD
-http://serverfulltop.com:80/rogerio/rogerio/365
-#EXTINF:-1 tvg-id="128" tvg-name="Curta! SD" tvg-logo="http://u.meulogin.net:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="VARIEDADES E MUSICAIS",Curta! SD
-http://serverfulltop.com:80/rogerio/rogerio/366
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/369
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 1 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/367
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 1 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/368
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/372
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 2 HD [ALTER 2]
-http://serverfulltop.com:80/rogerio/rogerio/371
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 2 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/370
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/374
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 HD [ALTER 2]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 3 HD [ALTER 2]
-http://serverfulltop.com:80/rogerio/rogerio/373
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 HD" tvg-logo="http://ux.minhatela.vip:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 4 HD
-http://serverfulltop.com:80/rogerio/rogerio/376
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="DANZ",DAZN 4 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/375
-#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel 4K" tvg-logo="http://ux.minhatela.vip:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="4K",Discovery Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/249
-#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel FHD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/717
-#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel HD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/377
-#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/53
-#EXTINF:-1 tvg-id="133" tvg-name="Discovery Channel SD" tvg-logo="http://u.meulogin.net:80/images/4bb92752ec76ca74909c935088f11855.png" group-title="DOCUMENTARIOS",Discovery Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/378
-#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV FHD" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV FHD
-http://serverfulltop.com:80/rogerio/rogerio/777
-#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV HD" tvg-logo="http://ux.minhatela.vip:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV HD
-http://serverfulltop.com:80/rogerio/rogerio/542
-#EXTINF:-1 tvg-id="140" tvg-name="Discovery HGTV SD" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="VARIEDADES E MUSICAIS",Discovery HGTV SD
-http://serverfulltop.com:80/rogerio/rogerio/543
-#EXTINF:-1 tvg-id="140" tvg-name="Discovery Home & Garden 4K" tvg-logo="http://u.meulogin.net:80/images/216fb73d5182d6abe5b17af999e2e3ce.png" group-title="4K",Discovery Home & Garden 4K
-http://serverfulltop.com:80/rogerio/rogerio/41588
-#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health 4k" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="4K",Discovery Home & Health 4k
-http://serverfulltop.com:80/rogerio/rogerio/19297
-#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health FHD" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health FHD
-http://serverfulltop.com:80/rogerio/rogerio/718
-#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health HD" tvg-logo="http://ux.minhatela.vip:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health HD
-http://serverfulltop.com:80/rogerio/rogerio/379
-#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home & Health SD" tvg-logo="http://u.meulogin.net:80/images/109cdb8901bf793f95f6bca6c6fa7260.png" group-title="VARIEDADES E MUSICAIS",Discovery Home & Health SD
-http://serverfulltop.com:80/rogerio/rogerio/380
-#EXTINF:-1 tvg-id="134" tvg-name="Discovery Home&Health HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/f32ad63f8935059f47eda93db850603e.png" group-title="VARIEDADES E MUSICAIS",Discovery Home&Health HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/54
-#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID FHD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID FHD
-http://serverfulltop.com:80/rogerio/rogerio/719
-#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID HD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID HD
-http://serverfulltop.com:80/rogerio/rogerio/381
-#EXTINF:-1 tvg-id="33" tvg-name="Discovery ID SD" tvg-logo="http://u.meulogin.net:80/images/af984b000eca07a9ec7e5fe0d1c7608b.png" group-title="DOCUMENTARIOS",Discovery ID SD
-http://serverfulltop.com:80/rogerio/rogerio/382
-#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids 4K" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="4K",Discovery Kids 4K
-http://serverfulltop.com:80/rogerio/rogerio/19289
-#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids FHD" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids FHD
-http://serverfulltop.com:80/rogerio/rogerio/720
-#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids HD" tvg-logo="http://ux.minhatela.vip:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids HD
-http://serverfulltop.com:80/rogerio/rogerio/383
-#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/55
-#EXTINF:-1 tvg-id="75" tvg-name="Discovery Kids SD" tvg-logo="http://u.meulogin.net:80/images/9c0c52e751ad4a92f87c8238dccc439f.png" group-title="INFANTIL",Discovery Kids SD
-http://serverfulltop.com:80/rogerio/rogerio/384
-#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science 4K" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="4K",Discovery Science 4K
-http://serverfulltop.com:80/rogerio/rogerio/19288
-#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science FHD" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science FHD
-http://serverfulltop.com:80/rogerio/rogerio/721
-#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science HD" tvg-logo="http://ux.minhatela.vip:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science HD
-http://serverfulltop.com:80/rogerio/rogerio/385
-#EXTINF:-1 tvg-id="135" tvg-name="Discovery Science SD" tvg-logo="http://u.meulogin.net:80/images/83e8295a87cb4fe212c191a875cfde6a.png" group-title="DOCUMENTARIOS",Discovery Science SD
-http://serverfulltop.com:80/rogerio/rogerio/386
-#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater 4K" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="4K",Discovery Theater 4K
-http://serverfulltop.com:80/rogerio/rogerio/19299
-#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater FHD" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater FHD
-http://serverfulltop.com:80/rogerio/rogerio/722
-#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater HD" tvg-logo="http://ux.minhatela.vip:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater HD
-http://serverfulltop.com:80/rogerio/rogerio/387
-#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/56
-#EXTINF:-1 tvg-id="137" tvg-name="Discovery Theater SD" tvg-logo="http://u.meulogin.net:80/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" group-title="DOCUMENTARIOS",Discovery Theater SD
-http://serverfulltop.com:80/rogerio/rogerio/388
-#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC FHD" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC FHD
-http://serverfulltop.com:80/rogerio/rogerio/723
-#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC HD" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC HD
-http://serverfulltop.com:80/rogerio/rogerio/389
-#EXTINF:-1 tvg-id="146" tvg-name="Discovery TLC SD" tvg-logo="http://u.meulogin.net:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="VARIEDADES E MUSICAIS",Discovery TLC SD
-http://serverfulltop.com:80/rogerio/rogerio/390
-#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo 4K" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="4K",Discovery Turbo 4K
-http://serverfulltop.com:80/rogerio/rogerio/19300
-#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo FHD" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo FHD
-http://serverfulltop.com:80/rogerio/rogerio/724
-#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo HD" tvg-logo="http://ux.minhatela.vip:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo HD
-http://serverfulltop.com:80/rogerio/rogerio/391
-#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/57
-#EXTINF:-1 tvg-id="136" tvg-name="Discovery Turbo SD" tvg-logo="http://u.meulogin.net:80/images/19be119bdc4a08de33cb443c5f72f5c9.png" group-title="DOCUMENTARIOS",Discovery Turbo SD
-http://serverfulltop.com:80/rogerio/rogerio/392
-#EXTINF:-1 tvg-id="138" tvg-name="Discovery World 4K" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="4K",Discovery World 4K
-http://serverfulltop.com:80/rogerio/rogerio/19301
-#EXTINF:-1 tvg-id="138" tvg-name="Discovery World FHD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World FHD
-http://serverfulltop.com:80/rogerio/rogerio/725
-#EXTINF:-1 tvg-id="138" tvg-name="Discovery World HD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World HD
-http://serverfulltop.com:80/rogerio/rogerio/393
-#EXTINF:-1 tvg-id="138" tvg-name="Discovery World SD" tvg-logo="http://u.meulogin.net:80/images/f914cff428cbd3e1c2db1f0320bb935b.png" group-title="DOCUMENTARIOS",Discovery World SD
-http://serverfulltop.com:80/rogerio/rogerio/394
-#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel 4K" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="4K",Disney Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/19302
-#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel FHD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/726
-#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel HD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/395
-#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/58
-#EXTINF:-1 tvg-id="76" tvg-name="Disney Channel SD" tvg-logo="http://u.meulogin.net:80/images/8cb42fe7cda174752babc3d82660f2df.png" group-title="INFANTIL",Disney Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/396
-#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior 4K" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="4K",Disney Junior 4K
-http://serverfulltop.com:80/rogerio/rogerio/19303
-#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior FHD" tvg-logo="http://ux.minhatela.vip:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior FHD
-http://serverfulltop.com:80/rogerio/rogerio/727
-#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior HD" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior HD
-http://serverfulltop.com:80/rogerio/rogerio/397
-#EXTINF:-1 tvg-id="77" tvg-name="Disney Junior SD" tvg-logo="http://u.meulogin.net:80/images/9a35d3d10e7169e74011bd13ffe9121e.png" group-title="INFANTIL",Disney Junior SD
-http://serverfulltop.com:80/rogerio/rogerio/398
-#EXTINF:-1 tvg-id="78" tvg-name="Disney XD FHD" tvg-logo="http://u.meulogin.net:80/images/27254a9e9c9000444092f5f284209baa.png" group-title="INFANTIL",Disney XD FHD
-http://serverfulltop.com:80/rogerio/rogerio/728
-#EXTINF:-1 tvg-id="78" tvg-name="Disney XD HD" tvg-logo="http://ux.minhatela.vip:80/images/267fc4f5d8e703aab0ec649dd0cabbe4.png" group-title="INFANTIL",Disney XD HD
-http://serverfulltop.com:80/rogerio/rogerio/399
-#EXTINF:-1 tvg-id="78" tvg-name="Disney XD SD" tvg-logo="http://u.meulogin.net:80/images/267fc4f5d8e703aab0ec649dd0cabbe4.png" group-title="INFANTIL",Disney XD SD
-http://serverfulltop.com:80/rogerio/rogerio/400
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="Dog TV HD" tvg-logo="http://u.meulogin.net:80/images/5ae660ee8f961c6775cc522677d38812.png" group-title="DOCUMENTARIOS",Dog TV HD
-http://serverfulltop.com:80/rogerio/rogerio/401
-#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",DORCEL TV FHD
-http://serverfulltop.com:80/rogerio/rogerio/829
-#EXTINF:-1 tvg-id="96" tvg-name="E! 4K" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="4K",E! 4K
-http://serverfulltop.com:80/rogerio/rogerio/19304
-#EXTINF:-1 tvg-id="96" tvg-name="E! FHD" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! FHD
-http://serverfulltop.com:80/rogerio/rogerio/729
-#EXTINF:-1 tvg-id="96" tvg-name="E! HD" tvg-logo="http://ux.minhatela.vip:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! HD
-http://serverfulltop.com:80/rogerio/rogerio/402
-#EXTINF:-1 tvg-id="96" tvg-name="E! SD" tvg-logo="http://u.meulogin.net:80/images/c8708fe55ef859a01e78e994081da865.png" group-title="VARIEDADES E MUSICAIS",E! SD
-http://serverfulltop.com:80/rogerio/rogerio/403
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 1
-http://serverfulltop.com:80/rogerio/rogerio/20793
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 10
-http://serverfulltop.com:80/rogerio/rogerio/20802
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 2
-http://serverfulltop.com:80/rogerio/rogerio/20794
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 3
-http://serverfulltop.com:80/rogerio/rogerio/20795
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 4
-http://serverfulltop.com:80/rogerio/rogerio/20796
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 5
-http://serverfulltop.com:80/rogerio/rogerio/20797
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 6
-http://serverfulltop.com:80/rogerio/rogerio/20798
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 7
-http://serverfulltop.com:80/rogerio/rogerio/20799
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 8
-http://serverfulltop.com:80/rogerio/rogerio/20800
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="ELEVEN SPORTS",Eleven Sports 9
-http://serverfulltop.com:80/rogerio/rogerio/20801
-#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 4K" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="4K",ESPN 2 4K
-http://serverfulltop.com:80/rogerio/rogerio/19305
-#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 FHD" tvg-logo="http://u.meulogin.net:80/images/cc48e426d6ab61da2fd9968525485ca0.png" group-title="ESPORTES",ESPN 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/730
-#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 HD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/404
-#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/405
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN 4K" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="4K",ESPN 4K
-http://serverfulltop.com:80/rogerio/rogerio/250
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil 4K" tvg-logo="http://ux.minhatela.vip:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="4K",ESPN Brasil 4K
-http://serverfulltop.com:80/rogerio/rogerio/19306
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil FHD" tvg-logo="http://u.meulogin.net:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil FHD
-http://serverfulltop.com:80/rogerio/rogerio/731
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil HD" tvg-logo="http://ux.minhatela.vip:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil HD
-http://serverfulltop.com:80/rogerio/rogerio/406
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/60
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN Brasil SD" tvg-logo="http://u.meulogin.net:80/images/bba257fc058a306683a358acfdcb1134.png" group-title="ESPORTES",ESPN Brasil SD
-http://serverfulltop.com:80/rogerio/rogerio/407
-#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra 4K" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="4K",ESPN Extra 4K
-http://serverfulltop.com:80/rogerio/rogerio/19307
-#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra FHD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra FHD
-http://serverfulltop.com:80/rogerio/rogerio/408
-#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra HD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra HD
-http://serverfulltop.com:80/rogerio/rogerio/409
-#EXTINF:-1 tvg-id="54" tvg-name="ESPN Extra SD" tvg-logo="http://u.meulogin.net:80/images/4c99d7606f9ce8ca7ec97cb995907311.png" group-title="ESPORTES",ESPN Extra SD
-http://serverfulltop.com:80/rogerio/rogerio/19632
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN FHD" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN FHD
-http://serverfulltop.com:80/rogerio/rogerio/732
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN HD" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN HD
-http://serverfulltop.com:80/rogerio/rogerio/410
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/61
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN SD" tvg-logo="http://u.meulogin.net:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN SD
-http://serverfulltop.com:80/rogerio/rogerio/411
-#EXTINF:-1 tvg-id="" tvg-name="Esta*dio TN*T Sp*or*ts 3 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Esta*dio TN*T Sp*or*ts 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/42248
-#EXTINF:-1 tvg-id="" tvg-name="Esta*dio TN*T Spo*rts 2 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Esta*dio TN*T Spo*rts 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/42246
-#EXTINF:-1 tvg-id="" tvg-name="Estadio T*NT Sp*orts 1 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio T*NT Sp*orts 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/42247
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="Estadio TNT Sports 1 HD [ALTER2]" tvg-logo="http://ux.minhatela.vip:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio TNT Sports 1 HD [ALTER2]
-http://serverfulltop.com:80/rogerio/rogerio/414
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="Estadio TNT Sports 1 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio TNT Sports 1 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/413
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="Estadio TNT Sports 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio TNT Sports 2 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/416
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="Estadio TNT Sports 4 HD" tvg-logo="http://u.meulogin.net:80/images/ef909288e84d11669db9d54d6e9177ec.png" group-title="TNT SPORTS",Estadio TNT Sports 4 HD
-http://serverfulltop.com:80/rogerio/rogerio/418
-#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Euro News HD" tvg-logo="http://u.meulogin.net:80/images/ccc3b15750745e81f363df3104c55d2a.png" group-title="NOTICIAS",Euro News HD
-http://serverfulltop.com:80/rogerio/rogerio/419
-#EXTINF:-1 tvg-id="29" tvg-name="Film & Art HD" tvg-logo="http://u.meulogin.net:80/images/ea84b20d99b06f12fbbebae4328b8088.png" group-title="FILMES E SERIES",Film & Art HD
-http://serverfulltop.com:80/rogerio/rogerio/420
-#EXTINF:-1 tvg-id="29" tvg-name="Film & Arts FHD" tvg-logo="http://u.meulogin.net:80/images/ea84b20d99b06f12fbbebae4328b8088.png" group-title="FILMES E SERIES",Film & Arts FHD
-http://serverfulltop.com:80/rogerio/rogerio/20808
-#EXTINF:-1 tvg-id="97" tvg-name="Fish TV 4K" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="4K",Fish TV 4K
-http://serverfulltop.com:80/rogerio/rogerio/19310
-#EXTINF:-1 tvg-id="97" tvg-name="Fish TV FHD" tvg-logo="http://u.meulogin.net:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV FHD
-http://serverfulltop.com:80/rogerio/rogerio/421
-#EXTINF:-1 tvg-id="97" tvg-name="Fish TV HD" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV HD
-http://serverfulltop.com:80/rogerio/rogerio/422
-#EXTINF:-1 tvg-id="97" tvg-name="Fish TV SD" tvg-logo="http://ux.minhatela.vip:80/images/0c11ae9278cec4657bdd4d3e04fbd41c.png" group-title="ESPORTES",Fish TV SD
-http://serverfulltop.com:80/rogerio/rogerio/19634
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ *" tvg-logo="http://u.meulogin.net:80/images/1edb38382f208f4335e005bc0f165bd8.png" group-title="ESPORTES",FLA TV+ *
-http://serverfulltop.com:80/rogerio/rogerio/423
-#EXTINF:-1 tvg-id="44" tvg-name="Food Network 4K" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="4K",Food Network 4K
-http://serverfulltop.com:80/rogerio/rogerio/19311
-#EXTINF:-1 tvg-id="44" tvg-name="Food Network FHD" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network FHD
-http://serverfulltop.com:80/rogerio/rogerio/733
-#EXTINF:-1 tvg-id="44" tvg-name="Food Network HD" tvg-logo="http://ux.minhatela.vip:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network HD
-http://serverfulltop.com:80/rogerio/rogerio/424
-#EXTINF:-1 tvg-id="44" tvg-name="Food Network SD" tvg-logo="http://u.meulogin.net:80/images/446e91a141776eba9d2d63cc90396e11.png" group-title="VARIEDADES E MUSICAIS",Food Network SD
-http://serverfulltop.com:80/rogerio/rogerio/425
-#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 4K" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="4K",Fox Sports 2 4K
-http://serverfulltop.com:80/rogerio/rogerio/251
-#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 FHD" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/734
-#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/426
-#EXTINF:-1 tvg-id="56" tvg-name="Fox Sports 2 SD" tvg-logo="http://u.meulogin.net:80/images/0a456f07d1e01bb48cf02bb6f403b9f5.png" group-title="ESPORTES",Fox Sports 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/427
-#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports 4K" tvg-logo="http://ux.minhatela.vip:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="4K",Fox Sports 4K
-http://serverfulltop.com:80/rogerio/rogerio/252
-#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports FHD" tvg-logo="http://u.meulogin.net:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports FHD
-http://serverfulltop.com:80/rogerio/rogerio/735
-#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports HD" tvg-logo="http://ux.minhatela.vip:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports HD
-http://serverfulltop.com:80/rogerio/rogerio/428
-#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/b05b9093cb16404331491d026be9da23.png" group-title="ESPORTES",Fox Sports HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/62
-#EXTINF:-1 tvg-id="55" tvg-name="Fox Sports SD" tvg-logo="http://u.meulogin.net:80/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="ESPORTES",Fox Sports SD
-http://serverfulltop.com:80/rogerio/rogerio/429
-#EXTINF:-1 tvg-id="23" tvg-name="FX 4K" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="4K",FX 4K
-http://serverfulltop.com:80/rogerio/rogerio/19315
-#EXTINF:-1 tvg-id="23" tvg-name="FX FHD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX FHD
-http://serverfulltop.com:80/rogerio/rogerio/736
-#EXTINF:-1 tvg-id="23" tvg-name="FX HD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX HD
-http://serverfulltop.com:80/rogerio/rogerio/430
-#EXTINF:-1 tvg-id="23" tvg-name="FX SD" tvg-logo="http://u.meulogin.net:80/images/c8f7275f759a75f5043490e01072c181.png" group-title="FILMES E SERIES",FX SD
-http://serverfulltop.com:80/rogerio/rogerio/431
-#EXTINF:-1 tvg-id="171" tvg-name="Gazeta 4K" tvg-logo="http://u.meulogin.net:80/images/f92af99972eea99aa9529d046193255b.png" group-title="4K",Gazeta 4K
-http://serverfulltop.com:80/rogerio/rogerio/253
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo 4K" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="4K",Globo 4K
-http://serverfulltop.com:80/rogerio/rogerio/254
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Anhanguera Goiania FHD
-http://serverfulltop.com:80/rogerio/rogerio/19749
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Anhanguera Goiania HD
-http://serverfulltop.com:80/rogerio/rogerio/432
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Anhanguera Goiania SD
-http://serverfulltop.com:80/rogerio/rogerio/19750
-#EXTINF:-1 tvg-id="Globo Anhanguera" tvg-name="Globo Anhanguera Goias FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Anhanguera Goias FHD
-http://serverfulltop.com:80/rogerio/rogerio/737
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia FHD
-http://serverfulltop.com:80/rogerio/rogerio/738
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia HD
-http://serverfulltop.com:80/rogerio/rogerio/433
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Brasilia SD
-http://serverfulltop.com:80/rogerio/rogerio/434
-#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiaba FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiaba FHD
-http://serverfulltop.com:80/rogerio/rogerio/435
-#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiabá HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiabá HD
-http://serverfulltop.com:80/rogerio/rogerio/436
-#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo Centro America Cuiabá SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Centro America Cuiabá SD
-http://serverfulltop.com:80/rogerio/rogerio/19788
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas FHD
-http://serverfulltop.com:80/rogerio/rogerio/437
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas HD
-http://serverfulltop.com:80/rogerio/rogerio/438
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Campinas SD
-http://serverfulltop.com:80/rogerio/rogerio/439
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto FHD
-http://serverfulltop.com:80/rogerio/rogerio/19727
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto HD
-http://serverfulltop.com:80/rogerio/rogerio/440
-#EXTINF:-1 tvg-id="EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Ribeirao Preto SD
-http://serverfulltop.com:80/rogerio/rogerio/441
-#EXTINF:-1 tvg-id="EPTVCentralHD.br" tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sao Carlos HD
-http://serverfulltop.com:80/rogerio/rogerio/442
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas FHD
-http://serverfulltop.com:80/rogerio/rogerio/443
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas HD
-http://serverfulltop.com:80/rogerio/rogerio/444
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo EPTV Sul de Minas SD
-http://serverfulltop.com:80/rogerio/rogerio/445
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Alto Litoral FHD
-http://serverfulltop.com:80/rogerio/rogerio/19728
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Alto Litoral HD
-http://serverfulltop.com:80/rogerio/rogerio/446
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal FHD
-http://serverfulltop.com:80/rogerio/rogerio/447
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal HD
-http://serverfulltop.com:80/rogerio/rogerio/448
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo Inter TV Cabugi Natal SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Cabugi Natal SD
-http://serverfulltop.com:80/rogerio/rogerio/19730
-#EXTINF:-1 tvg-id="InterTVdosVales" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV dos Vales FHD
-http://serverfulltop.com:80/rogerio/rogerio/449
-#EXTINF:-1 tvg-id="InterTVdosVales" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV dos Vales HD
-http://serverfulltop.com:80/rogerio/rogerio/450
-#EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Inter TV Serra Mar HD
-http://serverfulltop.com:80/rogerio/rogerio/453
-#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD" tvg-logo="http://ux.minhatela.vip:80/images/5da8de5bb8ebb4abd2fa51c6e40f8149.png" group-title="GLOBO",Globo Internacional HD
-http://serverfulltop.com:80/rogerio/rogerio/454
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo InterTV Alto Litoral FHD
-http://serverfulltop.com:80/rogerio/rogerio/455
-#EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="Globo InterTV RJ Região Serrana HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo InterTV RJ Região Serrana HD
-http://serverfulltop.com:80/rogerio/rogerio/456
-#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas FHD
-http://serverfulltop.com:80/rogerio/rogerio/740
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas FHD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/18926
-#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas HD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas HD
-http://serverfulltop.com:80/rogerio/rogerio/457
-#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/18927
-#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo Minas SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Minas SD
-http://serverfulltop.com:80/rogerio/rogerio/458
-#EXTINF:-1 tvg-id="156" tvg-name="Globo News FHD" tvg-logo="http://u.meulogin.net:80/images/cbccda3bc673694741ed8ef7e54f6950.png" group-title="NOTICIAS",Globo News FHD
-http://serverfulltop.com:80/rogerio/rogerio/741
-#EXTINF:-1 tvg-id="156" tvg-name="Globo News HD" tvg-logo="http://u.meulogin.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",Globo News HD
-http://serverfulltop.com:80/rogerio/rogerio/459
-#EXTINF:-1 tvg-id="156" tvg-name="Globo News SD" tvg-logo="http://u.meulogin.net:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",Globo News SD
-http://serverfulltop.com:80/rogerio/rogerio/460
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste FHD
-http://serverfulltop.com:80/rogerio/rogerio/742
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste HD
-http://serverfulltop.com:80/rogerio/rogerio/461
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Nordeste SD
-http://serverfulltop.com:80/rogerio/rogerio/462
-#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Blumenau FHD
-http://serverfulltop.com:80/rogerio/rogerio/743
-#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="Globo NSC Blumenau HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Blumenau HD
-http://serverfulltop.com:80/rogerio/rogerio/463
-#EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="Globo NSC Chapecó FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Chapecó FHD
-http://serverfulltop.com:80/rogerio/rogerio/745
-#EXTINF:-1 tvg-id="NSCTVCriciuma" tvg-name="Globo NSC Criciúma FHD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Criciúma FHD
-http://serverfulltop.com:80/rogerio/rogerio/746
-#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis FHD
-http://serverfulltop.com:80/rogerio/rogerio/464
-#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis HD
-http://serverfulltop.com:80/rogerio/rogerio/465
-#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="Globo NSC Florianopolis SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Florianopolis SD
-http://serverfulltop.com:80/rogerio/rogerio/466
-#EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Joinville FHD
-http://serverfulltop.com:80/rogerio/rogerio/747
-#EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC Joinville HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC Joinville HD
-http://serverfulltop.com:80/rogerio/rogerio/467
-#EXTINF:-1 tvg-id="NSCTVChapecoHD" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo NSC TV Chapeco HD
-http://serverfulltop.com:80/rogerio/rogerio/468
-#EXTINF:-1 tvg-id="RBSCaxiasSul.br" tvg-name="Globo RBS Caxias HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Caxias HD
-http://serverfulltop.com:80/rogerio/rogerio/469
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Pelotas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Pelotas FHD
-http://serverfulltop.com:80/rogerio/rogerio/748
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Pelotas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Pelotas HD
-http://serverfulltop.com:80/rogerio/rogerio/470
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre FHD
-http://serverfulltop.com:80/rogerio/rogerio/749
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre HD
-http://serverfulltop.com:80/rogerio/rogerio/471
-#EXTINF:-1 tvg-id="RBSTVPortoAlegreHD" tvg-name="Globo RBS Porto Alegre SD*" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Porto Alegre SD*
-http://serverfulltop.com:80/rogerio/rogerio/472
-#EXTINF:-1 tvg-id="RBS TV Santa Maria HD" tvg-name="Globo RBS Santa Maria FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS Santa Maria FHD
-http://serverfulltop.com:80/rogerio/rogerio/473
-#EXTINF:-1 tvg-id="RBSCaxiasSul.br" tvg-name="Globo RBS TV Caxias FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RBS TV Caxias FHD
-http://serverfulltop.com:80/rogerio/rogerio/750
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazonica Manaus FHD
-http://serverfulltop.com:80/rogerio/rogerio/751
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo Rede Amazônica Boa Vista FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Boa Vista FHD
-http://serverfulltop.com:80/rogerio/rogerio/19736
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo Rede Amazônica Boa Vista HD" tvg-logo="" group-title="GLOBO",Globo Rede Amazônica Boa Vista HD
-http://serverfulltop.com:80/rogerio/rogerio/19737
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo Rede Amazônica Boa Vista SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Boa Vista SD
-http://serverfulltop.com:80/rogerio/rogerio/19738
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Macapá FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Macapá FHD
-http://serverfulltop.com:80/rogerio/rogerio/19739
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Macapá HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Macapá HD
-http://serverfulltop.com:80/rogerio/rogerio/19740
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Macapá SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Macapá SD
-http://serverfulltop.com:80/rogerio/rogerio/19741
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Manaus HD
-http://serverfulltop.com:80/rogerio/rogerio/474
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Manaus SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Manaus SD
-http://serverfulltop.com:80/rogerio/rogerio/19742
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Porto Velho FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Porto Velho FHD
-http://serverfulltop.com:80/rogerio/rogerio/19743
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Porto Velho HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Porto Velho HD
-http://serverfulltop.com:80/rogerio/rogerio/19744
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Porto Velho SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Porto Velho SD
-http://serverfulltop.com:80/rogerio/rogerio/19745
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Rio Branco FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Rio Branco FHD
-http://serverfulltop.com:80/rogerio/rogerio/19746
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Rio Branco HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Rio Branco HD
-http://serverfulltop.com:80/rogerio/rogerio/19747
-#EXTINF:-1 tvg-id="RedeAmaznicaManausHD.br" tvg-name="Globo Rede Amazônica Rio Branco SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Rede Amazônica Rio Branco SD
-http://serverfulltop.com:80/rogerio/rogerio/19748
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ FHD
-http://serverfulltop.com:80/rogerio/rogerio/752
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",GLOBO RJ FHD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/14597
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ HD
-http://serverfulltop.com:80/rogerio/rogerio/475
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/95
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ SD
-http://serverfulltop.com:80/rogerio/rogerio/476
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",GLOBO RJ SD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/14599
-#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo RJ TV Rio Sul FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ TV Rio Sul FHD
-http://serverfulltop.com:80/rogerio/rogerio/477
-#EXTINF:-1 tvg-id="TVRioSulHD.br" tvg-name="Globo RJ TV Rio Sul HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RJ TV Rio Sul HD
-http://serverfulltop.com:80/rogerio/rogerio/478
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",GLOBO RJ [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/14598
-#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba FHD
-http://serverfulltop.com:80/rogerio/rogerio/753
-#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba HD
-http://serverfulltop.com:80/rogerio/rogerio/479
-#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Curitiba SD
-http://serverfulltop.com:80/rogerio/rogerio/480
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Foz do Iguaçu FHD
-http://serverfulltop.com:80/rogerio/rogerio/754
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu HD" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Foz do Iguaçu HD
-http://serverfulltop.com:80/rogerio/rogerio/481
-#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="Globo RPC Maringa HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Maringa HD
-http://serverfulltop.com:80/rogerio/rogerio/482
-#EXTINF:-1 tvg-id="RPCMaringa" tvg-name="Globo RPC Maringá FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Maringá FHD
-http://serverfulltop.com:80/rogerio/rogerio/755
-#EXTINF:-1 tvg-id="RPCParanavai" tvg-name="Globo RPC Paranavai HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Paranavai HD
-http://serverfulltop.com:80/rogerio/rogerio/483
-#EXTINF:-1 tvg-id="RPCPontaGrossa" tvg-name="Globo RPC Ponta Grossa FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Ponta Grossa FHD
-http://serverfulltop.com:80/rogerio/rogerio/756
-#EXTINF:-1 tvg-id="RPCPontaGrossa" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo RPC Ponta Grossa HD
-http://serverfulltop.com:80/rogerio/rogerio/484
-#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo Sergipe FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Sergipe FHD
-http://serverfulltop.com:80/rogerio/rogerio/757
-#EXTINF:-1 tvg-id="TV Sergipe HD" tvg-name="Globo Sergipe HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo Sergipe HD
-http://serverfulltop.com:80/rogerio/rogerio/485
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP FHD
-http://serverfulltop.com:80/rogerio/rogerio/758
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP HD
-http://serverfulltop.com:80/rogerio/rogerio/486
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/3d66b24fdfb739db0ecc915d25616ab4.png" group-title="GLOBO",Globo SP HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/63
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://u.meulogin.net:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo SP SD
-http://serverfulltop.com:80/rogerio/rogerio/487
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca PE FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Asa Branca PE FHD
-http://serverfulltop.com:80/rogerio/rogerio/759
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia Full HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia Full HD
-http://serverfulltop.com:80/rogerio/rogerio/488
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia HD
-http://serverfulltop.com:80/rogerio/rogerio/489
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia Santa Cruz FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia Santa Cruz FHD
-http://serverfulltop.com:80/rogerio/rogerio/490
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD*" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Bahia SD*
-http://serverfulltop.com:80/rogerio/rogerio/491
-#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="Globo TV Cabo Branco HD (Paraíba)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Cabo Branco HD (Paraíba)
-http://serverfulltop.com:80/rogerio/rogerio/492
-#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube (Piaui)
-http://serverfulltop.com:80/rogerio/rogerio/760
-#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube HD (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube HD (Piaui)
-http://serverfulltop.com:80/rogerio/rogerio/493
-#EXTINF:-1 tvg-id="Globo Teresina" tvg-name="Globo TV Clube SD* (Piaui)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Clube SD* (Piaui)
-http://serverfulltop.com:80/rogerio/rogerio/494
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="Globo TV Diario Mogi das Cruzes HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Diario Mogi das Cruzes HD
-http://serverfulltop.com:80/rogerio/rogerio/495
-#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="Globo TV Fronteira FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Fronteira FHD
-http://serverfulltop.com:80/rogerio/rogerio/496
-#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Fronteira HD
-http://serverfulltop.com:80/rogerio/rogerio/19751
-#EXTINF:-1 tvg-id="Tvfronteira.br" tvg-name="Globo TV Fronteira SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Fronteira SD
-http://serverfulltop.com:80/rogerio/rogerio/19752
-#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Alagoas FHD
-http://serverfulltop.com:80/rogerio/rogerio/497
-#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Alagoas HD
-http://serverfulltop.com:80/rogerio/rogerio/498
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta ES FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta ES FHD
-http://serverfulltop.com:80/rogerio/rogerio/761
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta ES HD
-http://serverfulltop.com:80/rogerio/rogerio/499
-#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Gazeta Sul ES HD
-http://serverfulltop.com:80/rogerio/rogerio/500
-#EXTINF:-1 tvg-id="TVIntegrcaoAraxa" tvg-name="Globo TV Integração Araxa MG FHD²" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Integração Araxa MG FHD²
-http://serverfulltop.com:80/rogerio/rogerio/501
-#EXTINF:-1 tvg-id="TVIntegrcaoAraxa" tvg-name="Globo TV Integração Araxa MG HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Integração Araxa MG HD
-http://serverfulltop.com:80/rogerio/rogerio/502
-#EXTINF:-1 tvg-id="TVIntegraCAoJuizdeFora" tvg-name="Globo TV Integração Juiz de Fora" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Integração Juiz de Fora
-http://serverfulltop.com:80/rogerio/rogerio/762
-#EXTINF:-1 tvg-id="TVIntegraCAoJuizdeFora" tvg-name="Globo TV Integração Juiz de Fora HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Integração Juiz de Fora HD
-http://serverfulltop.com:80/rogerio/rogerio/503
-#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal  HD (Belém)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Liberal  HD (Belém)
-http://serverfulltop.com:80/rogerio/rogerio/504
-#EXTINF:-1 tvg-id="Globo Belém Liberal" tvg-name="Globo TV Liberal SD (Belém)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Liberal SD (Belém)
-http://serverfulltop.com:80/rogerio/rogerio/19756
-#EXTINF:-1 tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante FHD (São Luís)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Mirante FHD (São Luís)
-http://serverfulltop.com:80/rogerio/rogerio/764
-#EXTINF:-1 tvg-id="TVSaoLuisHD" tvg-name="Globo TV Mirante HD (São Luís)" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Mirante HD (São Luís)
-http://serverfulltop.com:80/rogerio/rogerio/505
-#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Morena Campo Grande FHD
-http://serverfulltop.com:80/rogerio/rogerio/506
-#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Morena Campo Grande HD
-http://serverfulltop.com:80/rogerio/rogerio/507
-#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Morena Campo Grande HD
-http://serverfulltop.com:80/rogerio/rogerio/19764
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru FHD
-http://serverfulltop.com:80/rogerio/rogerio/508
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru HD
-http://serverfulltop.com:80/rogerio/rogerio/509
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Bauru SD
-http://serverfulltop.com:80/rogerio/rogerio/19765
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="Globo TV Tem Itapetininga FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Itapetininga FHD
-http://serverfulltop.com:80/rogerio/rogerio/19766
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Itapetininga HD
-http://serverfulltop.com:80/rogerio/rogerio/510
-#EXTINF:-1 tvg-id="Intertvgminas.br" tvg-name="Globo TV Tem Itapetininga SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Itapetininga SD
-http://serverfulltop.com:80/rogerio/rogerio/19767
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto HD" tvg-logo="" group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto HD
-http://serverfulltop.com:80/rogerio/rogerio/19768
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo TV Tem Sao Jose do Rio Preto HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sao Jose do Rio Preto HD
-http://serverfulltop.com:80/rogerio/rogerio/511
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sorocaba HD
-http://serverfulltop.com:80/rogerio/rogerio/19770
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tem Sorocaba HD
-http://serverfulltop.com:80/rogerio/rogerio/512
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos FHD
-http://serverfulltop.com:80/rogerio/rogerio/19772
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos HD
-http://serverfulltop.com:80/rogerio/rogerio/513
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Tribuna Santos SD
-http://serverfulltop.com:80/rogerio/rogerio/19773
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="Globo TV Vanguarda S.J.C FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda S.J.C FHD
-http://serverfulltop.com:80/rogerio/rogerio/19778
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="Globo TV Vanguarda S.J.C HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda S.J.C HD
-http://serverfulltop.com:80/rogerio/rogerio/514
-#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="Globo TV Vanguarda S.J.C HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Vanguarda S.J.C HD
-http://serverfulltop.com:80/rogerio/rogerio/19779
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza FHD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza FHD
-http://serverfulltop.com:80/rogerio/rogerio/19776
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza HD
-http://serverfulltop.com:80/rogerio/rogerio/515
-#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://ux.minhatela.vip:80/images/8a69071113b24122ea4d37ab454582e2.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza HD
-http://serverfulltop.com:80/rogerio/rogerio/19777
-#EXTINF:-1 tvg-id="79" tvg-name="Gloob 4K" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="4K",Gloob 4K
-http://serverfulltop.com:80/rogerio/rogerio/41581
-#EXTINF:-1 tvg-id="79" tvg-name="Gloob FHD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob FHD
-http://serverfulltop.com:80/rogerio/rogerio/766
-#EXTINF:-1 tvg-id="79" tvg-name="Gloob HD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob HD
-http://serverfulltop.com:80/rogerio/rogerio/516
-#EXTINF:-1 tvg-id="79" tvg-name="Gloob HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/68f879e34bae4b7c634810c77f0335ae.png" group-title="INFANTIL",Gloob HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/64
-#EXTINF:-1 tvg-id="79" tvg-name="Gloob SD" tvg-logo="http://u.meulogin.net:80/images/7c8ef248f35b48190c1141213597608c.png" group-title="INFANTIL",Gloob SD
-http://serverfulltop.com:80/rogerio/rogerio/517
-#EXTINF:-1 tvg-id="80" tvg-name="Gloobinho HD" tvg-logo="http://u.meulogin.net:80/images/918911a351d5b29b741b68282ba16536.png" group-title="INFANTIL",Gloobinho HD
-http://serverfulltop.com:80/rogerio/rogerio/518
-#EXTINF:-1 tvg-id="99" tvg-name="GNT 4K" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="4K",GNT 4K
-http://serverfulltop.com:80/rogerio/rogerio/41582
-#EXTINF:-1 tvg-id="99" tvg-name="GNT FHD" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT FHD
-http://serverfulltop.com:80/rogerio/rogerio/767
-#EXTINF:-1 tvg-id="99" tvg-name="GNT HD" tvg-logo="http://ux.minhatela.vip:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT HD
-http://serverfulltop.com:80/rogerio/rogerio/519
-#EXTINF:-1 tvg-id="99" tvg-name="GNT SD" tvg-logo="http://u.meulogin.net:80/images/6488de5e082ffdb5e26ba173ac8ed69c.png" group-title="VARIEDADES E MUSICAIS",GNT SD
-http://serverfulltop.com:80/rogerio/rogerio/520
-#EXTINF:-1 tvg-id="Golfchannel.br" tvg-name="Golf Channel HD" tvg-logo="http://ux.minhatela.vip:80/images/019b34b4ba3e4170a28542f183cd0504.png" group-title="ESPORTES",Golf Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/521
-#EXTINF:-1 tvg-id="" tvg-name="Golf TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="ESPORTES",Golf TV FHD
-http://serverfulltop.com:80/rogerio/rogerio/20838
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-12-44.png" group-title="RELIGIOSOS",Gospel Cartoon
-http://serverfulltop.com:80/rogerio/rogerio/14603
-#EXTINF:-1 tvg-id="139" tvg-name="H2 4K" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="4K",H2 4K
-http://serverfulltop.com:80/rogerio/rogerio/19318
-#EXTINF:-1 tvg-id="139" tvg-name="H2 FHD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/768
-#EXTINF:-1 tvg-id="139" tvg-name="H2 HD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 HD
-http://serverfulltop.com:80/rogerio/rogerio/522
-#EXTINF:-1 tvg-id="139" tvg-name="H2 SD" tvg-logo="http://u.meulogin.net:80/images/87b596ab9c7afdf238a5defbcd82394d.png" group-title="DOCUMENTARIOS",H2 SD
-http://serverfulltop.com:80/rogerio/rogerio/523
-#EXTINF:-1 tvg-id="7" tvg-name="HBO + FHD LEG" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="LEGENDADOS",HBO + FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/276
-#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 FHD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/769
-#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 HD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/524
-#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/65
-#EXTINF:-1 tvg-id="5" tvg-name="HBO 2 SD" tvg-logo="http://u.meulogin.net:80/images/9abd0aec96762a58ec0ed3eb84dfa72a.png" group-title="HBO",HBO 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/525
-#EXTINF:-1 tvg-id="4" tvg-name="HBO 4K" tvg-logo="http://ux.minhatela.vip:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="4K",HBO 4K
-http://serverfulltop.com:80/rogerio/rogerio/255
-#EXTINF:-1 tvg-id="6" tvg-name="Hbo Family 4K" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="4K",Hbo Family 4K
-http://serverfulltop.com:80/rogerio/rogerio/41583
-#EXTINF:-1 tvg-id="6" tvg-name="HBO Family FHD" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family FHD
-http://serverfulltop.com:80/rogerio/rogerio/770
-#EXTINF:-1 tvg-id="6" tvg-name="HBO Family HD" tvg-logo="http://ux.minhatela.vip:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family HD
-http://serverfulltop.com:80/rogerio/rogerio/526
-#EXTINF:-1 tvg-id="6" tvg-name="HBO Family HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/66
-#EXTINF:-1 tvg-id="6" tvg-name="HBO Family SD" tvg-logo="http://u.meulogin.net:80/images/ae9fa973c2b405cc6b39f1dd6ae54d0d.png" group-title="HBO",HBO Family SD
-http://serverfulltop.com:80/rogerio/rogerio/527
-#EXTINF:-1 tvg-id="4" tvg-name="HBO FHD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO FHD
-http://serverfulltop.com:80/rogerio/rogerio/771
-#EXTINF:-1 tvg-id="4" tvg-name="HBO FHD LEG" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="LEGENDADOS",HBO FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/277
-#EXTINF:-1 tvg-id="4" tvg-name="HBO HD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO HD
-http://serverfulltop.com:80/rogerio/rogerio/528
-#EXTINF:-1 tvg-id="4" tvg-name="HBO HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/67
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 1
-http://serverfulltop.com:80/rogerio/rogerio/49353
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 2
-http://serverfulltop.com:80/rogerio/rogerio/49354
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 3
-http://serverfulltop.com:80/rogerio/rogerio/49355
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://download.logo.wine/logo/HBO_Max/HBO_Max-Logo.wine.png" group-title="HBO MAX",HBO MAX 4
-http://serverfulltop.com:80/rogerio/rogerio/50787
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi 4K" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="4K",HBO Mundi 4K
-http://serverfulltop.com:80/rogerio/rogerio/41584
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi FHD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi FHD
-http://serverfulltop.com:80/rogerio/rogerio/772
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi FHD LEG" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="LEGENDADOS",HBO Mundi FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/278
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi HD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi HD
-http://serverfulltop.com:80/rogerio/rogerio/529
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi HD LEG" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="LEGENDADOS",HBO Mundi HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20775
-#EXTINF:-1 tvg-id="9" tvg-name="HBO Mundi SD" tvg-logo="http://u.meulogin.net:80/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="HBO",HBO Mundi SD
-http://serverfulltop.com:80/rogerio/rogerio/530
-#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus 4K" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="4K",HBO Plus 4K
-http://serverfulltop.com:80/rogerio/rogerio/41585
-#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus FHD LEG" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="LEGENDADOS",HBO Plus FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20776
-#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus HD LEG" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="LEGENDADOS",HBO Plus HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20777
-#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus*e HD" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="HBO",HBO Plus*e HD
-http://serverfulltop.com:80/rogerio/rogerio/531
-#EXTINF:-1 tvg-id="7" tvg-name="HBO Plus*e SD" tvg-logo="http://u.meulogin.net:80/images/405d4eee663b178369a5309ad93799f6.png" group-title="HBO",HBO Plus*e SD
-http://serverfulltop.com:80/rogerio/rogerio/532
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop 4K" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="4K",HBO Pop 4K
-http://serverfulltop.com:80/rogerio/rogerio/41586
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop FHD" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop FHD
-http://serverfulltop.com:80/rogerio/rogerio/773
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop FHD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="LEGENDADOS",HBO Pop FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/279
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop HD" tvg-logo="http://ux.minhatela.vip:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop HD
-http://serverfulltop.com:80/rogerio/rogerio/533
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="LEGENDADOS",HBO Pop HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20778
-#EXTINF:-1 tvg-id="11" tvg-name="HBO Pop SD" tvg-logo="http://u.meulogin.net:80/images/a4e5a8dd39307ad7c7d1373293f69bd6.png" group-title="HBO",HBO Pop SD
-http://serverfulltop.com:80/rogerio/rogerio/534
-#EXTINF:-1 tvg-id="4" tvg-name="HBO SD" tvg-logo="http://u.meulogin.net:80/images/dea84d90553b5cad1f4853160764971d.png" group-title="HBO",HBO SD
-http://serverfulltop.com:80/rogerio/rogerio/535
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature 4K" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="4K",HBO Signature 4K
-http://serverfulltop.com:80/rogerio/rogerio/41587
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature FHD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature FHD
-http://serverfulltop.com:80/rogerio/rogerio/774
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature FHD LEG" tvg-logo="http://u.meulogin.net:80/images/44c14f44d2ab4081ef9928ed9f61b990.png" group-title="LEGENDADOS",HBO Signature FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/280
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature HD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature HD
-http://serverfulltop.com:80/rogerio/rogerio/536
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature HD LEG" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="LEGENDADOS",HBO Signature HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20779
-#EXTINF:-1 tvg-id="8" tvg-name="HBO Signature SD" tvg-logo="http://u.meulogin.net:80/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="HBO",HBO Signature SD
-http://serverfulltop.com:80/rogerio/rogerio/537
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme 4K" tvg-logo="http://ux.minhatela.vip:80/images/227c5a7767e2742104de1c193474174b.png" group-title="4K",HBO Xtreme 4K
-http://serverfulltop.com:80/rogerio/rogerio/256
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme FHD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme FHD
-http://serverfulltop.com:80/rogerio/rogerio/775
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme FHD LEG" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="LEGENDADOS",HBO Xtreme FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/281
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme HD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme HD
-http://serverfulltop.com:80/rogerio/rogerio/538
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme HD LEG" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="LEGENDADOS",HBO Xtreme HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20780
-#EXTINF:-1 tvg-id="10" tvg-name="HBO Xtreme SD" tvg-logo="http://u.meulogin.net:80/images/227c5a7767e2742104de1c193474174b.png" group-title="HBO",HBO Xtreme SD
-http://serverfulltop.com:80/rogerio/rogerio/539
-#EXTINF:-1 tvg-id="7" tvg-name="HBO+ FHD" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ FHD
-http://serverfulltop.com:80/rogerio/rogerio/776
-#EXTINF:-1 tvg-id="7" tvg-name="HBO+ HD" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ HD
-http://serverfulltop.com:80/rogerio/rogerio/540
-#EXTINF:-1 tvg-id="7" tvg-name="HBO+ HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/68
-#EXTINF:-1 tvg-id="7" tvg-name="HBO+ SD" tvg-logo="http://u.meulogin.net:80/images/befde0d60872178095d9d53615baceb1.png" group-title="HBO",HBO+ SD
-http://serverfulltop.com:80/rogerio/rogerio/541
-#EXTINF:-1 tvg-id="141" tvg-name="History Channel 4K" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="4K",History Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/19317
-#EXTINF:-1 tvg-id="141" tvg-name="History Channel FHD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/778
-#EXTINF:-1 tvg-id="141" tvg-name="History Channel HD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/544
-#EXTINF:-1 tvg-id="141" tvg-name="History Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/a7f841bcb89250e8301e054b215c5b81.png" group-title="DOCUMENTARIOS",History Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/69
-#EXTINF:-1 tvg-id="141" tvg-name="History Channel SD" tvg-logo="http://u.meulogin.net:80/images/abf325e23244585e942b2b69cbb7f49c.png" group-title="DOCUMENTARIOS",History Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/545
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial do Poder de Deus" tvg-logo="" group-title="RELIGIOSOS",Igreja Mundial do Poder de Deus
-http://serverfulltop.com:80/rogerio/rogerio/44696
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal HD" tvg-logo="http://u.meulogin.net:80/images/c15da4ee7b4d48d88e994293466db351.png" group-title="RELIGIOSOS",Igreja Universal HD
-http://serverfulltop.com:80/rogerio/rogerio/546
-#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="https://img.pngio.com/be-gamble-aware-gamstop-18-logo-png-png-image-transparent-png-18-png-820_594.png" group-title="ADULTOS",Jasmin TV
-http://serverfulltop.com:80/rogerio/rogerio/20809
-#EXTINF:-1 tvg-id="34" tvg-name="Lifetime 4K" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="4K",Lifetime 4K
-http://serverfulltop.com:80/rogerio/rogerio/19319
-#EXTINF:-1 tvg-id="34" tvg-name="Lifetime FHD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime FHD
-http://serverfulltop.com:80/rogerio/rogerio/779
-#EXTINF:-1 tvg-id="34" tvg-name="Lifetime HD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime HD
-http://serverfulltop.com:80/rogerio/rogerio/547
-#EXTINF:-1 tvg-id="34" tvg-name="Lifetime SD" tvg-logo="http://u.meulogin.net:80/images/bb15b019deff630426efed4c9d025862.png" group-title="VARIEDADES E MUSICAIS",Lifetime SD
-http://serverfulltop.com:80/rogerio/rogerio/548
-#EXTINF:-1 tvg-id="160" tvg-name="Loading HD" tvg-logo="http://u.meulogin.net:80/images/67d2f3a20356ea90c304fed9989f2e2e.png" group-title="INFANTIL",Loading HD
-http://serverfulltop.com:80/rogerio/rogerio/549
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature HD" tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png" group-title="VARIEDADES E MUSICAIS",Love Nature HD
-http://serverfulltop.com:80/rogerio/rogerio/20807
-#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela 4K" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="4K",Mais na Tela 4K
-http://serverfulltop.com:80/rogerio/rogerio/41589
-#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela FHD" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela FHD
-http://serverfulltop.com:80/rogerio/rogerio/780
-#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela HD" tvg-logo="http://ux.minhatela.vip:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela HD
-http://serverfulltop.com:80/rogerio/rogerio/550
-#EXTINF:-1 tvg-id="41" tvg-name="Mais na Tela SD" tvg-logo="http://u.meulogin.net:80/images/bc71df6bdf1b48bce5a04d527df57d2a.png" group-title="VARIEDADES E MUSICAIS",Mais na Tela SD
-http://serverfulltop.com:80/rogerio/rogerio/551
-#EXTINF:-1 tvg-id="12" tvg-name="Megapix 4K" tvg-logo="http://ux.minhatela.vip:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="4K",Megapix 4K
-http://serverfulltop.com:80/rogerio/rogerio/257
-#EXTINF:-1 tvg-id="12" tvg-name="Megapix FHD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix FHD
-http://serverfulltop.com:80/rogerio/rogerio/781
-#EXTINF:-1 tvg-id="12" tvg-name="Megapix HD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix HD
-http://serverfulltop.com:80/rogerio/rogerio/552
-#EXTINF:-1 tvg-id="12" tvg-name="Megapix HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/5c2a0986aef6d885e37db61b2086c8c2.png" group-title="FILMES E SERIES",Megapix HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/70
-#EXTINF:-1 tvg-id="12" tvg-name="Megapix SD" tvg-logo="http://u.meulogin.net:80/images/4b4218887844bfdcd600f1ab147d274a.png" group-title="FILMES E SERIES",Megapix SD
-http://serverfulltop.com:80/rogerio/rogerio/553
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="VARIEDADES E MUSICAIS",MTV 00s FHD
-http://serverfulltop.com:80/rogerio/rogerio/687
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="VARIEDADES E MUSICAIS",MTV 00s HD
-http://serverfulltop.com:80/rogerio/rogerio/688
-#EXTINF:-1 tvg-id="125" tvg-name="MTV 4K" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="4K",MTV 4K
-http://serverfulltop.com:80/rogerio/rogerio/19320
-#EXTINF:-1 tvg-id="125" tvg-name="MTV FHD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV FHD
-http://serverfulltop.com:80/rogerio/rogerio/782
-#EXTINF:-1 tvg-id="125" tvg-name="MTV HD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV HD
-http://serverfulltop.com:80/rogerio/rogerio/554
-#EXTINF:-1 tvg-id="126" tvg-name="MTV Live HD" tvg-logo="http://u.meulogin.net:80/images/951eef1a0393cf649987a03d2ddb5ca0.png" group-title="VARIEDADES E MUSICAIS",MTV Live HD
-http://serverfulltop.com:80/rogerio/rogerio/555
-#EXTINF:-1 tvg-id="125" tvg-name="MTV SD" tvg-logo="http://u.meulogin.net:80/images/50a6b417bc08ed6f3e27a8ce0f3fdec2.png" group-title="VARIEDADES E MUSICAIS",MTV SD
-http://serverfulltop.com:80/rogerio/rogerio/556
-#EXTINF:-1 tvg-id="101" tvg-name="Multishow 4K" tvg-logo="http://ux.minhatela.vip:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="4K",Multishow 4K
-http://serverfulltop.com:80/rogerio/rogerio/258
-#EXTINF:-1 tvg-id="101" tvg-name="Multishow FHD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow FHD
-http://serverfulltop.com:80/rogerio/rogerio/784
-#EXTINF:-1 tvg-id="101" tvg-name="Multishow HD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow HD
-http://serverfulltop.com:80/rogerio/rogerio/557
-#EXTINF:-1 tvg-id="101" tvg-name="Multishow HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/71
-#EXTINF:-1 tvg-id="101" tvg-name="Multishow SD" tvg-logo="http://u.meulogin.net:80/images/6bdf24be4543b1a7a30b39006ed9e66e.png" group-title="VARIEDADES E MUSICAIS",Multishow SD
-http://serverfulltop.com:80/rogerio/rogerio/558
-#EXTINF:-1 tvg-id="130" tvg-name="Music Box Brazil HD" tvg-logo="http://u.meulogin.net:80/images/904a45c1c3dd8d90570cffe5bd4ecade.png" group-title="VARIEDADES E MUSICAIS",Music Box Brazil HD
-http://serverfulltop.com:80/rogerio/rogerio/559
-#EXTINF:-1 tvg-id="" tvg-name="MyCujoo HD" tvg-logo="http://u.meulogin.net:80/images/f3ecb0a7545734d58ec83d480e488e66.png" group-title="ESPORTES",MyCujoo HD
-http://serverfulltop.com:80/rogerio/rogerio/560
-#EXTINF:-1 tvg-id="" tvg-name="Nasa TV HD" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="NOTICIAS",Nasa TV HD
-http://serverfulltop.com:80/rogerio/rogerio/561
-#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids FHD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids FHD
-http://serverfulltop.com:80/rogerio/rogerio/785
-#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids HD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids HD
-http://serverfulltop.com:80/rogerio/rogerio/562
-#EXTINF:-1 tvg-id="81" tvg-name="Nat Geo Kids SD" tvg-logo="http://u.meulogin.net:80/images/c7dcb0d665453767c4b4977f07fe82a6.png" group-title="INFANTIL",Nat Geo Kids SD
-http://serverfulltop.com:80/rogerio/rogerio/563
-#EXTINF:-1 tvg-id="143" tvg-name="Nat Geo Wild 4K" tvg-logo="http://ux.minhatela.vip:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="4K",Nat Geo Wild 4K
-http://serverfulltop.com:80/rogerio/rogerio/19323
-#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild FHD" tvg-logo="http://u.meulogin.net:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild FHD
-http://serverfulltop.com:80/rogerio/rogerio/786
-#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild HD" tvg-logo="http://ux.minhatela.vip:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild HD
-http://serverfulltop.com:80/rogerio/rogerio/564
-#EXTINF:-1 tvg-id="143" tvg-name="NatGeo Wild SD" tvg-logo="http://u.meulogin.net:80/images/e89de640698165d5cb5490b4bdadf495.png" group-title="DOCUMENTARIOS",NatGeo Wild SD
-http://serverfulltop.com:80/rogerio/rogerio/565
-#EXTINF:-1 tvg-id="144" tvg-name="National Geographic 4K" tvg-logo="http://ux.minhatela.vip:80/images/f6e577e5efa19bd847bc4087337b9d61.png" group-title="4K",National Geographic 4K
-http://serverfulltop.com:80/rogerio/rogerio/259
-#EXTINF:-1 tvg-id="144" tvg-name="National Geographic FHD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic FHD
-http://serverfulltop.com:80/rogerio/rogerio/787
-#EXTINF:-1 tvg-id="144" tvg-name="National Geographic HD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic HD
-http://serverfulltop.com:80/rogerio/rogerio/566
-#EXTINF:-1 tvg-id="144" tvg-name="National Geographic SD" tvg-logo="http://u.meulogin.net:80/images/d1dc15b978656f52134ba0a9540af0cb.png" group-title="DOCUMENTARIOS",National Geographic SD
-http://serverfulltop.com:80/rogerio/rogerio/567
-#EXTINF:-1 tvg-id="102" tvg-name="NHK FHD" tvg-logo="https://w1.pngwing.com/pngs/430/701/png-transparent-japan-nhk-nhk-world-premium-logo-nhk-general-tv-television-news-channel.png" group-title="NOTICIAS",NHK FHD
-http://serverfulltop.com:80/rogerio/rogerio/20805
-#EXTINF:-1 tvg-id="102" tvg-name="NHK HD" tvg-logo="https://w1.pngwing.com/pngs/430/701/png-transparent-japan-nhk-nhk-world-premium-logo-nhk-general-tv-television-news-channel.png" group-title="NOTICIAS",NHK HD
-http://serverfulltop.com:80/rogerio/rogerio/20806
-#EXTINF:-1 tvg-id="82" tvg-name="Nick Jr FHD" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick Jr FHD
-http://serverfulltop.com:80/rogerio/rogerio/788
-#EXTINF:-1 tvg-id="82" tvg-name="Nick JR HD" tvg-logo="http://ux.minhatela.vip:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick JR HD
-http://serverfulltop.com:80/rogerio/rogerio/568
-#EXTINF:-1 tvg-id="82" tvg-name="Nick JR HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick JR HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/72
-#EXTINF:-1 tvg-id="82" tvg-name="Nick Jr SD" tvg-logo="http://u.meulogin.net:80/images/5d98bc2fcb21bae6299efc6491539f9b.png" group-title="INFANTIL",Nick Jr SD
-http://serverfulltop.com:80/rogerio/rogerio/569
-#EXTINF:-1 tvg-id="83" tvg-name="Nickelodeon FHD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nickelodeon FHD
-http://serverfulltop.com:80/rogerio/rogerio/789
-#EXTINF:-1 tvg-id="83" tvg-name="Nickelodeon HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nickelodeon HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/73
-#EXTINF:-1 tvg-id="83" tvg-name="Nickelodeon SD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nickelodeon SD
-http://serverfulltop.com:80/rogerio/rogerio/571
-#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon 4k" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="4K",Nicklodeon 4k
-http://serverfulltop.com:80/rogerio/rogerio/19324
-#EXTINF:-1 tvg-id="83" tvg-name="Nicklodeon HD" tvg-logo="http://u.meulogin.net:80/images/0275de523815a58abb800d3e1c4a649a.png" group-title="INFANTIL",Nicklodeon HD
-http://serverfulltop.com:80/rogerio/rogerio/570
-#EXTINF:-1 tvg-id="161" tvg-name="Novo Tempo HD" tvg-logo="http://u.meulogin.net:80/images/5f9d7b16010d60033fc71b3e2c2633bd.png" group-title="RELIGIOSOS",Novo Tempo HD
-http://serverfulltop.com:80/rogerio/rogerio/573
-#EXTINF:-1 tvg-id="57" tvg-name="OFF 4K" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="4K",OFF 4K
-http://serverfulltop.com:80/rogerio/rogerio/41590
-#EXTINF:-1 tvg-id="57" tvg-name="Off FHD" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="ESPORTES",Off FHD
-http://serverfulltop.com:80/rogerio/rogerio/790
-#EXTINF:-1 tvg-id="57" tvg-name="Off HD" tvg-logo="http://ux.minhatela.vip:80/images/871de9f7a31d3eb9e5d565b72b05bc0c.png" group-title="ESPORTES",Off HD
-http://serverfulltop.com:80/rogerio/rogerio/574
-#EXTINF:-1 tvg-id="57" tvg-name="Off SD" tvg-logo="http://u.meulogin.net:80/images/5d5bc34de4ad4d134f910c50c2cce0d2.jpg" group-title="ESPORTES",Off SD
-http://serverfulltop.com:80/rogerio/rogerio/575
-#EXTINF:-1 tvg-id="13" tvg-name="Paramount 4K" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="4K",Paramount 4K
-http://serverfulltop.com:80/rogerio/rogerio/19326
-#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel FHD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/791
-#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel HD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/576
-#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/74
-#EXTINF:-1 tvg-id="13" tvg-name="Paramount Channel SD" tvg-logo="http://u.meulogin.net:80/images/789952c7762fcf647e136dd05e064a1d.png" group-title="FILMES E SERIES",Paramount Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/577
-#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE BLACK HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",PENTHOUSE BLACK HD
-http://serverfulltop.com:80/rogerio/rogerio/831
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV FHD" tvg-logo="http://ux.minhatela.vip:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",PLAYBOY TV FHD
-http://serverfulltop.com:80/rogerio/rogerio/832
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",PLAYBOY TV HD
-http://serverfulltop.com:80/rogerio/rogerio/833
-#EXTINF:-1 tvg-id="" tvg-name="PlayTV HD" tvg-logo="http://u.meulogin.net:80/images/35896b0a4654682cc08a38f526387108.jpg" group-title="VARIEDADES E MUSICAIS",PlayTV HD
-http://serverfulltop.com:80/rogerio/rogerio/578
-#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 2 4K
-http://serverfulltop.com:80/rogerio/rogerio/41591
-#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/792
-#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/580
-#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 2 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/75
-#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/581
-#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 3 4K
-http://serverfulltop.com:80/rogerio/rogerio/41592
-#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 FHD
-http://serverfulltop.com:80/rogerio/rogerio/793
-#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/582
-#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 3 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/76
-#EXTINF:-1 tvg-id="60" tvg-name="Premiere 3 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 3 SD
-http://serverfulltop.com:80/rogerio/rogerio/583
-#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 4 4K
-http://serverfulltop.com:80/rogerio/rogerio/41593
-#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 FHD
-http://serverfulltop.com:80/rogerio/rogerio/794
-#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 HD
-http://serverfulltop.com:80/rogerio/rogerio/584
-#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 4 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/77
-#EXTINF:-1 tvg-id="61" tvg-name="Premiere 4 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 4 SD
-http://serverfulltop.com:80/rogerio/rogerio/585
-#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 5 4K
-http://serverfulltop.com:80/rogerio/rogerio/41594
-#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 5 FHD
-http://serverfulltop.com:80/rogerio/rogerio/795
-#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 HD
-http://serverfulltop.com:80/rogerio/rogerio/586
-#EXTINF:-1 tvg-id="62" tvg-name="Premiere 5 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 5 SD
-http://serverfulltop.com:80/rogerio/rogerio/587
-#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 6 4K
-http://serverfulltop.com:80/rogerio/rogerio/41595
-#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 FHD" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere 6 FHD
-http://serverfulltop.com:80/rogerio/rogerio/796
-#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 HD
-http://serverfulltop.com:80/rogerio/rogerio/588
-#EXTINF:-1 tvg-id="63" tvg-name="Premiere 6 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 6 SD
-http://serverfulltop.com:80/rogerio/rogerio/589
-#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 4K" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere 7 4K
-http://serverfulltop.com:80/rogerio/rogerio/41596
-#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 FHD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 FHD
-http://serverfulltop.com:80/rogerio/rogerio/19337
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 HD
-http://serverfulltop.com:80/rogerio/rogerio/590
-#EXTINF:-1 tvg-id="64" tvg-name="Premiere 7 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 7 SD
-http://serverfulltop.com:80/rogerio/rogerio/591
-#EXTINF:-1 tvg-id="65" tvg-name="Premiere 8 HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 HD
-http://serverfulltop.com:80/rogerio/rogerio/19339
-#EXTINF:-1 tvg-id="65" tvg-name="Premiere 8 SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere 8 SD
-http://serverfulltop.com:80/rogerio/rogerio/592
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes 4K" tvg-logo="http://ux.minhatela.vip:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="4K",Premiere Clubes 4K
-http://serverfulltop.com:80/rogerio/rogerio/260
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes FHD
-http://serverfulltop.com:80/rogerio/rogerio/797
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes HD
-http://serverfulltop.com:80/rogerio/rogerio/593
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/913a63c66a91caeedb55262ebcc87bc6.png" group-title="PREMIERES",Premiere Clubes HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/78
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes SD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes SD
-http://serverfulltop.com:80/rogerio/rogerio/594
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere Mosaico HD" tvg-logo="http://u.meulogin.net:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Mosaico HD
-http://serverfulltop.com:80/rogerio/rogerio/595
-#EXTINF:-1 tvg-id="129" tvg-name="Prime Box Brazil HD" tvg-logo="http://u.meulogin.net:80/images/85c969066e63641e12f97c509831b0c1.png" group-title="VARIEDADES E MUSICAIS",Prime Box Brazil HD
-http://serverfulltop.com:80/rogerio/rogerio/596
-#EXTINF:-1 tvg-id="162" tvg-name="Record Amazonas HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Amazonas HD
-http://serverfulltop.com:80/rogerio/rogerio/597
-#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="Record Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Bahia HD
-http://serverfulltop.com:80/rogerio/rogerio/598
-#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="Record Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Brasilia HD
-http://serverfulltop.com:80/rogerio/rogerio/599
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-name="Record Bélem HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Bélem HD
-http://serverfulltop.com:80/rogerio/rogerio/600
-#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="Record Goiânia HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Goiânia HD
-http://serverfulltop.com:80/rogerio/rogerio/601
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="Record MG HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record MG HD
-http://serverfulltop.com:80/rogerio/rogerio/602
-#EXTINF:-1 tvg-id="163" tvg-name="Record News FHD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News FHD
-http://serverfulltop.com:80/rogerio/rogerio/798
-#EXTINF:-1 tvg-id="163" tvg-name="Record News HD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News HD
-http://serverfulltop.com:80/rogerio/rogerio/603
-#EXTINF:-1 tvg-id="163" tvg-name="Record News SD" tvg-logo="http://u.meulogin.net:80/images/9ee967f2452b07e39c9063bc28d77cf5.png" group-title="NOTICIAS",Record News SD
-http://serverfulltop.com:80/rogerio/rogerio/604
-#EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="Record Parana HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record Parana HD
-http://serverfulltop.com:80/rogerio/rogerio/605
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="Record RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RJ HD
-http://serverfulltop.com:80/rogerio/rogerio/606
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-name="Record RS HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record RS HD
-http://serverfulltop.com:80/rogerio/rogerio/607
-#EXTINF:-1 tvg-id="Record TV Florianopolis" tvg-name="Record SC HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SC HD
-http://serverfulltop.com:80/rogerio/rogerio/608
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP 4K" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="4K",Record SP 4K
-http://serverfulltop.com:80/rogerio/rogerio/261
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP FHD
-http://serverfulltop.com:80/rogerio/rogerio/799
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP HD
-http://serverfulltop.com:80/rogerio/rogerio/609
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/96
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP Litoral e Vale HD" tvg-logo="http://ux.minhatela.vip:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP Litoral e Vale HD
-http://serverfulltop.com:80/rogerio/rogerio/611
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="Record SP SD" tvg-logo="http://u.meulogin.net:80/images/f7835b8384c7926920fa6e2200d6486c.png" group-title="RECORD",Record SP SD
-http://serverfulltop.com:80/rogerio/rogerio/612
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://u.meulogin.net:80/images/638254815f3d64d903e8c9fccaec4d1a.png" group-title="ABERTOS",Red Bull TV
-http://serverfulltop.com:80/rogerio/rogerio/613
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de Comunicação HD" tvg-logo="http://u.meulogin.net:80/images/81bbc749a4fa92e2a647d4b3a28abe7a.jpg" group-title="ABERTOS",Rede Brasil de Comunicação HD
-http://serverfulltop.com:80/rogerio/rogerio/614
-#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Familia SD" tvg-logo="http://u.meulogin.net:80/images/b04ec8351f64006c3718c7b6dc76b1a0.png" group-title="RELIGIOSOS",Rede Familia SD
-http://serverfulltop.com:80/rogerio/rogerio/615
-#EXTINF:-1 tvg-id="Redegospel.br" tvg-name="Rede Gospel SD" tvg-logo="http://u.meulogin.net:80/images/2bafc1207bc542bb456df798c53e4b1a.png" group-title="RELIGIOSOS",Rede Gospel SD
-http://serverfulltop.com:80/rogerio/rogerio/616
-#EXTINF:-1 tvg-id="109" tvg-name="Rede Super" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="RELIGIOSOS",Rede Super
-http://serverfulltop.com:80/rogerio/rogerio/14601
-#EXTINF:-1 tvg-id="165" tvg-name="Rede Vida FHD" tvg-logo="http://u.meulogin.net:80/images/2f175a527f6432f41d7daff1a16ae04a.png" group-title="RELIGIOSOS",Rede Vida FHD
-http://serverfulltop.com:80/rogerio/rogerio/617
-#EXTINF:-1 tvg-id="165" tvg-name="Rede Vida HD" tvg-logo="http://u.meulogin.net:80/images/2f175a527f6432f41d7daff1a16ae04a.png" group-title="RELIGIOSOS",Rede Vida HD
-http://serverfulltop.com:80/rogerio/rogerio/618
-#EXTINF:-1 tvg-id="164" tvg-name="RedeTV! 4K" tvg-logo="http://ux.minhatela.vip:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="4K",RedeTV! 4K
-http://serverfulltop.com:80/rogerio/rogerio/262
-#EXTINF:-1 tvg-id="164" tvg-name="RedeTV! FHD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! FHD
-http://serverfulltop.com:80/rogerio/rogerio/800
-#EXTINF:-1 tvg-id="164" tvg-name="RedeTV! HD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! HD
-http://serverfulltop.com:80/rogerio/rogerio/619
-#EXTINF:-1 tvg-id="164" tvg-name="RedeTV! SD" tvg-logo="http://u.meulogin.net:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="ABERTOS",RedeTV! SD
-http://serverfulltop.com:80/rogerio/rogerio/620
-#EXTINF:-1 tvg-id="SBT Belem HD" tvg-name="SBT Bahia HD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT Bahia HD
-http://serverfulltop.com:80/rogerio/rogerio/621
-#EXTINF:-1 tvg-id="SBT Brasília HD" tvg-name="SBT Brasilia HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT Brasilia HD
-http://serverfulltop.com:80/rogerio/rogerio/622
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT MG HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT MG HD
-http://serverfulltop.com:80/rogerio/rogerio/623
-#EXTINF:-1 tvg-id="SBTSantaCatarinaHD.br" tvg-name="SBT Parana HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT Parana HD
-http://serverfulltop.com:80/rogerio/rogerio/624
-#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT RJ HD
-http://serverfulltop.com:80/rogerio/rogerio/625
-#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP 4K" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="4K",SBT SP 4K
-http://serverfulltop.com:80/rogerio/rogerio/263
-#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP FHD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP FHD
-http://serverfulltop.com:80/rogerio/rogerio/801
-#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP HD" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP HD
-http://serverfulltop.com:80/rogerio/rogerio/627
-#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP HD [ALTER]" tvg-logo="http://ux.minhatela.vip:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/79
-#EXTINF:-1 tvg-id="SBT São Paulo HD" tvg-name="SBT SP SD" tvg-logo="http://u.meulogin.net:80/images/37feb17a9ad4099e2c0809d4d35df16b.png" group-title="ABERTOS",SBT SP SD
-http://serverfulltop.com:80/rogerio/rogerio/628
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="SEX HOT FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",SEX HOT FHD
-http://serverfulltop.com:80/rogerio/rogerio/20811
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",SEX PRIVE FHD
-http://serverfulltop.com:80/rogerio/rogerio/20810
-#EXTINF:-1 tvg-id="Sexprive.br" tvg-name="Sex Prive HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sex Prive HD
-http://serverfulltop.com:80/rogerio/rogerio/834
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sex Treme HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sex Treme HD
-http://serverfulltop.com:80/rogerio/rogerio/835
-#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Sexy Hot HD
-http://serverfulltop.com:80/rogerio/rogerio/836
-#EXTINF:-1 tvg-id="113" tvg-name="Shoptime HD" tvg-logo="http://ux.minhatela.vip:80/images/d9add58676b4a10aafdad99b4eecc03d.png" group-title="ABERTOS",Shoptime HD
-http://serverfulltop.com:80/rogerio/rogerio/629
-#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="Smithsonian Channel HD" tvg-logo="http://u.meulogin.net:80/images/9455c2c65bafa41c219c166b57ad641e.png" group-title="VARIEDADES E MUSICAIS",Smithsonian Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/630
-#EXTINF:-1 tvg-id="35" tvg-name="Sony 4K" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="4K",Sony 4K
-http://serverfulltop.com:80/rogerio/rogerio/19327
-#EXTINF:-1 tvg-id="35" tvg-name="Sony FHD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony FHD
-http://serverfulltop.com:80/rogerio/rogerio/802
-#EXTINF:-1 tvg-id="35" tvg-name="Sony HD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony HD
-http://serverfulltop.com:80/rogerio/rogerio/631
-#EXTINF:-1 tvg-id="35" tvg-name="Sony HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/80
-#EXTINF:-1 tvg-id="35" tvg-name="Sony SD" tvg-logo="http://u.meulogin.net:80/images/5c92360e3e80e98a3c44965159c56dde.png" group-title="FILMES E SERIES",Sony SD
-http://serverfulltop.com:80/rogerio/rogerio/632
-#EXTINF:-1 tvg-id="14" tvg-name="Space 4K" tvg-logo="http://ux.minhatela.vip:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="4K",Space 4K
-http://serverfulltop.com:80/rogerio/rogerio/264
-#EXTINF:-1 tvg-id="14" tvg-name="Space FHD" tvg-logo="http://u.meulogin.net:80/images/30dc3e62f46c6470d0e9e12c457dafb5.png" group-title="FILMES E SERIES",Space FHD
-http://serverfulltop.com:80/rogerio/rogerio/803
-#EXTINF:-1 tvg-id="14" tvg-name="Space HD" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="FILMES E SERIES",Space HD
-http://serverfulltop.com:80/rogerio/rogerio/633
-#EXTINF:-1 tvg-id="14" tvg-name="Space HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="FILMES E SERIES",Space HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/81
-#EXTINF:-1 tvg-id="14" tvg-name="Space SD" tvg-logo="http://u.meulogin.net:80/images/267179ed310eb39b8b734131262b2cee.png" group-title="FILMES E SERIES",Space SD
-http://serverfulltop.com:80/rogerio/rogerio/634
-#EXTINF:-1 tvg-id="68" tvg-name="Sportv 2 4K" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="4K",Sportv 2 4K
-http://serverfulltop.com:80/rogerio/rogerio/41597
-#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 FHD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/804
-#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 HD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/635
-#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV 2 HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/82
-#EXTINF:-1 tvg-id="68" tvg-name="SporTV 2 SD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/636
-#EXTINF:-1 tvg-id="69" tvg-name="Sportv 3 4K" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="4K",Sportv 3 4K
-http://serverfulltop.com:80/rogerio/rogerio/41598
-#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 FHD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 FHD
-http://serverfulltop.com:80/rogerio/rogerio/805
-#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 HD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/637
-#EXTINF:-1 tvg-id="69" tvg-name="SporTV 3 SD" tvg-logo="http://u.meulogin.net:80/images/0bf18e69eaead2d68fe5745cc2d02375.png" group-title="ESPORTES",SporTV 3 SD
-http://serverfulltop.com:80/rogerio/rogerio/638
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV 4K" tvg-logo="http://ux.minhatela.vip:80/images/f2e8afb10bd1acf52dc881b99da1489f.png" group-title="4K",SporTV 4K
-http://serverfulltop.com:80/rogerio/rogerio/265
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV FHD" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV FHD
-http://serverfulltop.com:80/rogerio/rogerio/806
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV HD" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD
-http://serverfulltop.com:80/rogerio/rogerio/639
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/83
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV SD" tvg-logo="http://u.meulogin.net:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV SD
-http://serverfulltop.com:80/rogerio/rogerio/640
-#EXTINF:-1 tvg-id="" tvg-name="Star +" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/starplus-logo-1920x1080_b581da62.png" group-title="ESPORTES",Star +
-http://serverfulltop.com:80/rogerio/rogerio/45564
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel 4K" tvg-logo="http://ux.minhatela.vip:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="4K",Star Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/266
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel FHD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/807
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel FHD LEG" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="LEGENDADOS",Star Channel FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/273
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel HD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/641
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel HD LEG" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="LEGENDADOS",Star Channel HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20781
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/84
-#EXTINF:-1 tvg-id="30" tvg-name="Star Channel SD" tvg-logo="http://u.meulogin.net:80/images/282ef62a8a14c93caad0d80a3e5abe9d.png" group-title="FILMES E SERIES",Star Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/642
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 4K" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="4K",Star Hits 1 4K
-http://serverfulltop.com:80/rogerio/rogerio/21420
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 FHD" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 FHD
-http://serverfulltop.com:80/rogerio/rogerio/808
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 FHD LEG" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="LEGENDADOS",Star Hits 1 FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/274
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 HD" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/643
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 HD LEG" tvg-logo="http://ux.minhatela.vip:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="LEGENDADOS",Star Hits 1 HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20783
-#EXTINF:-1 tvg-id="42" tvg-name="Star Hits 1 SD" tvg-logo="http://u.meulogin.net:80/images/c3f3f10cf9185f37a6c2b2632812e1f5.png" group-title="FILMES E SERIES",Star Hits 1 SD
-http://serverfulltop.com:80/rogerio/rogerio/644
-#EXTINF:-1 tvg-id="43" tvg-name="Star hits 2 4K" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="4K",Star hits 2 4K
-http://serverfulltop.com:80/rogerio/rogerio/21421
-#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 FHD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 FHD
-http://serverfulltop.com:80/rogerio/rogerio/809
-#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 FHD LEG" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2014/11/StarHits2-1-460x260_c.png" group-title="LEGENDADOS",Star Hits 2 FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/275
-#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 HD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/645
-#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 HD LEG" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2014/11/StarHits2-1-460x260_c.png" group-title="LEGENDADOS",Star Hits 2 HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20782
-#EXTINF:-1 tvg-id="43" tvg-name="Star Hits 2 SD" tvg-logo="http://u.meulogin.net:80/images/007000ff0fd4fe94b7fab8883db7c332.png" group-title="FILMES E SERIES",Star Hits 2 SD
-http://serverfulltop.com:80/rogerio/rogerio/646
-#EXTINF:-1 tvg-id="31" tvg-name="Star Life 4K" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="4K",Star Life 4K
-http://serverfulltop.com:80/rogerio/rogerio/19312
-#EXTINF:-1 tvg-id="31" tvg-name="Star Life FHD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life FHD
-http://serverfulltop.com:80/rogerio/rogerio/810
-#EXTINF:-1 tvg-id="31" tvg-name="Star Life HD" tvg-logo="http://ux.minhatela.vip:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life HD
-http://serverfulltop.com:80/rogerio/rogerio/647
-#EXTINF:-1 tvg-id="31" tvg-name="Star Life SD" tvg-logo="http://u.meulogin.net:80/images/08ea59479b4b0d460a084d2af824242e.png" group-title="FILMES E SERIES",Star Life SD
-http://serverfulltop.com:80/rogerio/rogerio/648
-#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal 4K" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="4K",Studio Universal 4K
-http://serverfulltop.com:80/rogerio/rogerio/41599
-#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal FHD" tvg-logo="http://u.meulogin.net:80/images/add33a420e9921e9fbe66169fb009128.png" group-title="FILMES E SERIES",Studio Universal FHD
-http://serverfulltop.com:80/rogerio/rogerio/811
-#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal HD" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="FILMES E SERIES",Studio Universal HD
-http://serverfulltop.com:80/rogerio/rogerio/649
-#EXTINF:-1 tvg-id="24" tvg-name="Studio Universal SD" tvg-logo="http://u.meulogin.net:80/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="FILMES E SERIES",Studio Universal SD
-http://serverfulltop.com:80/rogerio/rogerio/650
-#EXTINF:-1 tvg-id="36" tvg-name="Syfy 4K" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="4K",Syfy 4K
-http://serverfulltop.com:80/rogerio/rogerio/41600
-#EXTINF:-1 tvg-id="36" tvg-name="Syfy FHD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",Syfy FHD
-http://serverfulltop.com:80/rogerio/rogerio/812
-#EXTINF:-1 tvg-id="36" tvg-name="SyFy HD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",SyFy HD
-http://serverfulltop.com:80/rogerio/rogerio/651
-#EXTINF:-1 tvg-id="36" tvg-name="SyFy SD" tvg-logo="http://u.meulogin.net:80/images/096317f4288c1a8aa598534944f8a5c6.png" group-title="FILMES E SERIES",SyFy SD
-http://serverfulltop.com:80/rogerio/rogerio/652
-#EXTINF:-1 tvg-id="37" tvg-name="TBS 4K" tvg-logo="http://u.meulogin.net:80/images/f00d9127016f3c34cf22afc4a4eae7bd.jpg" group-title="4K",TBS 4K
-http://serverfulltop.com:80/rogerio/rogerio/19328
-#EXTINF:-1 tvg-id="37" tvg-name="TBS FHD" tvg-logo="http://u.meulogin.net:80/images/f00d9127016f3c34cf22afc4a4eae7bd.jpg" group-title="FILMES E SERIES",TBS FHD
-http://serverfulltop.com:80/rogerio/rogerio/653
-#EXTINF:-1 tvg-id="37" tvg-name="TBS HD" tvg-logo="http://u.meulogin.net:80/images/f00d9127016f3c34cf22afc4a4eae7bd.jpg" group-title="FILMES E SERIES",TBS HD
-http://serverfulltop.com:80/rogerio/rogerio/813
-#EXTINF:-1 tvg-id="15" tvg-name="TCM HD" tvg-logo="http://u.meulogin.net:80/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="FILMES E SERIES",TCM HD
-http://serverfulltop.com:80/rogerio/rogerio/654
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action 4K" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="4K",Telecine Action 4K
-http://serverfulltop.com:80/rogerio/rogerio/41601
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action FHD" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action FHD
-http://serverfulltop.com:80/rogerio/rogerio/814
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action FHD LEG" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="LEGENDADOS",Telecine Action FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/282
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action HD" tvg-logo="http://ux.minhatela.vip:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action HD
-http://serverfulltop.com:80/rogerio/rogerio/655
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action HD LEG" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="LEGENDADOS",Telecine Action HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20784
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/85
-#EXTINF:-1 tvg-id="16" tvg-name="Telecine Action SD" tvg-logo="http://u.meulogin.net:80/images/255abbb56625b6ea473441c06c7f09e5.png" group-title="TELECINE",Telecine Action SD
-http://serverfulltop.com:80/rogerio/rogerio/656
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult 4K" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="4K",Telecine Cult 4K
-http://serverfulltop.com:80/rogerio/rogerio/41602
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult FHD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult FHD
-http://serverfulltop.com:80/rogerio/rogerio/815
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult FHD LEG" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/50/Telecine_Cult_Gato.png" group-title="LEGENDADOS",Telecine Cult FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/283
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult HD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult HD
-http://serverfulltop.com:80/rogerio/rogerio/657
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult HD LEG" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/50/Telecine_Cult_Gato.png" group-title="LEGENDADOS",Telecine Cult HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20785
-#EXTINF:-1 tvg-id="17" tvg-name="Telecine Cult SD" tvg-logo="http://u.meulogin.net:80/images/d354e980a3baaf31f45beecd40fb3763.png" group-title="TELECINE",Telecine Cult SD
-http://serverfulltop.com:80/rogerio/rogerio/658
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun 4K" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="4K",Telecine Fun 4K
-http://serverfulltop.com:80/rogerio/rogerio/41603
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun FHD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun FHD
-http://serverfulltop.com:80/rogerio/rogerio/816
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun FHD LEG" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="LEGENDADOS",Telecine Fun FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/284
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun HD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun HD
-http://serverfulltop.com:80/rogerio/rogerio/659
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun HD LEG" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="LEGENDADOS",Telecine Fun HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20786
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/86
-#EXTINF:-1 tvg-id="18" tvg-name="Telecine Fun SD" tvg-logo="http://u.meulogin.net:80/images/811ec0bc99a49ad55ccc35a73432ac46.png" group-title="TELECINE",Telecine Fun SD
-http://serverfulltop.com:80/rogerio/rogerio/660
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca 4K" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="4K",Telecine Pipoca 4K
-http://serverfulltop.com:80/rogerio/rogerio/267
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca FHD" tvg-logo="http://ux.minhatela.vip:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca FHD
-http://serverfulltop.com:80/rogerio/rogerio/817
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca FHD LEG" tvg-logo="http://u.meulogin.net:80/images/b2df77d387cd32985c3bd3f50aa1c0bd.png" group-title="LEGENDADOS",Telecine Pipoca FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/285
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca HD" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca HD
-http://serverfulltop.com:80/rogerio/rogerio/661
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://u.meulogin.net:80/images/b2df77d387cd32985c3bd3f50aa1c0bd.png" group-title="LEGENDADOS",Telecine Pipoca HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20787
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/87
-#EXTINF:-1 tvg-id="19" tvg-name="Telecine Pipoca SD" tvg-logo="http://u.meulogin.net:80/images/b7cfd5590dd3bbd2549cf9aa8e1ae3bb.png" group-title="TELECINE",Telecine Pipoca SD
-http://serverfulltop.com:80/rogerio/rogerio/662
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium 4K" tvg-logo="http://ux.minhatela.vip:80/images/b45df2815747ba583672be0e407f5a07.png" group-title="4K",Telecine Premium 4K
-http://serverfulltop.com:80/rogerio/rogerio/268
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium FHD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium FHD
-http://serverfulltop.com:80/rogerio/rogerio/818
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium FHD LEG" tvg-logo="http://u.meulogin.net:80/images/b45df2815747ba583672be0e407f5a07.png" group-title="LEGENDADOS",Telecine Premium FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/286
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium HD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium HD
-http://serverfulltop.com:80/rogerio/rogerio/663
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium HD LEG" tvg-logo="http://u.meulogin.net:80/images/b45df2815747ba583672be0e407f5a07.png" group-title="LEGENDADOS",Telecine Premium HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20788
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/88
-#EXTINF:-1 tvg-id="20" tvg-name="Telecine Premium SD" tvg-logo="http://u.meulogin.net:80/images/f6f542945adeeaaf53783391000edead.png" group-title="TELECINE",Telecine Premium SD
-http://serverfulltop.com:80/rogerio/rogerio/664
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch 4K" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="4K",Telecine Touch 4K
-http://serverfulltop.com:80/rogerio/rogerio/19950
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch FHD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch FHD
-http://serverfulltop.com:80/rogerio/rogerio/819
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch FHD LEG" tvg-logo="http://u.meulogin.net:80/images/b0e5a7d56c319d58b01f419016997a37.png" group-title="LEGENDADOS",Telecine Touch FHD LEG
-http://serverfulltop.com:80/rogerio/rogerio/287
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch HD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch HD
-http://serverfulltop.com:80/rogerio/rogerio/665
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch HD LEG" tvg-logo="http://u.meulogin.net:80/images/b0e5a7d56c319d58b01f419016997a37.png" group-title="LEGENDADOS",Telecine Touch HD LEG
-http://serverfulltop.com:80/rogerio/rogerio/20789
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/89
-#EXTINF:-1 tvg-id="21" tvg-name="Telecine Touch SD" tvg-logo="http://u.meulogin.net:80/images/a31ea6d5ad8df268a3e59001804d98aa.png" group-title="TELECINE",Telecine Touch SD
-http://serverfulltop.com:80/rogerio/rogerio/666
-#EXTINF:-1 tvg-id="146" tvg-name="TLC 4K" tvg-logo="http://ux.minhatela.vip:80/images/edeb2bea22b86124259fef522de69a74.png" group-title="4K",TLC 4K
-http://serverfulltop.com:80/rogerio/rogerio/19329
-#EXTINF:-1 tvg-id="22" tvg-name="TNT 4K" tvg-logo="http://ux.minhatela.vip:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="4K",TNT 4K
-http://serverfulltop.com:80/rogerio/rogerio/269
-#EXTINF:-1 tvg-id="22" tvg-name="TNT FHD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT FHD
-http://serverfulltop.com:80/rogerio/rogerio/820
-#EXTINF:-1 tvg-id="22" tvg-name="TNT HD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT HD
-http://serverfulltop.com:80/rogerio/rogerio/667
-#EXTINF:-1 tvg-id="22" tvg-name="TNT HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/90
-#EXTINF:-1 tvg-id="22" tvg-name="TNT SD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT SD
-http://serverfulltop.com:80/rogerio/rogerio/668
-#EXTINF:-1 tvg-id="38" tvg-name="TNT Series 4K" tvg-logo="http://ux.minhatela.vip:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="4K",TNT Series 4K
-http://serverfulltop.com:80/rogerio/rogerio/270
-#EXTINF:-1 tvg-id="38" tvg-name="TNT Series FHD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series FHD
-http://serverfulltop.com:80/rogerio/rogerio/821
-#EXTINF:-1 tvg-id="38" tvg-name="TNT Series HD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series HD
-http://serverfulltop.com:80/rogerio/rogerio/669
-#EXTINF:-1 tvg-id="38" tvg-name="TNT Series SD" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Series SD
-http://serverfulltop.com:80/rogerio/rogerio/670
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="http://u.meulogin.net:80/images/65211d200018fea1505f15a9eac521f7.png" group-title="TNT SPORTS",TNT Sports HD
-http://serverfulltop.com:80/rogerio/rogerio/671
-#EXTINF:-1 tvg-id="38" tvg-name="TNT Séries HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/a347f34dbd0370084fcc2fe0b8132c56.png" group-title="FILMES E SERIES",TNT Séries HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/92
-#EXTINF:-1 tvg-id="84" tvg-name="Tooncast FHD" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png" group-title="INFANTIL",Tooncast FHD
-http://serverfulltop.com:80/rogerio/rogerio/822
-#EXTINF:-1 tvg-id="84" tvg-name="Tooncast HD" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png" group-title="INFANTIL",Tooncast HD
-http://serverfulltop.com:80/rogerio/rogerio/672
-#EXTINF:-1 tvg-id="84" tvg-name="Tooncast SD" tvg-logo="http://u.meulogin.net:80/images/758eb084cc0ebe959efb38e35aec43e8.png" group-title="INFANTIL",Tooncast SD
-http://serverfulltop.com:80/rogerio/rogerio/673
-#EXTINF:-1 tvg-id="131" tvg-name="Travel Box Brazil HD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="VARIEDADES E MUSICAIS",Travel Box Brazil HD
-http://serverfulltop.com:80/rogerio/rogerio/19286
-#EXTINF:-1 tvg-id="87" tvg-name="TruTV FHD" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png" group-title="VARIEDADES E MUSICAIS",TruTV FHD
-http://serverfulltop.com:80/rogerio/rogerio/19612
-#EXTINF:-1 tvg-id="87" tvg-name="TruTV HD" tvg-logo="http://u.meulogin.net:80/images/f97e9ad5a0e99e1ed61ce5643db27e01.png" group-title="VARIEDADES E MUSICAIS",TruTV HD
-http://serverfulltop.com:80/rogerio/rogerio/674
-#EXTINF:-1 tvg-id="" tvg-name="TV A Critica HD" tvg-logo="http://u.meulogin.net:80/images/701d8f565f315cf3c51cadb95a9f632a.png" group-title="ABERTOS",TV A Critica HD
-http://serverfulltop.com:80/rogerio/rogerio/675
-#EXTINF:-1 tvg-id="167" tvg-name="TV Aparecida HD" tvg-logo="http://u.meulogin.net:80/images/7e5145c4f844372072ca5318b445d56b.png" group-title="RELIGIOSOS",TV Aparecida HD
-http://serverfulltop.com:80/rogerio/rogerio/676
-#EXTINF:-1 tvg-id="168" tvg-name="TV Brasil HD" tvg-logo="https://i0.wp.com/jornalguarunews.com.br/wp-content/uploads/2020/06/tv-brasil-1.jpg?fit=800%2C445&ssl=1&w=640" group-title="ABERTOS",TV Brasil HD
-http://serverfulltop.com:80/rogerio/rogerio/677
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola FHD" tvg-logo="http://u.meulogin.net:80/images/73760808cbdea58038b546ec7872b26a.png" group-title="ABERTOS",TV Escola FHD
-http://serverfulltop.com:80/rogerio/rogerio/678
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola HD" tvg-logo="http://u.meulogin.net:80/images/73760808cbdea58038b546ec7872b26a.png" group-title="ABERTOS",TV Escola HD
-http://serverfulltop.com:80/rogerio/rogerio/679
-#EXTINF:-1 tvg-id="171" tvg-name="TV Gazeta HD" tvg-logo="http://u.meulogin.net:80/images/f92af99972eea99aa9529d046193255b.png" group-title="ABERTOS",TV Gazeta HD
-http://serverfulltop.com:80/rogerio/rogerio/680
-#EXTINF:-1 tvg-id="119" tvg-name="TV Justiça FHD" tvg-logo="http://ux.minhatela.vip:80/images/54319c0c314f2faec48d7b703a413ba0.png" group-title="ABERTOS",TV Justiça FHD
-http://serverfulltop.com:80/rogerio/rogerio/681
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 1 HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/f3/20/9bf32068-f998-816a-68da-d1bfa3a2ec6e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CAMPEONATOS",TV NSPORTS 1 HD
-http://serverfulltop.com:80/rogerio/rogerio/20790
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 2 HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/f3/20/9bf32068-f998-816a-68da-d1bfa3a2ec6e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CAMPEONATOS",TV NSPORTS 2 HD
-http://serverfulltop.com:80/rogerio/rogerio/20791
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 3 HD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/f3/20/9bf32068-f998-816a-68da-d1bfa3a2ec6e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CAMPEONATOS",TV NSPORTS 3 HD
-http://serverfulltop.com:80/rogerio/rogerio/20792
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno HD
-http://serverfulltop.com:80/rogerio/rogerio/14600
-#EXTINF:-1 tvg-id="Playkids.br" tvg-name="TV Playkids HD" tvg-logo="http://ux.minhatela.vip:80/images/068ed070a0e3e020a6faf45a4f5b0d0f.jpg" group-title="INFANTIL",TV Playkids HD
-http://serverfulltop.com:80/rogerio/rogerio/682
-#EXTINF:-1 tvg-id="85" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="INFANTIL",TV Ra Tim Bum FHD
-http://serverfulltop.com:80/rogerio/rogerio/19605
-#EXTINF:-1 tvg-id="85" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="INFANTIL",TV Ra Tim Bum HD
-http://serverfulltop.com:80/rogerio/rogerio/683
-#EXTINF:-1 tvg-id="85" tvg-name="TV Ra Tim Bum SD" tvg-logo="http://u.meulogin.net:80/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="ABERTOS",TV Ra Tim Bum SD
-http://serverfulltop.com:80/rogerio/rogerio/19627
-#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia HD" tvg-logo="http://ux.minhatela.vip:80/images/b17ea352166a96e7d67ab7b7168699d1.png" group-title="ABERTOS",TVE Bahia HD
-http://serverfulltop.com:80/rogerio/rogerio/684
-#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel 4K" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="4K",Universal Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/41604
-#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel FHD" tvg-logo="http://u.meulogin.net:80/images/8e77b75b27acf222c411c50da8fb9162.png" group-title="FILMES E SERIES",Universal Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/823
-#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel HD" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="FILMES E SERIES",Universal Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/685
-#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/8e77b75b27acf222c411c50da8fb9162.png" group-title="FILMES E SERIES",Universal Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/93
-#EXTINF:-1 tvg-id="39" tvg-name="Universal Channel SD" tvg-logo="http://u.meulogin.net:80/images/f6e82a9344e449320812cf93cf5eaf17.png" group-title="FILMES E SERIES",Universal Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/686
-#EXTINF:-1 tvg-id="" tvg-name="Vasco TV" tvg-logo="https://media.supervasco.com/photo/2018/12/thumbs/vasco-tv.png.800x0_q70_crop.png" group-title="CAMPEONATOS",Vasco TV
-http://serverfulltop.com:80/rogerio/rogerio/20804
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="VENUS HD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",VENUS HD
-http://serverfulltop.com:80/rogerio/rogerio/837
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus SD" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",Venus SD
-http://serverfulltop.com:80/rogerio/rogerio/838
-#EXTINF:-1 tvg-id="124" tvg-name="Viva 4K" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="4K",Viva 4K
-http://serverfulltop.com:80/rogerio/rogerio/52003
-#EXTINF:-1 tvg-id="124" tvg-name="Viva FHD" tvg-logo="http://ux.minhatela.vip:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva FHD
-http://serverfulltop.com:80/rogerio/rogerio/824
-#EXTINF:-1 tvg-id="124" tvg-name="Viva HD" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva HD
-http://serverfulltop.com:80/rogerio/rogerio/689
-#EXTINF:-1 tvg-id="124" tvg-name="Viva SD" tvg-logo="http://u.meulogin.net:80/images/3b406bfad71fc4cf7fdbcffc22a32d28.png" group-title="VARIEDADES E MUSICAIS",Viva SD
-http://serverfulltop.com:80/rogerio/rogerio/690
-#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel 4K" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="4K",Warner Channel 4K
-http://serverfulltop.com:80/rogerio/rogerio/21422
-#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel FHD" tvg-logo="http://u.meulogin.net:80/images/32f9f91b9c8ef876b0ddd60939e659a4.png" group-title="FILMES E SERIES",Warner Channel FHD
-http://serverfulltop.com:80/rogerio/rogerio/825
-#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel HD" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="FILMES E SERIES",Warner Channel HD
-http://serverfulltop.com:80/rogerio/rogerio/691
-#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel HD [ALTER]" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="FILMES E SERIES",Warner Channel HD [ALTER]
-http://serverfulltop.com:80/rogerio/rogerio/94
-#EXTINF:-1 tvg-id="40" tvg-name="Warner Channel SD" tvg-logo="http://u.meulogin.net:80/images/c46d8895130447a7ba41bac313a1fc1a.png" group-title="FILMES E SERIES",Warner Channel SD
-http://serverfulltop.com:80/rogerio/rogerio/692
-#EXTINF:-1 tvg-id="71" tvg-name="Woohoo 4K" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="4K",Woohoo 4K
-http://serverfulltop.com:80/rogerio/rogerio/19332
-#EXTINF:-1 tvg-id="71" tvg-name="Woohoo FHD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo FHD
-http://serverfulltop.com:80/rogerio/rogerio/826
-#EXTINF:-1 tvg-id="71" tvg-name="Woohoo HD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo HD
-http://serverfulltop.com:80/rogerio/rogerio/693
-#EXTINF:-1 tvg-id="71" tvg-name="Woohoo SD" tvg-logo="http://u.meulogin.net:80/images/d5e3a0292ff54d6969a73dae9cfb42fc.jpg" group-title="VARIEDADES E MUSICAIS",Woohoo SD
-http://serverfulltop.com:80/rogerio/rogerio/694
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto +" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto +
-http://serverfulltop.com:80/rogerio/rogerio/839
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Brazil" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Brazil
-http://serverfulltop.com:80/rogerio/rogerio/840
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Brazilian" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Brazilian
-http://serverfulltop.com:80/rogerio/rogerio/841
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Chicks" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Chicks
-http://serverfulltop.com:80/rogerio/rogerio/842
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Gay" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Gay
-http://serverfulltop.com:80/rogerio/rogerio/843
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Movies" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Movies
-http://serverfulltop.com:80/rogerio/rogerio/844
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Other" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Other
-http://serverfulltop.com:80/rogerio/rogerio/845
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Paradise" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Paradise
-http://serverfulltop.com:80/rogerio/rogerio/846
-#EXTINF:-1 tvg-id="" tvg-name="XXX Adulto Trans" tvg-logo="http://u.meulogin.net:80/images/383d9db0e9c39dc3ecbf4ff20e33f0fa.png" group-title="ADULTOS",XXX Adulto Trans
-http://serverfulltop.com:80/rogerio/rogerio/847
-#EXTINF:-1 tvg-id="86" tvg-name="Zoomoo FHD" tvg-logo="http://u.meulogin.net:80/images/d7090f4ea9ce18813a2e0bd7d77f5f2c.png" group-title="INFANTIL",Zoomoo FHD
-http://serverfulltop.com:80/rogerio/rogerio/20803
-#EXTINF:-1 tvg-id="86" tvg-name="Zoomoo HD" tvg-logo="http://u.meulogin.net:80/images/d7090f4ea9ce18813a2e0bd7d77f5f2c.png" group-title="INFANTIL",Zoomoo HD
-http://serverfulltop.com:80/rogerio/rogerio/695
-#EXTINF:-1 tvg-id="86" tvg-name="Zoomoo SD" tvg-logo="http://u.meulogin.net:80/images/d7090f4ea9ce18813a2e0bd7d77f5f2c.png" group-title="INFANTIL",Zoomoo SD
-http://serverfulltop.com:80/rogerio/rogerio/696
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68834
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84917
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68835
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84918
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68836
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84916
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",AGRO BRASIL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75155
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84920
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://dns.ulttv.xyz/logos/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/81158
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84921
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84919
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68788
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84858
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68789
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84859
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68790
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84857
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69147
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69148
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85072
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69149
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68838
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84923
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68839
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84924
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68840
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84922
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69030
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69031
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69032
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND BSB HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105126
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105127
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GOIANIA HD" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND GOIANIA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106329
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69070
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69071
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84861
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69072
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84860
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RJ HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105128
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84842
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105129
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD²" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84841
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SERGIPE HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105130
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SP HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105131
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69108
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69109
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84888
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69110
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84887
+#EXTINF:-1 tvg-id="" tvg-name="BAND VIA MORENA" tvg-logo="http://dns.ulttv.xyz/logos/img/band.png" group-title="CANAIS | ABERTOS",BAND VIA MORENA
+http://dns.ulttv.xyz:80/angelo12/12angelo/83631
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69150
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85074
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69151
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85075
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69152
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85073
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69033
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69034
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD²" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85040
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69035
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD²" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85039
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="CANAL 4FUN" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL 4FUN
+http://dns.ulttv.xyz:80/angelo12/12angelo/69323
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69154
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69155
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/canalnbr.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85076
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69156
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL DO BOI SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75154
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAÚDE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL SAÚDE
+http://dns.ulttv.xyz:80/angelo12/12angelo/75149
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD²" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | VARIEDADES",CANAL SONY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85078
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD²" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | VARIEDADES",CANAL SONY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85077
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA FHD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/75134
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85080
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85079
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115994
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115995
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115982
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115983
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 3
+http://dns.ulttv.xyz:80/angelo12/12angelo/115984
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115985
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 4
+http://dns.ulttv.xyz:80/angelo12/12angelo/115986
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115987
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 5 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115988
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 5
+http://dns.ulttv.xyz:80/angelo12/12angelo/115989
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 6 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115990
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 6 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115991
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 7 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115992
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 7 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115993
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115996
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115997
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115998
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115999
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/116000
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 3 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/116001
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/116002
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 4 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/116003
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2021 SD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2021 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113842
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2021 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2021 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113843
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2 SD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113844
+#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113845
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CAMPEONATO CARIOCA 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113866
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CAMPEONATO CARIOCA 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113867
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ FHD" tvg-logo="http://ipbr.tv/img/stream/flatvmais.jpg" group-title="CANAIS | ESPORTES PPV",FLA TV+ FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113864
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ HD" tvg-logo="http://ipbr.tv/img/stream/flatvmais.jpg" group-title="CANAIS | ESPORTES PPV",FLA TV+ HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113865
+#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADOS FHD" tvg-logo="http://dns.ulttv.xyz/img/libertadores.png" group-title="CANAIS | ESPORTES PPV",COPA LIBERTADOS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75377
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 1 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113849
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 2 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113850
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 3 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113854
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 4 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113851
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 5 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 5 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113852
+#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT PLAYOUTS HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT PLAYOUTS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/113853
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 1 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115523
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115524
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115525
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115526
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 3 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115527
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115528
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 4 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115529
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115530
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 5 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115531
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 5 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115532
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 6 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115533
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 6 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115534
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 7 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115535
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 7 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115536
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 8 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115537
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 8 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/115538
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69036
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69037
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85042
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69038
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85041
+#EXTINF:-1 tvg-id="" tvg-name="CATVE - CULTURA PR" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CATVE - CULTURA PR
+http://dns.ulttv.xyz:80/angelo12/12angelo/75123
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV FHD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69157
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69158
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV SD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69159
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ SD" tvg-logo="http://dns.ulttv.xyz/img/cinemais.png" group-title="CANAIS | ABERTOS",CINE+ SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69325
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CINE+ SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75115
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68841
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84925
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68842
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84926
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68843
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85082
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75532
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85083
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85081
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL FHD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69073
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69074
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL SD " tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD 
+http://dns.ulttv.xyz:80/angelo12/12angelo/69075
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69076
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69077
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69078
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69112
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84890
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69113
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84891
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69114
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84889
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69160
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85085
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69161
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85086
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69162
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85084
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 1 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97471
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97504
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97472
+#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97505
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97473
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97476
+#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97506
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="CONMEBOL 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 4 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97474
+#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="CONMEBOL 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97477
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL WATCH HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL WATCH HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97507
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 1)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121473
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 1)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121474
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 1)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121475
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 2)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121476
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 2)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121477
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 2)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121478
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 3)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121479
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 3)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121480
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 4 )" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 4 )
+http://dns.ulttv.xyz:80/angelo12/12angelo/121481
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 4)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121482
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 4)
+http://dns.ulttv.xyz:80/angelo12/12angelo/121483
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA PARÁ HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CULTURA PARÁ HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75122
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69163
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69164
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69165
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 1 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84892
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69519
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69520
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/117998
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD " tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 2 SD 
+http://dns.ulttv.xyz:80/angelo12/12angelo/117999
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 1 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/74998
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 2 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/74997
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 3 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/74996
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 4 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/74995
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 5 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 5 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/74994
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68791
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84863
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68792
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84864
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68793
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84862
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85088
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85089
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85087
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68797
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68798
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68799
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID FHD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68800
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68801
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID SD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68802
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69039
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69040
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85044
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69041
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85043
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68806
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84865
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68807
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84866
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68808
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68809
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84867
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68810
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84868
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68811
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68812
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84870
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68813
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84871
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68814
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84869
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68815
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84872
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68816
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84873
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68817
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69042
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69043
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69044
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY HD²" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85046
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JR FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69045
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JR SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69047
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69046
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD²" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85048
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD²" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85047
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY SD²" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85045
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69048
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69049
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69050
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD²" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85049
+#EXTINF:-1 tvg-id="" tvg-name="DJING ANIMATION" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",DJING ANIMATION
+http://dns.ulttv.xyz:80/angelo12/12angelo/75153
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69167
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69168
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85091
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69169
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD²" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85090
+#EXTINF:-1 tvg-id="" tvg-name="E-PARANA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",E-PARANA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75157
+#EXTINF:-1 tvg-id="" tvg-name="EI MAXX" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX
+http://dns.ulttv.xyz:80/angelo12/12angelo/106349
+#EXTINF:-1 tvg-id="" tvg-name="EI MAXX2" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-2-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX2
+http://dns.ulttv.xyz:80/angelo12/12angelo/106350
+#EXTINF:-1 tvg-id="" tvg-name="EI MAXX3" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX3
+http://dns.ulttv.xyz:80/angelo12/12angelo/106351
+#EXTINF:-1 tvg-id="" tvg-name="EI MAXX4" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX4
+http://dns.ulttv.xyz:80/angelo12/12angelo/106352
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 1
+http://dns.ulttv.xyz:80/angelo12/12angelo/119196
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 2
+http://dns.ulttv.xyz:80/angelo12/12angelo/119197
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 3
+http://dns.ulttv.xyz:80/angelo12/12angelo/119198
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 4
+http://dns.ulttv.xyz:80/angelo12/12angelo/119199
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 5
+http://dns.ulttv.xyz:80/angelo12/12angelo/119200
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 6
+http://dns.ulttv.xyz:80/angelo12/12angelo/119201
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 7
+http://dns.ulttv.xyz:80/angelo12/12angelo/119202
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 8
+http://dns.ulttv.xyz:80/angelo12/12angelo/119203
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 9
+http://dns.ulttv.xyz:80/angelo12/12angelo/119204
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 10
+http://dns.ulttv.xyz:80/angelo12/12angelo/119205
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 11
+http://dns.ulttv.xyz:80/angelo12/12angelo/119206
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 12
+http://dns.ulttv.xyz:80/angelo12/12angelo/119207
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 13
+http://dns.ulttv.xyz:80/angelo12/12angelo/119208
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 14
+http://dns.ulttv.xyz:80/angelo12/12angelo/119209
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 15
+http://dns.ulttv.xyz:80/angelo12/12angelo/119210
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 16
+http://dns.ulttv.xyz:80/angelo12/12angelo/119211
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 17
+http://dns.ulttv.xyz:80/angelo12/12angelo/119212
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 18
+http://dns.ulttv.xyz:80/angelo12/12angelo/119213
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 19
+http://dns.ulttv.xyz:80/angelo12/12angelo/119214
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO *
+http://dns.ulttv.xyz:80/angelo12/12angelo/97824
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO *
+http://dns.ulttv.xyz:80/angelo12/12angelo/97823
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO HD *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO HD *
+http://dns.ulttv.xyz:80/angelo12/12angelo/97826
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO HD *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO HD *
+http://dns.ulttv.xyz:80/angelo12/12angelo/97825
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="ESPERANZA TV HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",ESPERANZA TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69326
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69115
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69116
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84895
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69117
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84894
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69118
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69119
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84897
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69120
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD²" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84896
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA
+http://dns.ulttv.xyz:80/angelo12/12angelo/69122
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/70482
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69121
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84898
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69123
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69124
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD²" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84899
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69125
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM ARTS HD" tvg-logo="http://dns.ulttv.xyz/img/filmartes.png" group-title="CANAIS | FILMES & SÉRIES",FILM ARTS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84748
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69170
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69171
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85093
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69172
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85092
+#EXTINF:-1 tvg-id="" tvg-name="FM O DIA TV HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",FM O DIA TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75120
+#EXTINF:-1 tvg-id="" tvg-name="FONTETV GO" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",FONTETV GO
+http://dns.ulttv.xyz:80/angelo12/12angelo/75144
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69173
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="FOOD NETWORK FHD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85095
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69174
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85096
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69175
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85094
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",FOX CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68844
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68845
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84928
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69327
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85098
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68847
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85099
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68848
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85097
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/foxhd.png" group-title="CANAIS | NOTÍCIAS",FOX NEWS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69328
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68849
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD²" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84929
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68850
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84930
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69331
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68851
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84931
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68852
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84932
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69332
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/starchannel.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68853
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84927
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69127
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69128
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84904
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69129
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84903
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69130
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84933
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69126
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84905
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69131
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84902
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE TV" tvg-logo="http://dns.ulttv.xyz/img/furacao-play.png" group-title="CANAIS | ESPORTES PPV",FURACÃO LIVE TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/106336
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL TV" tvg-logo="" group-title="CANAIS | ESPORTES PPV",FUTEBOL TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/106335
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD²" tvg-logo="http://dns.ulttv.xyz/img/futura.png" group-title="CANAIS | VARIEDADES",FUTURA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85100
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68854
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84935
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68855
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84936
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68856
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84934
+#EXTINF:-1 tvg-id="" tvg-name="GIDEÔES*" tvg-logo="http://dns.ulttv.xyz/img/gideoes.png" group-title="CANAIS | RELIGIOSOS",GIDEÔES*
+http://dns.ulttv.xyz:80/angelo12/12angelo/75111
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA ALAGOAS FHD" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA ALAGOAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69386
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69387
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHD²" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84854
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD ²" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA HD ²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84855
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD SP³" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA HD SP³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105095
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69364
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105107
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69365
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85028
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105108
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69366
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85027
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69360
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85023
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105104
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/79454
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85024
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105105
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/81796
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85022
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69368
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69369
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69370
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69348
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69349
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85013
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105102
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69350
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZÔNICA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZÔNICA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84998
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA  FHD (SALVADOR)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD (SALVADOR)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105096
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD (SALVADOR)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105097
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85000
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="GLOBO BAHIA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84999
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD H265³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105098
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD *" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD *
+http://dns.ulttv.xyz:80/angelo12/12angelo/69428
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105099
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASÍLIA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASÍLIA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85002
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASÍLIA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85001
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69339
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69340
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO CUAIBÁ SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CUAIBÁ SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85003
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105089
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105090
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD H265³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105091
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105092
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105093
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105094
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69341
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69342
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69343
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85004
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85006
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69344
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69345
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="GLOBO EPTV SÃO CARLOS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SÃO CARLOS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85007
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO FORTALEZA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85009
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO FORTALEZA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85008
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85010
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106508
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI
+http://dns.ulttv.xyz:80/angelo12/12angelo/106509
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85011
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69382
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69346
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69347
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTERNACIONAL HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105100
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MANAUS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105101
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85012
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69080
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85015
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69081
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85016
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69082
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85014
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69351
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69352
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85017
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69353
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69354
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69355
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69356
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAU FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69383
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CENTRO OESTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CENTRO OESTE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106520
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CHAPECÓ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECÓ FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106515
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CRICIUMA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CRICIUMA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106514
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NSC TV HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85019
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV JOINVILLE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106513
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO PARAIBA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105103
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS POA TV FHD²" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85021
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS POA TV HD³" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105132
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS POA TV HD²" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85020
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106342
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106343
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106344
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106345
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69357
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69358
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV POA SD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69359
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV SANTA MARIA" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV SANTA MARIA
+http://dns.ulttv.xyz:80/angelo12/12angelo/106340
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA
+http://dns.ulttv.xyz:80/angelo12/12angelo/106510
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85026
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC CURITIBA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85025
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106512
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69361
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69362
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69363
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV FOZ DO IGUAÇU" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV FOZ DO IGUAÇU
+http://dns.ulttv.xyz:80/angelo12/12angelo/106517
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTO GROSSA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTO GROSSA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106516
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE - TV SERGIPE HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE - TV SERGIPE HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105106
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA  SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA  SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69367
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA
+http://dns.ulttv.xyz:80/angelo12/12angelo/69407
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106506
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69371
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69372
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69373
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO TV BRASILIA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BRASILIA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69374
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106507
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUB FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CLUB FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106505
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRAÇÃO
+http://dns.ulttv.xyz:80/angelo12/12angelo/106511
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69375
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69376
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69377
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69378
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV MORENA FHD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85030
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69379
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85031
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69380
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV MORENA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85029
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV RECIFE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RECIFE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106521
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106522
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69388
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69389
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85032
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJRP SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SJRP SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85033
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85034
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85035
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SJC SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA SJC SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85036
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69381
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84651
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84652
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES. FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105110
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105109
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA HD ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105111
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69051
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69052
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD²" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85051
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69053
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD²" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85050
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69054
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69055
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOOBINHO SD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69056
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69177
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85102
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69178
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85103
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69179
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85101
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON SD" tvg-logo="http://dns.ulttv.xyz/img/gospelcartoon.png" group-title="CANAIS | RELIGIOSOS",GOSPEL CARTOON SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75118
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV" tvg-logo="http://dns.ulttv.xyz/img/gospelmovie.png" group-title="CANAIS | RELIGIOSOS",GOSPEL MOVIE TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75142
+#EXTINF:-1 tvg-id="" tvg-name="H!T MUSIC" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",H!T MUSIC
+http://dns.ulttv.xyz:80/angelo12/12angelo/75127
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY FHD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68819
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68820
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68821
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69015
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84939
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69016
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84940
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69017
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84938
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME FHD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68860
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME HD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68861
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME SD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68862
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69018
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84942
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69019
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84943
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69020
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84941
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69021
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84944
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69022
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84945
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68857
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84947
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68859
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84948
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68863
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84946
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69023
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69024
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69025
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP
+http://dns.ulttv.xyz:80/angelo12/12angelo/68864
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68865
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84950
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68866
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD²" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84949
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69026
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84937
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69027
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84951
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69028
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84952
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69029
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84954
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84955
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84953
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84957
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84958
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84956
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68794
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68795
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD²" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84874
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68796
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84877
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84876
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68828
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68829
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD²" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84878
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68830
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD²" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84875
+#EXTINF:-1 tvg-id="" tvg-name="I SAT FHD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69180
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT HD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69181
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT SD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69182
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84880
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84879
+#EXTINF:-1 tvg-id="" tvg-name="INTERTV CABO FRIO HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",INTERTV CABO FRIO HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105112
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="http://dns.ulttv.xyz/img/iurd-tv.png" group-title="CANAIS | RELIGIOSOS",IURD TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75141
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69184
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69185
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | DOCUMENTARIOS",LIFETIME HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84882
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69186
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | DOCUMENTARIOS",LIFETIME SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84881
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE FUTSAL" tvg-logo="http://dns.ulttv.xyz/img/LIGANFUTSAL.png" group-title="CANAIS | ESPORTES PPV",LIGA DE FUTSAL
+http://dns.ulttv.xyz:80/angelo12/12angelo/106338
+#EXTINF:-1 tvg-id="Idealtv.br" tvg-name="LOADING TV FHD" tvg-logo="http://dns.ulttv.xyz/img/loading.png" group-title="CANAIS | ABERTOS",LOADING TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106518
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="http://dns.ulttv.xyz/img/love-nature.jpg" group-title="CANAIS | DOCUMENTARIOS",LOVE NATURE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106337
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",M2O
+http://dns.ulttv.xyz:80/angelo12/12angelo/75128
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69187
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69188
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",MAIS GLOBOSAT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85038
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69189
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",MAIS GLOBOSAT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85037
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68867
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84960
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68868
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84961
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68869
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84959
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69190
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69191
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD²" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85105
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69192
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD²" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85104
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69193
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69194
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85107
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69195
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD²" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85106
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL
+http://dns.ulttv.xyz:80/angelo12/12angelo/69198
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69196
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69197
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",MUSIC TOP
+http://dns.ulttv.xyz:80/angelo12/12angelo/75129
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68822
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68823
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69057
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69058
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69059
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68824
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68825
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68826
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD²" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84884
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68827
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD²" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84883
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD²" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84886
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD²" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84885
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69062
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69063
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69064
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD²" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR. HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85053
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD²" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR. SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85052
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69060
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69061
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD²" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85055
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69065
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD²" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85054
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO SD" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75139
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",NRJ HITS
+http://dns.ulttv.xyz:80/angelo12/12angelo/75131
+#EXTINF:-1 tvg-id="" tvg-name="NSC TV SANTA CATARINA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",NSC TV SANTA CATARINA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105113
+#EXTINF:-1 tvg-id="" tvg-name="NSCTV FLORIANOPOLIS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",NSCTV FLORIANOPOLIS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105114
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69202
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69203
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84907
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69204
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84906
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69205
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69206
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD²" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84963
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69207
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD²" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84962
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV FHD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69208
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69209
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69210
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69086
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69087
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85060
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69088
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85059
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69089
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69090
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85062
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69091
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85061
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69092
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69093
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85064
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69094
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85063
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69095
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69096
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85066
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69097
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85065
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69098
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69099
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85067
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69100
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69101
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69102
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85068
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69103
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69105
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES FHD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85070
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69106
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85071
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69107
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85069
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69212
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69213
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69214
+#EXTINF:-1 tvg-id="" tvg-name="PUC TV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",PUC TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75164
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL TV SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RADIO CAPITAL TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75121
+#EXTINF:-1 tvg-id="" tvg-name="RDC" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RDC
+http://dns.ulttv.xyz:80/angelo12/12angelo/75146
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  FHD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD  FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68743
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD  HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68744
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD SD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD BH HD SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84844
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD BRASILIA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105133
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ES" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD ES
+http://dns.ulttv.xyz:80/angelo12/12angelo/75113
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ITAPOAN - BAHIA³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN - BAHIA³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105134
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MANAUS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD MANAUS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105135
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS *" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD MINAS *
+http://dns.ulttv.xyz:80/angelo12/12angelo/69395
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS - TV GUARÁ MA" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS - TV GUARÁ MA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75114
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69083
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69084
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69085
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84845
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RJ HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105136
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84846
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105137
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SAO JOSE RIO PRETO HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SAO JOSE RIO PRETO HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105138
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84843
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE - TV ATALAIA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SERGIPE - TV ATALAIA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105139
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SP HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84847
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SP HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105140
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV BELEM HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV BELEM HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105141
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV GOIANIA HD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV GOIANIA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106328
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV LITORAL HD SANTOS³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV LITORAL HD SANTOS³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105142
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV MINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105143
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV PARANA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105144
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SANTA CATARINA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV SANTA CATARINA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105145
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV HD²" tvg-logo="http://dns.ulttv.xyz/img/redbulltv.png" group-title="CANAIS | ESPORTES PPV",REDBULL TV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84908
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES FHD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106346
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES HD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106347
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES SD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106348
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENISIS FHD" tvg-logo="http://dns.ulttv.xyz/img/redegenesis.png" group-title="CANAIS | VARIEDADES",REDE GENISIS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69333
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",REDE MINAS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75125
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FHD" tvg-logo="http://dns.ulttv.xyz/img/redesuper.png" group-title="CANAIS | VARIEDADES",REDE SUPER FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69334
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105147
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES HD³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105148
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105146
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69220
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69221
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68762
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75167
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75165
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75168
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75166
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75169
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD²" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84848
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDETV! HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84849
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RETRO MUSIC SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75119
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT SD²" tvg-logo="http://dns.ulttv.xyz/img/rittv.png" group-title="CANAIS | RELIGIOSOS",RIT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84850
+#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105115
+#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105116
+#EXTINF:-1 tvg-id="" tvg-name="RPC PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC PARANA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105117
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - ES³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT - ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105149
+#EXTINF:-1 tvg-id="" tvg-name="SBT - TV DIFUSORA MA" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT - TV DIFUSORA MA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75162
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="SBT BSB HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT BSB HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105150
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT ES FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105151
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT ES HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105152
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68765
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT GO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75160
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68766
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD²" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84852
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT PARANA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105153
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT PI HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75159
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105154
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105155
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/97500
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105156
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69335
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75161
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD²" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84851
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE -TV APERIPER HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SERGIPE -TV APERIPER HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105157
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SP HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105158
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT TV SERRA DOURADA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75226
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT-MG-TV ALTEROSA FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT-MG-TV ALTEROSA FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105159
+#EXTINF:-1 tvg-id="" tvg-name="SESCTV HD" tvg-logo="http://dns.ulttv.xyz/img/sesctv.png" group-title="CANAIS | VARIEDADES",SESCTV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75148
+#EXTINF:-1 tvg-id="" tvg-name="SEXY KPOPTV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",SEXY KPOPTV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75163
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME FHD" tvg-logo="http://dns.ulttv.xyz/img/shoptime.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69336
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68870
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68871
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68872
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68873
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84965
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68874
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84966
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68875
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84964
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69138
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84911
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69139
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84912
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84910
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69141
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69142
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84914
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69143
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84913
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69144
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 FHD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84915
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69145
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85127
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69146
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84909
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68876
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68877
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84967
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68878
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68879
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68880
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD²" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84969
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68881
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD²" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84968
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68882
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68883
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD²" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85109
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68884
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD²" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85108
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68709
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68710
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68711
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68712
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68713
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68714
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68715
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68716
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68717
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68718
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84981
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68719
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84982
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68720
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68721
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84984
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68722
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84985
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68723
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84983
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68724
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84987
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68725
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84988
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68726
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84986
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68885
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68886
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68887
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD²" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84970
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84972
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84973
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84971
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84975
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84976
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84974
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84978
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84979
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84977
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84980
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68888
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85111
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68889
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85112
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68890
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85110
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68891
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84990
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68892
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84991
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68897
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84989
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68894
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68895
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68896
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD²" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SÉRIES HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84993
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD²" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SÉRIES SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84992
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69066
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69067
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69068
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD²" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85056
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO TV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TOP LATINO TV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75152
+#EXTINF:-1 tvg-id="" tvg-name="TOPTV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TOPTV
+http://dns.ulttv.xyz:80/angelo12/12angelo/75132
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX FHD" tvg-logo="http://dns.ulttv.xyz/img/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/106519
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV FHD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68831
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV HD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68832
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69337
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD²" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85113
+#EXTINF:-1 tvg-id="" tvg-name="TV A CRÍTICA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV A CRÍTICA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75124
+#EXTINF:-1 tvg-id="" tvg-name="TV AGRO HD" tvg-logo="http://dns.ulttv.xyz/img/agrocanal.png" group-title="CANAIS | VARIEDADES",TV AGRO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75156
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV ALTEROSA HD [SBT MG]³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",TV ALTEROSA HD [SBT MG]³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105160
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="http://dns.ulttv.xyz/img/tvaparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75136
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV ARATU HD SBT BAHIA³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",TV ARATU HD SBT BAHIA³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105161
+#EXTINF:-1 tvg-id="" tvg-name="TV BIRIGUI" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV BIRIGUI
+http://dns.ulttv.xyz:80/angelo12/12angelo/75147
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84811
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="TV CABRALIA HD BAHIA RECORD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV CABRALIA HD BAHIA RECORD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105162
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV CLUBE HD ( GLOBO PIAUI)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV CLUBE HD ( GLOBO PIAUI)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105163
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105165
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES HD³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105166
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105164
+#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="http://dns.ulttv.xyz/img/tv camara.png" group-title="CANAIS | VARIEDADES",TV CÂMARA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75145
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA SD²" tvg-logo="http://dns.ulttv.xyz/img/tvcamara.png" group-title="CANAIS | VARIEDADES",TV CÂMARA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84853
+#EXTINF:-1 tvg-id="" tvg-name="TV DA GENTE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV DA GENTE
+http://dns.ulttv.xyz:80/angelo12/12angelo/75130
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV DIARIO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69384
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV DIARIO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69385
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR*" tvg-logo="http://dns.ulttv.xyz/img/tvevangelizar.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR*
+http://dns.ulttv.xyz:80/angelo12/12angelo/75106
+#EXTINF:-1 tvg-id="" tvg-name="TV FAAP" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV FAAP
+http://dns.ulttv.xyz:80/angelo12/12angelo/75158
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD²" tvg-logo="http://dns.ulttv.xyz/img/tvaparecida.png" group-title="CANAIS | ABERTOS",TV APARECIDA FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/75224
+#EXTINF:-1 tvg-id="" tvg-name="TV IURD*" tvg-logo="http://dns.ulttv.xyz/img/iurd-tv.png" group-title="CANAIS | RELIGIOSOS",TV IURD*
+http://dns.ulttv.xyz:80/angelo12/12angelo/75112
+#EXTINF:-1 tvg-id="" tvg-name="TV JESUS CRISTO SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV JESUS CRISTO SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75117
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDS HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV KIDS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75116
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL HD (BELEM)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV LIBERAL HD (BELEM)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105119
+#EXTINF:-1 tvg-id="" tvg-name="TV MACEIÓ AL" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV MACEIÓ AL
+http://dns.ulttv.xyz:80/angelo12/12angelo/75150
+#EXTINF:-1 tvg-id="" tvg-name="TV METRÓPOLE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV METRÓPOLE
+http://dns.ulttv.xyz:80/angelo12/12angelo/75133
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE HD ( GLOBO MARANHAO)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV MIRANTE HD ( GLOBO MARANHAO)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105120
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV MORENA PONTA PORA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV MORENA PONTA PORA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105121
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/84812
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO FHD²" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO FHD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85114
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://dns.ulttv.xyz/img/tvpaieterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO
+http://dns.ulttv.xyz:80/angelo12/12angelo/75223
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="TV PARANAÍBA HD RECORD -UBERLANDIA-MG³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV PARANAÍBA HD RECORD -UBERLANDIA-MG³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105167
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68783
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68784
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68785
+#EXTINF:-1 tvg-id="" tvg-name="TV RIO SUL HD ( GLOBO INTERIOR RJ)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV RIO SUL HD ( GLOBO INTERIOR RJ)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105122
+#EXTINF:-1 tvg-id="" tvg-name="TV RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/img/tvrtb.png" group-title="CANAIS | INFANTIS",TV RÁ-TIM-BUM
+http://dns.ulttv.xyz:80/angelo12/12angelo/85057
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV SANTA CRUZ TV BAHIA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV SANTA CRUZ TV BAHIA HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105123
+#EXTINF:-1 tvg-id="" tvg-name="TV SJID BA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV SJID BA
+http://dns.ulttv.xyz:80/angelo12/12angelo/75151
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="TV SUBAE (GLOBO BAHIA HD)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV SUBAE (GLOBO BAHIA HD)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105124
+#EXTINF:-1 tvg-id="" tvg-name="TV TARNSAMÉRICA (PR)" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV TARNSAMÉRICA (PR)
+http://dns.ulttv.xyz:80/angelo12/12angelo/75143
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="TV TAROBA HD [BAND PARANA]³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",TV TAROBA HD [BAND PARANA]³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105168
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV VANGUARDA FHD (SAO JOSE DOS CAMPOS)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VANGUARDA FHD (SAO JOSE DOS CAMPOS)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105169
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV VANGUARDA HD (SAO JOSE DOS CAMPOS)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VANGUARDA HD (SAO JOSE DOS CAMPOS)³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105170
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV VERDES MARES HD CE³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VERDES MARES HD CE³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105171
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES FHD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105173
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105174
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105172
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="TV5" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV5
+http://dns.ulttv.xyz:80/angelo12/12angelo/69225
+#EXTINF:-1 tvg-id="" tvg-name="TV8 BRASIL SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV8 BRASIL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/75126
+#EXTINF:-1 tvg-id="" tvg-name="TVB RECORD CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TVB RECORD CAMPINAS HD³
+http://dns.ulttv.xyz:80/angelo12/12angelo/105125
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA SD²" tvg-logo="http://dns.ulttv.xyz/img/tve.png" group-title="CANAIS | ABERTOS",TVE BAHIA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84856
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68898
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68899
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68900
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD²" tvg-logo="http://dns.ulttv.xyz/img/universaltv.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL TV HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84995
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD²" tvg-logo="http://dns.ulttv.xyz/img/universaltv.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL TV SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84994
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="VH1 HD²" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85116
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS FHD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69227
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69228
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69229
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA
+http://dns.ulttv.xyz:80/angelo12/12angelo/69232
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69230
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69231
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD²" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85118
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD²" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85117
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68901
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68902
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84997
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL SD
+http://dns.ulttv.xyz:80/angelo12/12angelo/68903
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/84996
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOHOO FHD" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOHOO FHD
+http://dns.ulttv.xyz:80/angelo12/12angelo/69338
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD²" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO HD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85120
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD²" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85119
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD²" tvg-logo="http://dns.ulttv.xyz/img/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO SD²
+http://dns.ulttv.xyz:80/angelo12/12angelo/85058
+#EXTINF:-1 tvg-id="" tvg-name="SBT - REDE MASSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/512px-Rede_Massa_logo.svg.png" group-title="CANAIS | ABERTOS",SBT - REDE MASSA
+http://dns.ulttv.xyz:80/angelo12/12angelo/113386
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AO VIVO1" tvg-logo="" group-title="LIVES | YOUTUBE",LIVE AO VIVO1
+http://dns.ulttv.xyz:80/angelo12/12angelo/113996
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AO VIVO2" tvg-logo="" group-title="LIVES | YOUTUBE",LIVE AO VIVO2
+http://dns.ulttv.xyz:80/angelo12/12angelo/114001
+#EXTINF:-1 tvg-id="" tvg-name="PL_TVP SPORT  HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",PL_TVP SPORT  HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/72821
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: EUROSPORT 2 HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/72837
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: EUROSPORT HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/72839
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF SPORT  HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: ORF SPORT  HD
+http://dns.ulttv.xyz:80/angelo12/12angelo/72856
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD BAR" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: DAZN 2 HD BAR
+http://dns.ulttv.xyz:80/angelo12/12angelo/72898
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2 HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS 2 HD (MX)
+http://dns.ulttv.xyz:80/angelo12/12angelo/72940
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3 HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS 3 HD (MX)
+http://dns.ulttv.xyz:80/angelo12/12angelo/72941
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS HD (MX)
+http://dns.ulttv.xyz:80/angelo12/12angelo/72942
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name="007 - Cassino Royale - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGlh1l25zQKo0nvBUDIP1Jj3yLS.jpg" group-title="FILMES | 007",007 - Cassino Royale - 1967
 http://dns.ulttv.xyz:80/movie/angelo12/12angelo/64839.mp4
