@@ -1,1952 +1,434 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68834
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84917
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68835
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84918
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68836
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD²" tvg-logo="http://dns.ulttv.xyz/img/ae.png" group-title="CANAIS | FILMES & SÉRIES",A&E SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84916
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",AGRO BRASIL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75155
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84920
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://dns.ulttv.xyz/logos/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/81158
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84921
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD²" tvg-logo="http://dns.ulttv.xyz/img/amc.png" group-title="CANAIS | FILMES & SÉRIES",AMC SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84919
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68788
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84858
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68789
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84859
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68790
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://dns.ulttv.xyz/img/animalplanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84857
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69147
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69148
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85072
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://dns.ulttv.xyz/img/arte1.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69149
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68838
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84923
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68839
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84924
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68840
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD²" tvg-logo="http://dns.ulttv.xyz/img/axn.png" group-title="CANAIS | FILMES & SÉRIES",AXN SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84922
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69030
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69031
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://dns.ulttv.xyz/img/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69032
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND BSB HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105126
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105127
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GOIANIA HD" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND GOIANIA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106329
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69070
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69071
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84861
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69072
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84860
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RJ HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105128
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84842
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND RS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105129
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD²" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84841
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SERGIPE HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105130
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",BAND SP HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105131
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69108
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69109
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84888
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69110
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://dns.ulttv.xyz/img/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84887
-#EXTINF:-1 tvg-id="" tvg-name="BAND VIA MORENA" tvg-logo="http://dns.ulttv.xyz/logos/img/band.png" group-title="CANAIS | ABERTOS",BAND VIA MORENA
-http://dns.ulttv.xyz:80/angelo12/12angelo/83631
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69150
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85074
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69151
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85075
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69152
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD²" tvg-logo="http://dns.ulttv.xyz/img/bis.png" group-title="CANAIS | VARIEDADES",BIS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85073
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69033
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69034
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD²" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85040
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69035
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD²" tvg-logo="http://dns.ulttv.xyz/img/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85039
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="CANAL 4FUN" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL 4FUN
-http://dns.ulttv.xyz:80/angelo12/12angelo/69323
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69154
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69155
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/canalnbr.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85076
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/canalbrasil.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69156
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL DO BOI SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75154
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SAÚDE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CANAL SAÚDE
-http://dns.ulttv.xyz:80/angelo12/12angelo/75149
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD²" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | VARIEDADES",CANAL SONY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85078
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD²" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | VARIEDADES",CANAL SONY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85077
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA FHD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/75134
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85080
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD²" tvg-logo="http://dns.ulttv.xyz/img/cancaonova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85079
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115994
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115995
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115982
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115983
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 3
-http://dns.ulttv.xyz:80/angelo12/12angelo/115984
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115985
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 4
-http://dns.ulttv.xyz:80/angelo12/12angelo/115986
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115987
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 5 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115988
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 5
-http://dns.ulttv.xyz:80/angelo12/12angelo/115989
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 6 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115990
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 6 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115991
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 7 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115992
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 7 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA DO NORDESTE 7 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115993
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115996
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115997
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115998
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115999
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/116000
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 3 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/116001
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/116002
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",COPA CATARINENSE 4 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/116003
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2021 SD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2021 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113842
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2021 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2021 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113843
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2 SD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113844
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CARIOCÃO 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113845
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CAMPEONATO CARIOCA 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113866
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="https://www.futebolnaveia.com.br/wp-content/uploads/2019/12/caioca.png" group-title="CANAIS | ESPORTES PPV",CAMPEONATO CARIOCA 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113867
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ FHD" tvg-logo="http://ipbr.tv/img/stream/flatvmais.jpg" group-title="CANAIS | ESPORTES PPV",FLA TV+ FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113864
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV+ HD" tvg-logo="http://ipbr.tv/img/stream/flatvmais.jpg" group-title="CANAIS | ESPORTES PPV",FLA TV+ HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113865
-#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADOS FHD" tvg-logo="http://dns.ulttv.xyz/img/libertadores.png" group-title="CANAIS | ESPORTES PPV",COPA LIBERTADOS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75377
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 1 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113849
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 2 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113850
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 3 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113854
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 4 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113851
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT 5 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT 5 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113852
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT PLAYOUTS HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="CANAIS | ESPORTES PPV",ESTÁDIO TNT PLAYOUTS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/113853
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 1 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115523
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115524
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115525
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115526
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 3 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115527
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115528
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 4 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115529
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115530
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 5 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115531
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 5 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115532
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 6 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115533
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 6 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115534
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 7 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115535
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 7 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115536
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 SD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 8 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115537
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD" tvg-logo="" group-title="CANAIS | ESPORTES PPV",TNT SPORTS 8 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/115538
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69036
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69037
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85042
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69038
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="http://dns.ulttv.xyz/img/cartoonnetwork.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85041
-#EXTINF:-1 tvg-id="" tvg-name="CATVE - CULTURA PR" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CATVE - CULTURA PR
-http://dns.ulttv.xyz:80/angelo12/12angelo/75123
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV FHD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69157
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69158
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV SD" tvg-logo="http://dns.ulttv.xyz/img/cheftv.png" group-title="CANAIS | VARIEDADES",CHEF TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69159
-#EXTINF:-1 tvg-id="" tvg-name="CINE+ SD" tvg-logo="http://dns.ulttv.xyz/img/cinemais.png" group-title="CANAIS | ABERTOS",CINE+ SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69325
-#EXTINF:-1 tvg-id="" tvg-name="CINE+ SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CINE+ SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75115
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68841
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84925
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68842
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84926
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://dns.ulttv.xyz/img/cinemax.png" group-title="CANAIS | FILMES & SÉRIES",CINEMAX SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68843
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85082
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75532
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85083
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85081
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL FHD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69073
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69074
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN ESPANHOL SD " tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD 
-http://dns.ulttv.xyz:80/angelo12/12angelo/69075
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69076
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69077
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://dns.ulttv.xyz/img/cnn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69078
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69112
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84890
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69113
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84891
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69114
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="http://dns.ulttv.xyz/img/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84889
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69160
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85085
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69161
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85086
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69162
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="http://dns.ulttv.xyz/img/comedycentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85084
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 1 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97471
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97504
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97472
-#EXTINF:-1 tvg-id="Conmeboltv2.br" tvg-name="CONMEBOL 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97505
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97473
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97476
-#EXTINF:-1 tvg-id="Conmeboltv3.br" tvg-name="CONMEBOL 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97506
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="CONMEBOL 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 4 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97474
-#EXTINF:-1 tvg-id="Conmeboltv4.br" tvg-name="CONMEBOL 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97477
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL WATCH HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL WATCH HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97507
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 1)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121473
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 1)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121474
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 1)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121475
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 2)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121476
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 2)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121477
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 2)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121478
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 3)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121479
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 3)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121480
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 4 )" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV FHD (JOGO 4 )
-http://dns.ulttv.xyz:80/angelo12/12angelo/121481
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV HD (JOGO 4)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121482
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTES PPV",CONMEBOL TV SD (JOGO 4)
-http://dns.ulttv.xyz:80/angelo12/12angelo/121483
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA PARÁ HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",CULTURA PARÁ HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75122
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69163
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69164
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="http://dns.ulttv.xyz/img/canalcurta.png" group-title="CANAIS | VARIEDADES",CURTA! SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 1 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84892
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69519
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69520
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/117998
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD " tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="CANAIS | ESPORTES PPV",DAZN 2 SD 
-http://dns.ulttv.xyz:80/angelo12/12angelo/117999
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 1 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/74998
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 2 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/74997
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 3 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/74996
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 4 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/74995
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORT 5 HD" tvg-logo="http://dns.ulttv.xyz/img/dazn.png" group-title="SPORTS | INTERNACIONAIS",DAZN SPORT 5 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/74994
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68791
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84863
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68792
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84864
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68793
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/discoverychannel.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY CHANNEL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84862
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85088
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85089
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | VARIEDADES",DISCOVERY H&H SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85087
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68797
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68798
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryhomehealth.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68799
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID FHD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68800
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68801
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID SD" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY ID SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68802
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69039
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69040
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85044
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69041
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://dns.ulttv.xyz/img/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85043
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68806
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84865
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68807
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84866
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryscience.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY SCIENCE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68808
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68809
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84867
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68810
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD²" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84868
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://dns.ulttv.xyz/img/discoverytheater.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY THEATHER SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68811
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68812
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84870
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68813
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84871
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68814
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryturbo.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY TURBO SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84869
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68815
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="DISCOVERY WORLD FHD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84872
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68816
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84873
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://dns.ulttv.xyz/img/discoveryworld.png" group-title="CANAIS | DOCUMENTARIOS",DISCOVERY WORLD SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68817
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69042
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69043
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69044
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY HD²" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85046
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JR FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69045
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JR SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69047
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69046
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD²" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85048
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD²" tvg-logo="http://dns.ulttv.xyz/img/disneyjunior.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85047
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY SD²" tvg-logo="http://dns.ulttv.xyz/img/disneychannel.png" group-title="CANAIS | INFANTIS",DISNEY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85045
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69048
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69049
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69050
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD²" tvg-logo="http://dns.ulttv.xyz/img/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85049
-#EXTINF:-1 tvg-id="" tvg-name="DJING ANIMATION" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",DJING ANIMATION
-http://dns.ulttv.xyz:80/angelo12/12angelo/75153
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69167
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69168
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85091
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69169
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD²" tvg-logo="http://dns.ulttv.xyz/img/e.png" group-title="CANAIS | VARIEDADES",E! SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85090
-#EXTINF:-1 tvg-id="" tvg-name="E-PARANA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",E-PARANA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75157
-#EXTINF:-1 tvg-id="" tvg-name="EI MAXX" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX
-http://dns.ulttv.xyz:80/angelo12/12angelo/106349
-#EXTINF:-1 tvg-id="" tvg-name="EI MAXX2" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-2-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX2
-http://dns.ulttv.xyz:80/angelo12/12angelo/106350
-#EXTINF:-1 tvg-id="" tvg-name="EI MAXX3" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX3
-http://dns.ulttv.xyz:80/angelo12/12angelo/106351
-#EXTINF:-1 tvg-id="" tvg-name="EI MAXX4" tvg-logo="http://dns.ulttv.xyz/img/EI-MAXX-HD.jpg" group-title="CANAIS | ESPORTES PPV",EI MAXX4
-http://dns.ulttv.xyz:80/angelo12/12angelo/106352
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 1
-http://dns.ulttv.xyz:80/angelo12/12angelo/119196
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 2
-http://dns.ulttv.xyz:80/angelo12/12angelo/119197
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 3
-http://dns.ulttv.xyz:80/angelo12/12angelo/119198
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 4
-http://dns.ulttv.xyz:80/angelo12/12angelo/119199
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 5
-http://dns.ulttv.xyz:80/angelo12/12angelo/119200
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 6
-http://dns.ulttv.xyz:80/angelo12/12angelo/119201
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 7
-http://dns.ulttv.xyz:80/angelo12/12angelo/119202
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 8
-http://dns.ulttv.xyz:80/angelo12/12angelo/119203
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 9
-http://dns.ulttv.xyz:80/angelo12/12angelo/119204
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 10
-http://dns.ulttv.xyz:80/angelo12/12angelo/119205
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 11
-http://dns.ulttv.xyz:80/angelo12/12angelo/119206
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 12
-http://dns.ulttv.xyz:80/angelo12/12angelo/119207
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 13
-http://dns.ulttv.xyz:80/angelo12/12angelo/119208
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 14
-http://dns.ulttv.xyz:80/angelo12/12angelo/119209
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 15
-http://dns.ulttv.xyz:80/angelo12/12angelo/119210
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 16
-http://dns.ulttv.xyz:80/angelo12/12angelo/119211
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 17
-http://dns.ulttv.xyz:80/angelo12/12angelo/119212
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 18
-http://dns.ulttv.xyz:80/angelo12/12angelo/119213
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ESPORTES PPV",ELEVEN SPORTS 19
-http://dns.ulttv.xyz:80/angelo12/12angelo/119214
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO *
-http://dns.ulttv.xyz:80/angelo12/12angelo/97824
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO *
-http://dns.ulttv.xyz:80/angelo12/12angelo/97823
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO HD *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO HD *
-http://dns.ulttv.xyz:80/angelo12/12angelo/97826
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO HD *" tvg-logo="http://dns.ulttv.xyz/img/ei.png" group-title="CANAIS | ESPORTES PPV",ESPORTE INTERATIVO HD *
-http://dns.ulttv.xyz:80/angelo12/12angelo/97825
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="ESPERANZA TV HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",ESPERANZA TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69326
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69115
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69116
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84895
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69117
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/espn2.png" group-title="CANAIS | ESPORTES",ESPN 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84894
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69118
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69119
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84897
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69120
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD²" tvg-logo="http://dns.ulttv.xyz/img/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84896
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA
-http://dns.ulttv.xyz:80/angelo12/12angelo/69122
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/70482
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69121
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://dns.ulttv.xyz/img/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84898
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69123
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69124
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD²" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84899
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD" tvg-logo="http://dns.ulttv.xyz/img/espn.png" group-title="CANAIS | ESPORTES",ESPN SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69125
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM ARTS HD" tvg-logo="http://dns.ulttv.xyz/img/filmartes.png" group-title="CANAIS | FILMES & SÉRIES",FILM ARTS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84748
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69170
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69171
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85093
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69172
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://dns.ulttv.xyz/img/fishtv.png" group-title="CANAIS | VARIEDADES",FISH TV SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85092
-#EXTINF:-1 tvg-id="" tvg-name="FM O DIA TV HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",FM O DIA TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75120
-#EXTINF:-1 tvg-id="" tvg-name="FONTETV GO" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",FONTETV GO
-http://dns.ulttv.xyz:80/angelo12/12angelo/75144
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69173
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="FOOD NETWORK FHD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85095
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69174
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85096
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69175
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD²" tvg-logo="http://dns.ulttv.xyz/img/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85094
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",FOX CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68844
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68845
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84928
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69327
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85098
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68847
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85099
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | FILMES & SÉRIES",STAR LIFE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68848
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE SD²" tvg-logo="http://dns.ulttv.xyz/img/starlife.png" group-title="CANAIS | VARIEDADES",STAR LIFE SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85097
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/foxhd.png" group-title="CANAIS | NOTÍCIAS",FOX NEWS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69328
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68849
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 FHD²" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84929
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68850
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84930
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS 1 SD" tvg-logo="http://dns.ulttv.xyz/img/starhits.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 1 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69331
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68851
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84931
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68852
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84932
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="http://dns.ulttv.xyz/img/starhits2.jpg" group-title="CANAIS | FILMES & SÉRIES",STAR HITS 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69332
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/starchannel.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68853
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/starchannell.png" group-title="CANAIS | FILMES & SÉRIES",STAR CHANNEL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84927
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69127
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69128
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84904
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69129
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84903
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69130
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84933
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69126
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84905
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69131
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD²" tvg-logo="http://dns.ulttv.xyz/img/foxsports.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84902
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE TV" tvg-logo="http://dns.ulttv.xyz/img/furacao-play.png" group-title="CANAIS | ESPORTES PPV",FURACÃO LIVE TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/106336
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL TV" tvg-logo="" group-title="CANAIS | ESPORTES PPV",FUTEBOL TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/106335
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD²" tvg-logo="http://dns.ulttv.xyz/img/futura.png" group-title="CANAIS | VARIEDADES",FUTURA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85100
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68854
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84935
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68855
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84936
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68856
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD²" tvg-logo="http://dns.ulttv.xyz/img/fx.png" group-title="CANAIS | FILMES & SÉRIES",FX SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84934
-#EXTINF:-1 tvg-id="" tvg-name="GIDEÔES*" tvg-logo="http://dns.ulttv.xyz/img/gideoes.png" group-title="CANAIS | RELIGIOSOS",GIDEÔES*
-http://dns.ulttv.xyz:80/angelo12/12angelo/75111
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA ALAGOAS FHD" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA ALAGOAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69386
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHD" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69387
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA FHD²" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84854
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD ²" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA HD ²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84855
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD SP³" tvg-logo="http://dns.ulttv.xyz/img/gazeta.png" group-title="CANAIS | ABERTOS",TV GAZETA HD SP³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105095
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69364
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105107
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69365
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85028
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105108
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69366
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SP SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85027
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69360
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85023
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105104
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/79454
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85024
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105105
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/81796
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RJ SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85022
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69368
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69369
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BAHIA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69370
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69348
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69349
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85013
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105102
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69350
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZÔNICA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZÔNICA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84998
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA  FHD (SALVADOR)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD (SALVADOR)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105096
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD (SALVADOR)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105097
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85000
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="GLOBO BAHIA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84999
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD H265³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105098
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD *" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD *
-http://dns.ulttv.xyz:80/angelo12/12angelo/69428
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105099
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASÍLIA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASÍLIA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85002
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASÍLIA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85001
-#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69339
-#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69340
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO CUAIBÁ SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO CUAIBÁ SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85003
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105089
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105090
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD H265³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD H265³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105091
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105092
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105093
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105094
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69341
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69342
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69343
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85004
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85006
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69344
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69345
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="GLOBO EPTV SÃO CARLOS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SÃO CARLOS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85007
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO FORTALEZA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85009
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO FORTALEZA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85008
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO GOIÂNIA - TV ANHANGUERA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85010
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV ALTO LITORAL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106508
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI
-http://dns.ulttv.xyz:80/angelo12/12angelo/106509
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV CABUGI HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85011
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV DOS VALES FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69382
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69346
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69347
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO INTERNACIONAL HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105100
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MANAUS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105101
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85012
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69080
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85015
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69081
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85016
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69082
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85014
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69351
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69352
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85017
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69353
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69354
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69355
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69356
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV BLUMENAU FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69383
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CENTRO OESTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CENTRO OESTE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106520
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CHAPECÓ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CHAPECÓ FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106515
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV CRICIUMA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV CRICIUMA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106514
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NSC TV HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85019
-#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106513
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO PARAIBA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105103
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS POA TV FHD²" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85021
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS POA TV HD³" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105132
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS POA TV HD²" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS POA TV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85020
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106342
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV CAXIAS HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106343
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106344
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV PELOTAS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106345
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69357
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA HD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69358
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV POA SD" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV POA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69359
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV SANTA MARIA" tvg-logo="http://dns.ulttv.xyz/img/rbstv.jpg" group-title="CANAIS | GLOBO",GLOBO RBS TV SANTA MARIA
-http://dns.ulttv.xyz:80/angelo12/12angelo/106340
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO REDE AMAZONICA
-http://dns.ulttv.xyz:80/angelo12/12angelo/106510
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85026
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC CURITIBA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85025
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC MARINGA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106512
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69361
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69362
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAENSE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC PARANAENSE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69363
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV FOZ DO IGUAÇU" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV FOZ DO IGUAÇU
-http://dns.ulttv.xyz:80/angelo12/12angelo/106517
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV PONTO GROSSA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV PONTO GROSSA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106516
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE - TV SERGIPE HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE - TV SERGIPE HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105106
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA  SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA  SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69367
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHANGUERA GOIANIA
-http://dns.ulttv.xyz:80/angelo12/12angelo/69407
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV ASA BRANCA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106506
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69371
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69372
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69373
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO TV BRASILIA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BRASILIA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69374
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106507
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUB FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CLUB FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106505
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV INTEGRAÇÃO
-http://dns.ulttv.xyz:80/angelo12/12angelo/106511
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69375
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69376
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69377
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69378
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV MORENA FHD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85030
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69379
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85031
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69380
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV MORENA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85029
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV RECIFE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RECIFE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106521
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106522
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SANTA CRUZ FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69388
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV SERGIPE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69389
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85032
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJRP SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SJRP SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85033
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM SOROCABA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85034
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85035
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SJC SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA SJC SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85036
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69381
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84651
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDES MARES SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84652
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES. FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105110
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105109
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",GLOBO VITORIA HD ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105111
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69051
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69052
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD²" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85051
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69053
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD²" tvg-logo="http://dns.ulttv.xyz/img/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85050
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69054
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69055
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOOBINHO SD" tvg-logo="http://dns.ulttv.xyz/img/gloobinho.png" group-title="CANAIS | INFANTIS",GLOOBINHO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69056
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69177
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85102
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69178
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85103
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69179
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD²" tvg-logo="http://dns.ulttv.xyz/img/gnt.png" group-title="CANAIS | VARIEDADES",GNT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85101
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON SD" tvg-logo="http://dns.ulttv.xyz/img/gospelcartoon.png" group-title="CANAIS | RELIGIOSOS",GOSPEL CARTOON SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75118
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV" tvg-logo="http://dns.ulttv.xyz/img/gospelmovie.png" group-title="CANAIS | RELIGIOSOS",GOSPEL MOVIE TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75142
-#EXTINF:-1 tvg-id="" tvg-name="H!T MUSIC" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",H!T MUSIC
-http://dns.ulttv.xyz:80/angelo12/12angelo/75127
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY FHD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68819
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68820
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68821
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69015
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84939
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69016
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84940
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69017
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo2.png" group-title="CANAIS | HBO",HBO 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84938
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME FHD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68860
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME HD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68861
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME SD" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO EXTREME SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68862
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69018
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84942
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69019
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84943
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69020
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD²" tvg-logo="http://dns.ulttv.xyz/img/hbofamily.png" group-title="CANAIS | HBO",HBO FAMILY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84941
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69021
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84944
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69022
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84945
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68857
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84947
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68859
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84948
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68863
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD²" tvg-logo="http://dns.ulttv.xyz/img/hbomundi.png" group-title="CANAIS | HBO",HBO MUNDI SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84946
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69023
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69024
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://dns.ulttv.xyz/img/hboplus.png" group-title="CANAIS | HBO",HBO PLUS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69025
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP
-http://dns.ulttv.xyz:80/angelo12/12angelo/68864
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68865
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD²" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84950
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68866
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD²" tvg-logo="http://dns.ulttv.xyz/img/hbopop.png" group-title="CANAIS | HBO",HBO POP SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84949
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69026
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84937
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69027
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84951
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69028
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84952
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://dns.ulttv.xyz/img/hbosignature.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69029
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84954
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84955
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD²" tvg-logo="http://dns.ulttv.xyz/img/hboextreme.png" group-title="CANAIS | HBO",HBO XTREME SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84953
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ FHD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84957
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ HD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84958
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO+ SD²" tvg-logo="http://dns.ulttv.xyz/img/hbo.png" group-title="CANAIS | HBO",HBO+ SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84956
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68794
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68795
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD²" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84874
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="http://dns.ulttv.xyz/img/hgtv.png" group-title="CANAIS | DOCUMENTARIOS",HGTV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68796
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84877
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/history2.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84876
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68828
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68829
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD²" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84878
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68830
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD²" tvg-logo="http://dns.ulttv.xyz/img/history.png" group-title="CANAIS | DOCUMENTARIOS",HISTORY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84875
-#EXTINF:-1 tvg-id="" tvg-name="I SAT FHD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69180
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT HD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69181
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="I SAT SD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",I SAT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69182
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84880
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD²" tvg-logo="http://dns.ulttv.xyz/img/investigationdiscovery.png" group-title="CANAIS | DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84879
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV CABO FRIO HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",INTERTV CABO FRIO HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105112
-#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="http://dns.ulttv.xyz/img/iurd-tv.png" group-title="CANAIS | RELIGIOSOS",IURD TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75141
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69184
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69185
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | DOCUMENTARIOS",LIFETIME HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84882
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69186
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="http://dns.ulttv.xyz/img/lifetime.png" group-title="CANAIS | DOCUMENTARIOS",LIFETIME SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84881
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE FUTSAL" tvg-logo="http://dns.ulttv.xyz/img/LIGANFUTSAL.png" group-title="CANAIS | ESPORTES PPV",LIGA DE FUTSAL
-http://dns.ulttv.xyz:80/angelo12/12angelo/106338
-#EXTINF:-1 tvg-id="Idealtv.br" tvg-name="LOADING TV FHD" tvg-logo="http://dns.ulttv.xyz/img/loading.png" group-title="CANAIS | ABERTOS",LOADING TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106518
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="http://dns.ulttv.xyz/img/love-nature.jpg" group-title="CANAIS | DOCUMENTARIOS",LOVE NATURE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106337
-#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",M2O
-http://dns.ulttv.xyz:80/angelo12/12angelo/75128
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69187
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69188
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",MAIS GLOBOSAT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85038
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://dns.ulttv.xyz/img/maisglobosat.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69189
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD²" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",MAIS GLOBOSAT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85037
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68867
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84960
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68868
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84961
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68869
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="http://dns.ulttv.xyz/img/megapix.png" group-title="CANAIS | FILMES & SÉRIES",MEGAPIX SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84959
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69190
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69191
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD²" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85105
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69192
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD²" tvg-logo="http://dns.ulttv.xyz/img/mtv.png" group-title="CANAIS | VARIEDADES",MTV SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85104
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69193
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69194
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85107
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69195
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD²" tvg-logo="http://dns.ulttv.xyz/img/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85106
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL
-http://dns.ulttv.xyz:80/angelo12/12angelo/69198
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69196
-#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/musicboxbrasil.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69197
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",MUSIC TOP
-http://dns.ulttv.xyz:80/angelo12/12angelo/75129
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68822
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68823
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69057
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69058
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS SD" tvg-logo="http://dns.ulttv.xyz/img/natgeokids.png" group-title="CANAIS | INFANTIS",NATGEO KIDS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69059
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68824
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68825
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68826
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD²" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84884
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68827
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD²" tvg-logo="http://dns.ulttv.xyz/img/natgeowild.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO WILD SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84883
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD²" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84886
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD²" tvg-logo="http://dns.ulttv.xyz/img/natgeo.png" group-title="CANAIS | DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84885
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69062
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69063
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69064
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD²" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR. HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85053
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD²" tvg-logo="http://dns.ulttv.xyz/img/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR. SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85052
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69060
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69061
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD²" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85055
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69065
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD²" tvg-logo="http://dns.ulttv.xyz/img/nick.png" group-title="CANAIS | INFANTIS",NICKELODEON SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85054
-#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO SD" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75139
-#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",NRJ HITS
-http://dns.ulttv.xyz:80/angelo12/12angelo/75131
-#EXTINF:-1 tvg-id="" tvg-name="NSC TV SANTA CATARINA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",NSC TV SANTA CATARINA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105113
-#EXTINF:-1 tvg-id="" tvg-name="NSCTV FLORIANOPOLIS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",NSCTV FLORIANOPOLIS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105114
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69202
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69203
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84907
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69204
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="http://dns.ulttv.xyz/img/off.png" group-title="CANAIS | VARIEDADES",OFF SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84906
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69205
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69206
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD²" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84963
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69207
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD²" tvg-logo="http://dns.ulttv.xyz/img/paramountchannel.png" group-title="CANAIS | FILMES & SÉRIES",PARAMOUNT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84962
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV FHD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69208
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69209
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="http://dns.ulttv.xyz/img/playtv.png" group-title="CANAIS | VARIEDADES",PLAY TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69210
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69086
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69087
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85060
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69088
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85059
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69089
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69090
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85062
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69091
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85061
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69092
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69093
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85064
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69094
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85063
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69095
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69096
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85066
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69097
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85065
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69098
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69099
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85067
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69100
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69101
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69102
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85068
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69103
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69105
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES FHD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85070
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69106
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES HD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85071
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69107
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 1 CLUBES SD²" tvg-logo="http://dns.ulttv.xyz/img/pfc.png" group-title="CANAIS | PREMIERE",PREMIERE 1 CLUBES SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85069
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL FHD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69212
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69213
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRASIL SD" tvg-logo="http://dns.ulttv.xyz/img/primeboxbrasil.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69214
-#EXTINF:-1 tvg-id="" tvg-name="PUC TV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",PUC TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75164
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL TV SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RADIO CAPITAL TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75121
-#EXTINF:-1 tvg-id="" tvg-name="RDC" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RDC
-http://dns.ulttv.xyz:80/angelo12/12angelo/75146
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  FHD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD  FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68743
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD  HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68744
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD SD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD BH HD SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84844
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD BRASILIA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105133
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ES" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD ES
-http://dns.ulttv.xyz:80/angelo12/12angelo/75113
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ITAPOAN - BAHIA³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN - BAHIA³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105134
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MANAUS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD MANAUS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105135
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS *" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD MINAS *
-http://dns.ulttv.xyz:80/angelo12/12angelo/69395
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS - TV GUARÁ MA" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS - TV GUARÁ MA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75114
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69083
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69084
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69085
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://dns.ulttv.xyz/img/recordnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84845
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RJ HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105136
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84846
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD RS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105137
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SAO JOSE RIO PRETO HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SAO JOSE RIO PRETO HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105138
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84843
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE - TV ATALAIA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SERGIPE - TV ATALAIA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105139
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD²" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SP HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84847
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD SP HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105140
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV BELEM HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV BELEM HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105141
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV GOIANIA HD" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV GOIANIA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106328
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV LITORAL HD SANTOS³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV LITORAL HD SANTOS³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105142
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV MINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV MINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105143
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV PARANA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105144
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SANTA CATARINA HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",RECORD TV SANTA CATARINA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105145
-#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV HD²" tvg-logo="http://dns.ulttv.xyz/img/redbulltv.png" group-title="CANAIS | ESPORTES PPV",REDBULL TV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84908
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES FHD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106346
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES HD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106347
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT ES SD" tvg-logo="http://dns.ulttv.xyz/img/cnt.png" group-title="CANAIS | ABERTOS",REDE CNT ES SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106348
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENISIS FHD" tvg-logo="http://dns.ulttv.xyz/img/redegenesis.png" group-title="CANAIS | VARIEDADES",REDE GENISIS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69333
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS FHD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",REDE MINAS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75125
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FHD" tvg-logo="http://dns.ulttv.xyz/img/redesuper.png" group-title="CANAIS | VARIEDADES",REDE SUPER FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69334
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105147
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES HD³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105148
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV ES³" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105146
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69220
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69221
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDE TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68762
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75167
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75165
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75168
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75166
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75169
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD²" tvg-logo="http://dns.ulttv.xyz/img/redevida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84848
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="http://dns.ulttv.xyz/img/redetv.png" group-title="CANAIS | ABERTOS",REDETV! HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84849
-#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",RETRO MUSIC SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75119
-#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT SD²" tvg-logo="http://dns.ulttv.xyz/img/rittv.png" group-title="CANAIS | RELIGIOSOS",RIT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84850
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU FHD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105115
-#EXTINF:-1 tvg-id="" tvg-name="RPC FOZ DO IGUAÇU HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC FOZ DO IGUAÇU HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105116
-#EXTINF:-1 tvg-id="" tvg-name="RPC PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",RPC PARANA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105117
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - ES³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT - ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105149
-#EXTINF:-1 tvg-id="" tvg-name="SBT - TV DIFUSORA MA" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT - TV DIFUSORA MA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75162
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="SBT BSB HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT BSB HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105150
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT ES FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105151
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT ES HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105152
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68765
-#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT GO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75160
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68766
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD²" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84852
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT PARANA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105153
-#EXTINF:-1 tvg-id="" tvg-name="SBT PI HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT PI HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75159
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105154
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RJ HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105155
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/97500
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT RS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105156
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69335
-#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75161
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD²" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84851
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE -TV APERIPER HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SERGIPE -TV APERIPER HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105157
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT SP HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105158
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV SERRA DOURADA" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT TV SERRA DOURADA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75226
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT-MG-TV ALTEROSA FHD³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",SBT-MG-TV ALTEROSA FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105159
-#EXTINF:-1 tvg-id="" tvg-name="SESCTV HD" tvg-logo="http://dns.ulttv.xyz/img/sesctv.png" group-title="CANAIS | VARIEDADES",SESCTV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75148
-#EXTINF:-1 tvg-id="" tvg-name="SEXY KPOPTV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",SEXY KPOPTV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75163
-#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME FHD" tvg-logo="http://dns.ulttv.xyz/img/shoptime.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69336
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68870
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68871
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="http://dns.ulttv.xyz/img/sony.png" group-title="CANAIS | FILMES & SÉRIES",SONY SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68872
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68873
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84965
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68874
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84966
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68875
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD²" tvg-logo="http://dns.ulttv.xyz/img/space.png" group-title="CANAIS | FILMES & SÉRIES",SPACE SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84964
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69138
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84911
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69139
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84912
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv2.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84910
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69141
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69142
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84914
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69143
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv3.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84913
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69144
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 FHD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84915
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69145
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 HD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85127
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69146
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 SD²" tvg-logo="http://dns.ulttv.xyz/img/sportv.png" group-title="CANAIS | ESPORTES",SPORTV 1 SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84909
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68876
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68877
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84967
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://dns.ulttv.xyz/img/studiouniversal.png" group-title="CANAIS | FILMES & SÉRIES",STUDIO UNIVERSAL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68878
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68879
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68880
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD²" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84969
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68881
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD²" tvg-logo="http://dns.ulttv.xyz/img/syfy1.png" group-title="CANAIS | FILMES & SÉRIES",SYFY SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84968
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68882
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68883
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD²" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85109
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68884
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD²" tvg-logo="http://dns.ulttv.xyz/img/tbs.png" group-title="CANAIS | VARIEDADES",TBS SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85108
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION FHD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68709
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68710
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TC ACTION SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68711
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT FHD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68712
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68713
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT SD" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TC CULT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68714
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN FHD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68715
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68716
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TC FUN SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68717
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68718
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84981
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68719
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84982
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68720
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68721
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84984
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68722
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84985
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68723
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD²" tvg-logo="http://dns.ulttv.xyz/img/tcpremium.png" group-title="CANAIS | TELECINE",TC PREMIUM SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84983
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68724
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH FHD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84987
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68725
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84988
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68726
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH SD²" tvg-logo="http://dns.ulttv.xyz/img/tctouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84986
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68885
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68886
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68887
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD²" tvg-logo="http://dns.ulttv.xyz/img/tcm.png" group-title="CANAIS | FILMES & SÉRIES",TCM SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84970
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84972
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84973
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="http://dns.ulttv.xyz/img/tcaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84971
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84975
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84976
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD²" tvg-logo="http://dns.ulttv.xyz/img/tccult.png" group-title="CANAIS | TELECINE",TELECINE CULT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84974
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84978
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84979
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD²" tvg-logo="http://dns.ulttv.xyz/img/tcfun.png" group-title="CANAIS | TELECINE",TELECINE FUN SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84977
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://dns.ulttv.xyz/img/tcpipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84980
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68888
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85111
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68889
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85112
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68890
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD²" tvg-logo="http://dns.ulttv.xyz/img/tlc.png" group-title="CANAIS | FILMES & SÉRIES",TLC SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85110
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68891
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84990
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68892
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84991
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68897
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD²" tvg-logo="http://dns.ulttv.xyz/img/tnt.png" group-title="CANAIS | FILMES & SÉRIES",TNT SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84989
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68894
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68895
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SERIES SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68896
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD²" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SÉRIES HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84993
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD²" tvg-logo="http://dns.ulttv.xyz/img/tntseries.png" group-title="CANAIS | FILMES & SÉRIES",TNT SÉRIES SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84992
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69066
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69067
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69068
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD²" tvg-logo="http://dns.ulttv.xyz/img/tooncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85056
-#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO TV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TOP LATINO TV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75152
-#EXTINF:-1 tvg-id="" tvg-name="TOPTV" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TOPTV
-http://dns.ulttv.xyz:80/angelo12/12angelo/75132
-#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX FHD" tvg-logo="http://dns.ulttv.xyz/img/travelboxbrazil.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/106519
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV FHD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68831
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV HD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68832
-#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69337
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD²" tvg-logo="http://dns.ulttv.xyz/img/trutv.png" group-title="CANAIS | DOCUMENTARIOS",TRU TV SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85113
-#EXTINF:-1 tvg-id="" tvg-name="TV A CRÍTICA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV A CRÍTICA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75124
-#EXTINF:-1 tvg-id="" tvg-name="TV AGRO HD" tvg-logo="http://dns.ulttv.xyz/img/agrocanal.png" group-title="CANAIS | VARIEDADES",TV AGRO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75156
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV ALTEROSA HD [SBT MG]³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",TV ALTEROSA HD [SBT MG]³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105160
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="http://dns.ulttv.xyz/img/tvaparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75136
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV ARATU HD SBT BAHIA³" tvg-logo="http://dns.ulttv.xyz/img/sbt.png" group-title="CANAIS | ABERTOS",TV ARATU HD SBT BAHIA³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105161
-#EXTINF:-1 tvg-id="" tvg-name="TV BIRIGUI" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV BIRIGUI
-http://dns.ulttv.xyz:80/angelo12/12angelo/75147
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://dns.ulttv.xyz/img/tvbrasil.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84811
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="TV CABRALIA HD BAHIA RECORD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV CABRALIA HD BAHIA RECORD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105162
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV CLUBE HD ( GLOBO PIAUI)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV CLUBE HD ( GLOBO PIAUI)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105163
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105165
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES HD³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105166
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA ES³" tvg-logo="http://dns.ulttv.xyz/img/cultura.png" group-title="CANAIS | ABERTOS",TV CULTURA ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105164
-#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="http://dns.ulttv.xyz/img/tv camara.png" group-title="CANAIS | VARIEDADES",TV CÂMARA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75145
-#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA SD²" tvg-logo="http://dns.ulttv.xyz/img/tvcamara.png" group-title="CANAIS | VARIEDADES",TV CÂMARA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84853
-#EXTINF:-1 tvg-id="" tvg-name="TV DA GENTE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV DA GENTE
-http://dns.ulttv.xyz:80/angelo12/12angelo/75130
-#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO FHD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV DIARIO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69384
-#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO HD" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV DIARIO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69385
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR*" tvg-logo="http://dns.ulttv.xyz/img/tvevangelizar.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR*
-http://dns.ulttv.xyz:80/angelo12/12angelo/75106
-#EXTINF:-1 tvg-id="" tvg-name="TV FAAP" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV FAAP
-http://dns.ulttv.xyz:80/angelo12/12angelo/75158
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD²" tvg-logo="http://dns.ulttv.xyz/img/tvaparecida.png" group-title="CANAIS | ABERTOS",TV APARECIDA FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/75224
-#EXTINF:-1 tvg-id="" tvg-name="TV IURD*" tvg-logo="http://dns.ulttv.xyz/img/iurd-tv.png" group-title="CANAIS | RELIGIOSOS",TV IURD*
-http://dns.ulttv.xyz:80/angelo12/12angelo/75112
-#EXTINF:-1 tvg-id="" tvg-name="TV JESUS CRISTO SD" tvg-logo="" group-title="CANAIS | RELIGIOSOS",TV JESUS CRISTO SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75117
-#EXTINF:-1 tvg-id="" tvg-name="TV KIDS HD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV KIDS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75116
-#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL HD (BELEM)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV LIBERAL HD (BELEM)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105119
-#EXTINF:-1 tvg-id="" tvg-name="TV MACEIÓ AL" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV MACEIÓ AL
-http://dns.ulttv.xyz:80/angelo12/12angelo/75150
-#EXTINF:-1 tvg-id="" tvg-name="TV METRÓPOLE" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV METRÓPOLE
-http://dns.ulttv.xyz:80/angelo12/12angelo/75133
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRANTE HD ( GLOBO MARANHAO)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV MIRANTE HD ( GLOBO MARANHAO)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105120
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV MORENA PONTA PORA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV MORENA PONTA PORA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105121
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/84812
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO FHD²" tvg-logo="http://dns.ulttv.xyz/img/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO FHD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85114
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://dns.ulttv.xyz/img/tvpaieterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO
-http://dns.ulttv.xyz:80/angelo12/12angelo/75223
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="TV PARANAÍBA HD RECORD -UBERLANDIA-MG³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV PARANAÍBA HD RECORD -UBERLANDIA-MG³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105167
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68783
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68784
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://dns.ulttv.xyz/img/tvratimbum.jpg" group-title="CANAIS | ABERTOS",TV RA TIM BUM SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68785
-#EXTINF:-1 tvg-id="" tvg-name="TV RIO SUL HD ( GLOBO INTERIOR RJ)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV RIO SUL HD ( GLOBO INTERIOR RJ)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105122
-#EXTINF:-1 tvg-id="" tvg-name="TV RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/img/tvrtb.png" group-title="CANAIS | INFANTIS",TV RÁ-TIM-BUM
-http://dns.ulttv.xyz:80/angelo12/12angelo/85057
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV SANTA CRUZ TV BAHIA HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV SANTA CRUZ TV BAHIA HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105123
-#EXTINF:-1 tvg-id="" tvg-name="TV SJID BA" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV SJID BA
-http://dns.ulttv.xyz:80/angelo12/12angelo/75151
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="TV SUBAE (GLOBO BAHIA HD)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV SUBAE (GLOBO BAHIA HD)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105124
-#EXTINF:-1 tvg-id="" tvg-name="TV TARNSAMÉRICA (PR)" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV TARNSAMÉRICA (PR)
-http://dns.ulttv.xyz:80/angelo12/12angelo/75143
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="TV TAROBA HD [BAND PARANA]³" tvg-logo="http://dns.ulttv.xyz/img/band.png" group-title="CANAIS | ABERTOS",TV TAROBA HD [BAND PARANA]³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105168
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV VANGUARDA FHD (SAO JOSE DOS CAMPOS)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VANGUARDA FHD (SAO JOSE DOS CAMPOS)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105169
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV VANGUARDA HD (SAO JOSE DOS CAMPOS)³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VANGUARDA HD (SAO JOSE DOS CAMPOS)³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105170
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="TV VERDES MARES HD CE³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TV VERDES MARES HD CE³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105171
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES FHD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES FHD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105173
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105174
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES³" tvg-logo="http://dns.ulttv.xyz/img/record.png" group-title="CANAIS | ABERTOS",TV VITORIA ES³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105172
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="TV5" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV5
-http://dns.ulttv.xyz:80/angelo12/12angelo/69225
-#EXTINF:-1 tvg-id="" tvg-name="TV8 BRASIL SD" tvg-logo="http://ultimate.aion.feralhosting.com/24h/logoult.png" group-title="CANAIS | VARIEDADES",TV8 BRASIL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/75126
-#EXTINF:-1 tvg-id="" tvg-name="TVB RECORD CAMPINAS HD³" tvg-logo="http://dns.ulttv.xyz/img/globo.png" group-title="CANAIS | GLOBO",TVB RECORD CAMPINAS HD³
-http://dns.ulttv.xyz:80/angelo12/12angelo/105125
-#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA SD²" tvg-logo="http://dns.ulttv.xyz/img/tve.png" group-title="CANAIS | ABERTOS",TVE BAHIA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84856
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68898
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68899
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/universalchannel.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL CHANNEL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68900
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD²" tvg-logo="http://dns.ulttv.xyz/img/universaltv.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL TV HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84995
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD²" tvg-logo="http://dns.ulttv.xyz/img/universaltv.png" group-title="CANAIS | FILMES & SÉRIES",UNIVERSAL TV SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84994
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="VH1 HD²" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85116
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS FHD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69227
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69228
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://dns.ulttv.xyz/img/vh1.png" group-title="CANAIS | VARIEDADES",VH1 MEGA HITS SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69229
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA
-http://dns.ulttv.xyz:80/angelo12/12angelo/69232
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69230
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69231
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD²" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85118
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD²" tvg-logo="http://dns.ulttv.xyz/img/canalviva.png" group-title="CANAIS | VARIEDADES",VIVA SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85117
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68901
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68902
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84997
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL SD
-http://dns.ulttv.xyz:80/angelo12/12angelo/68903
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="http://dns.ulttv.xyz/img/warnerchannel.png" group-title="CANAIS | FILMES & SÉRIES",WARNER CHANNEL SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/84996
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOHOO FHD" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOHOO FHD
-http://dns.ulttv.xyz:80/angelo12/12angelo/69338
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD²" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO HD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85120
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD²" tvg-logo="http://dns.ulttv.xyz/img/woohoo.png" group-title="CANAIS | VARIEDADES",WOOHOO SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85119
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD²" tvg-logo="http://dns.ulttv.xyz/img/zoomoo.png" group-title="CANAIS | INFANTIS",ZOOMOO SD²
-http://dns.ulttv.xyz:80/angelo12/12angelo/85058
-#EXTINF:-1 tvg-id="" tvg-name="SBT - REDE MASSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/512px-Rede_Massa_logo.svg.png" group-title="CANAIS | ABERTOS",SBT - REDE MASSA
-http://dns.ulttv.xyz:80/angelo12/12angelo/113386
-#EXTINF:-1 tvg-id="" tvg-name="LIVE AO VIVO1" tvg-logo="" group-title="LIVES | YOUTUBE",LIVE AO VIVO1
-http://dns.ulttv.xyz:80/angelo12/12angelo/113996
-#EXTINF:-1 tvg-id="" tvg-name="LIVE AO VIVO2" tvg-logo="" group-title="LIVES | YOUTUBE",LIVE AO VIVO2
-http://dns.ulttv.xyz:80/angelo12/12angelo/114001
-#EXTINF:-1 tvg-id="" tvg-name="PL_TVP SPORT  HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",PL_TVP SPORT  HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/72821
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: EUROSPORT 2 HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/72837
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: EUROSPORT HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/72839
-#EXTINF:-1 tvg-id="" tvg-name="DE: ORF SPORT  HD" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: ORF SPORT  HD
-http://dns.ulttv.xyz:80/angelo12/12angelo/72856
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD BAR" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",DE: DAZN 2 HD BAR
-http://dns.ulttv.xyz:80/angelo12/12angelo/72898
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2 HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS 2 HD (MX)
-http://dns.ulttv.xyz:80/angelo12/12angelo/72940
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3 HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS 3 HD (MX)
-http://dns.ulttv.xyz:80/angelo12/12angelo/72941
-#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS HD (MX)" tvg-logo="" group-title="SPORTS | INTERNACIONAIS",MX: FOX SPORTS HD (MX)
-http://dns.ulttv.xyz:80/angelo12/12angelo/72942
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
+http://rec2.distv.net:80/marquinhos/marquinhos/113
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://distv.net/icons/AGRO%20BRASIL.png" group-title="CANAIS LOCAIS",AGRO BRASIL
+http://rec2.distv.net:80/marquinhos/marquinhos/263
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://distv.net/icons/agrocanal.png" group-title="CANAIS LOCAIS",AGRO CANAL
+http://rec2.distv.net:80/marquinhos/marquinhos/264
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
+http://rec2.distv.net:80/marquinhos/marquinhos/223
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://rec2.distv.net:80/marquinhos/marquinhos/114
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
+http://rec2.distv.net:80/marquinhos/marquinhos/115
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
+http://rec2.distv.net:80/marquinhos/marquinhos/116
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
+http://rec2.distv.net:80/marquinhos/marquinhos/117
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
+http://rec2.distv.net:80/marquinhos/marquinhos/224
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
+http://rec2.distv.net:80/marquinhos/marquinhos/118
+#EXTINF:-1 tvg-id="" tvg-name="BAND PALMAS" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS TOCANTINS",BAND PALMAS
+http://rec2.distv.net:80/marquinhos/marquinhos/299
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://distv.net/icons/BAND.png" group-title=" CANAIS LOCAIS NATAL",BAND RN
+http://rec2.distv.net:80/marquinhos/marquinhos/294
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
+http://rec2.distv.net:80/marquinhos/marquinhos/119
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
+http://rec2.distv.net:80/marquinhos/marquinhos/120
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
+http://rec2.distv.net:80/marquinhos/marquinhos/121
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://distv.net/icons/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
+http://rec2.distv.net:80/marquinhos/marquinhos/61
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
+http://rec2.distv.net:80/marquinhos/marquinhos/265
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="http://distv.net/icons/Canal%20ComunitaRIO.png" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
+http://rec2.distv.net:80/marquinhos/marquinhos/267
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
+http://rec2.distv.net:80/marquinhos/marquinhos/266
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://distv.net/icons/canalrural.png" group-title="CANAIS LOCAIS",CANAL RURAL
+http://rec2.distv.net:80/marquinhos/marquinhos/268
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://distv.net/icons/canalsaude.png" group-title="CANAIS LOCAIS",CANAL SAUDE
+http://rec2.distv.net:80/marquinhos/marquinhos/284
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
+http://rec2.distv.net:80/marquinhos/marquinhos/123
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
+http://rec2.distv.net:80/marquinhos/marquinhos/65
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+http://rec2.distv.net:80/marquinhos/marquinhos/124
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="CANAIS LOCAIS",CINE BRASIL
+http://rec2.distv.net:80/marquinhos/marquinhos/269
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
+http://rec2.distv.net:80/marquinhos/marquinhos/48
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
+http://rec2.distv.net:80/marquinhos/marquinhos/49
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
+http://rec2.distv.net:80/marquinhos/marquinhos/50
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
+http://rec2.distv.net:80/marquinhos/marquinhos/51
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
+http://rec2.distv.net:80/marquinhos/marquinhos/52
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
+http://rec2.distv.net:80/marquinhos/marquinhos/53
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
+http://rec2.distv.net:80/marquinhos/marquinhos/54
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
+http://rec2.distv.net:80/marquinhos/marquinhos/55
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
+http://rec2.distv.net:80/marquinhos/marquinhos/56
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/marquinhos/marquinhos/57
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
+http://rec2.distv.net:80/marquinhos/marquinhos/125
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
+http://rec2.distv.net:80/marquinhos/marquinhos/225
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
+http://rec2.distv.net:80/marquinhos/marquinhos/126
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
+http://rec2.distv.net:80/marquinhos/marquinhos/127
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
+http://rec2.distv.net:80/marquinhos/marquinhos/128
+#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
+http://rec2.distv.net:80/marquinhos/marquinhos/129
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
+http://rec2.distv.net:80/marquinhos/marquinhos/226
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://rec2.distv.net:80/marquinhos/marquinhos/130
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/marquinhos/marquinhos/131
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://rec2.distv.net:80/marquinhos/marquinhos/132
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
+http://rec2.distv.net:80/marquinhos/marquinhos/133
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://rec2.distv.net:80/marquinhos/marquinhos/134
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://rec2.distv.net:80/marquinhos/marquinhos/135
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://rec2.distv.net:80/marquinhos/marquinhos/136
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://rec2.distv.net:80/marquinhos/marquinhos/137
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
+http://rec2.distv.net:80/marquinhos/marquinhos/138
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
+http://rec2.distv.net:80/marquinhos/marquinhos/139
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
+http://rec2.distv.net:80/marquinhos/marquinhos/140
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
+http://rec2.distv.net:80/marquinhos/marquinhos/141
+#EXTINF:-1 tvg-id="" tvg-name="EDUCAÇÃO" tvg-logo="http://distv.net/icons/EDUCA%c3%87%c3%83O.png" group-title="CANAIS LOCAIS",EDUCAÇÃO
+http://rec2.distv.net:80/marquinhos/marquinhos/285
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
+http://rec2.distv.net:80/marquinhos/marquinhos/142
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
+http://rec2.distv.net:80/marquinhos/marquinhos/143
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
+http://rec2.distv.net:80/marquinhos/marquinhos/144
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/marquinhos/marquinhos/145
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://distv.net/icons/EURO%20NEWS.png" group-title="CANAIS LOCAIS",EURO NEWS
+http://rec2.distv.net:80/marquinhos/marquinhos/270
+#EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
+http://rec2.distv.net:80/marquinhos/marquinhos/82
+#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
+http://rec2.distv.net:80/marquinhos/marquinhos/227
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
+http://rec2.distv.net:80/marquinhos/marquinhos/146
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://rec2.distv.net:80/marquinhos/marquinhos/147
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
+http://rec2.distv.net:80/marquinhos/marquinhos/148
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
+http://rec2.distv.net:80/marquinhos/marquinhos/149
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
+http://rec2.distv.net:80/marquinhos/marquinhos/150
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
+http://rec2.distv.net:80/marquinhos/marquinhos/151
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
+http://rec2.distv.net:80/marquinhos/marquinhos/152
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
+http://rec2.distv.net:80/marquinhos/marquinhos/153
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="ENTRETENIMENTO",FUTURA
+http://rec2.distv.net:80/marquinhos/marquinhos/228
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
+http://rec2.distv.net:80/marquinhos/marquinhos/229
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
+http://rec2.distv.net:80/marquinhos/marquinhos/230
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
+http://rec2.distv.net:80/marquinhos/marquinhos/231
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO BRASILIA
+http://rec2.distv.net:80/marquinhos/marquinhos/3
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO FLORIANOPOLIS
+http://rec2.distv.net:80/marquinhos/marquinhos/5
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO MINAS
+http://rec2.distv.net:80/marquinhos/marquinhos/6
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO NATAL
+http://rec2.distv.net:80/marquinhos/marquinhos/7
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
+http://rec2.distv.net:80/marquinhos/marquinhos/232
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO REDE AMAZÔNICA
+http://rec2.distv.net:80/marquinhos/marquinhos/11
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
+http://rec2.distv.net:80/marquinhos/marquinhos/13
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO GRANDE DO SUL
+http://rec2.distv.net:80/marquinhos/marquinhos/12
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RPC CURITIBA
+http://rec2.distv.net:80/marquinhos/marquinhos/14
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGÁ" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS PARANÁ",GLOBO RPC MARINGÁ
+http://rec2.distv.net:80/marquinhos/marquinhos/112
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO SP
+http://rec2.distv.net:80/marquinhos/marquinhos/15
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV ANHANGUERA GOIANIA
+http://rec2.distv.net:80/marquinhos/marquinhos/16
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV BAHIA
+http://rec2.distv.net:80/marquinhos/marquinhos/17
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV LIBERAL BELEM
+http://rec2.distv.net:80/marquinhos/marquinhos/18
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV MIRANTE
+http://rec2.distv.net:80/marquinhos/marquinhos/19
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
+http://rec2.distv.net:80/marquinhos/marquinhos/154
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
+http://rec2.distv.net:80/marquinhos/marquinhos/215
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
+http://rec2.distv.net:80/marquinhos/marquinhos/155
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
+http://rec2.distv.net:80/marquinhos/marquinhos/156
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
+http://rec2.distv.net:80/marquinhos/marquinhos/157
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
+http://rec2.distv.net:80/marquinhos/marquinhos/158
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
+http://rec2.distv.net:80/marquinhos/marquinhos/159
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
+http://rec2.distv.net:80/marquinhos/marquinhos/160
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
+http://rec2.distv.net:80/marquinhos/marquinhos/161
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
+http://rec2.distv.net:80/marquinhos/marquinhos/162
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
+http://rec2.distv.net:80/marquinhos/marquinhos/163
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
+http://rec2.distv.net:80/marquinhos/marquinhos/164
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
+http://rec2.distv.net:80/marquinhos/marquinhos/165
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",HISTORY 2
+http://rec2.distv.net:80/marquinhos/marquinhos/166
+#EXTINF:-1 tvg-id="" tvg-name="INTERTV CABUGI(GLOBO)" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS NATAL",INTERTV CABUGI(GLOBO)
+http://rec2.distv.net:80/marquinhos/marquinhos/295
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="ENTRETENIMENTO",LIFE TIME
+http://rec2.distv.net:80/marquinhos/marquinhos/167
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
+http://rec2.distv.net:80/marquinhos/marquinhos/235
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
+http://rec2.distv.net:80/marquinhos/marquinhos/168
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
+http://rec2.distv.net:80/marquinhos/marquinhos/169
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
+http://rec2.distv.net:80/marquinhos/marquinhos/236
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
+http://rec2.distv.net:80/marquinhos/marquinhos/170
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
+http://rec2.distv.net:80/marquinhos/marquinhos/171
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
+http://rec2.distv.net:80/marquinhos/marquinhos/172
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
+http://rec2.distv.net:80/marquinhos/marquinhos/173
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
+http://rec2.distv.net:80/marquinhos/marquinhos/174
+#EXTINF:-1 tvg-id="" tvg-name="NBR TV" tvg-logo="http://distv.net/icons/nbr.png" group-title="CANAIS LOCAIS",NBR TV
+http://rec2.distv.net:80/marquinhos/marquinhos/271
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
+http://rec2.distv.net:80/marquinhos/marquinhos/175
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
+http://rec2.distv.net:80/marquinhos/marquinhos/176
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
+http://rec2.distv.net:80/marquinhos/marquinhos/177
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
+http://rec2.distv.net:80/marquinhos/marquinhos/178
+#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="http://distv.net/icons/playkids.png" group-title="KIDS",PLAY KIDS
+http://rec2.distv.net:80/marquinhos/marquinhos/216
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CANAIS LOCAIS",PLAY TV
+http://rec2.distv.net:80/marquinhos/marquinhos/217
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://distv.net/icons/polishop.png" group-title="CANAIS LOCAIS",POLISHOP
+http://rec2.distv.net:80/marquinhos/marquinhos/272
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
+http://rec2.distv.net:80/marquinhos/marquinhos/179
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
+http://rec2.distv.net:80/marquinhos/marquinhos/180
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
+http://rec2.distv.net:80/marquinhos/marquinhos/181
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
+http://rec2.distv.net:80/marquinhos/marquinhos/182
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
+http://rec2.distv.net:80/marquinhos/marquinhos/183
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
+http://rec2.distv.net:80/marquinhos/marquinhos/237
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
+http://rec2.distv.net:80/marquinhos/marquinhos/184
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
+http://rec2.distv.net:80/marquinhos/marquinhos/185
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
+http://rec2.distv.net:80/marquinhos/marquinhos/23
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BRASILIA 
+http://rec2.distv.net:80/marquinhos/marquinhos/25
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD GOIAS 
+http://rec2.distv.net:80/marquinhos/marquinhos/26
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MANAUS
+http://rec2.distv.net:80/marquinhos/marquinhos/22
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MG
+http://rec2.distv.net:80/marquinhos/marquinhos/32
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MINAS 
+http://rec2.distv.net:80/marquinhos/marquinhos/27
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
+http://rec2.distv.net:80/marquinhos/marquinhos/28
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS TO" tvg-logo="http://distv.net/icons/recordnews.png" group-title="CANAIS LOCAIS RECORD",RECORD NEWS TO
+http://rec2.distv.net:80/marquinhos/marquinhos/301
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD PARA 
+http://rec2.distv.net:80/marquinhos/marquinhos/30
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
+http://rec2.distv.net:80/marquinhos/marquinhos/31
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD SP 
+http://rec2.distv.net:80/marquinhos/marquinhos/33
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS TOCANTINS",RECORD TV
+http://rec2.distv.net:80/marquinhos/marquinhos/300
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://distv.net/icons/redegenesis.png" group-title="CANAIS LOCAIS",REDE GENESIS
+http://rec2.distv.net:80/marquinhos/marquinhos/273
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://distv.net/icons/redegospel.png" group-title="CANAIS LOCAIS",REDE GOSPEL
+http://rec2.distv.net:80/marquinhos/marquinhos/274
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="http://distv.net/icons/Rede%20Minas.png" group-title="CANAIS LOCAIS",REDE MINAS
+http://rec2.distv.net:80/marquinhos/marquinhos/275
+#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://distv.net/icons/seculo21.png" group-title="CANAIS LOCAIS",REDE SECULO 21
+http://rec2.distv.net:80/marquinhos/marquinhos/276
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://distv.net/icons/redesuper.png" group-title="CANAIS LOCAIS",REDE SUPER
+http://rec2.distv.net:80/marquinhos/marquinhos/277
+#EXTINF:-1 tvg-id="" tvg-name="REDE SÉCULO" tvg-logo="http://distv.net/icons/REDE-SECULO-21.png" group-title="CANAIS LOCAIS",REDE SÉCULO
+http://rec2.distv.net:80/marquinhos/marquinhos/289
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
+http://rec2.distv.net:80/marquinhos/marquinhos/69
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://distv.net/icons/redevida.png" group-title="ENTRETENIMENTO",REDE VIDA
+http://rec2.distv.net:80/marquinhos/marquinhos/218
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",RIT TV
+http://rec2.distv.net:80/marquinhos/marquinhos/70
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
+http://rec2.distv.net:80/marquinhos/marquinhos/238
+#EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
+http://rec2.distv.net:80/marquinhos/marquinhos/296
+#EXTINF:-1 tvg-id="" tvg-name="SBT TO" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS TOCANTINS",SBT TO
+http://rec2.distv.net:80/marquinhos/marquinhos/302
+#EXTINF:-1 tvg-id="" tvg-name="SEX HOT " tvg-logo="http://distv.net/icons/sexyhot.png" group-title="ADULTOS",SEX HOT 
+http://rec2.distv.net:80/marquinhos/marquinhos/58
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="http://distv.net/icons/sexprive.png" group-title="ADULTOS",SEX PRIVE
+http://rec2.distv.net:80/marquinhos/marquinhos/59
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
+http://rec2.distv.net:80/marquinhos/marquinhos/187
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
+http://rec2.distv.net:80/marquinhos/marquinhos/188
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
+http://rec2.distv.net:80/marquinhos/marquinhos/189
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
+http://rec2.distv.net:80/marquinhos/marquinhos/190
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://rec2.distv.net:80/marquinhos/marquinhos/191
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
+http://rec2.distv.net:80/marquinhos/marquinhos/192
+#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="http://distv.net/icons/TBC.png" group-title="CANAIS LOCAIS",TBC
+http://rec2.distv.net:80/marquinhos/marquinhos/278
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
+http://rec2.distv.net:80/marquinhos/marquinhos/193
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
+http://rec2.distv.net:80/marquinhos/marquinhos/194
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
+http://rec2.distv.net:80/marquinhos/marquinhos/195
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
+http://rec2.distv.net:80/marquinhos/marquinhos/196
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
+http://rec2.distv.net:80/marquinhos/marquinhos/197
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
+http://rec2.distv.net:80/marquinhos/marquinhos/198
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
+http://rec2.distv.net:80/marquinhos/marquinhos/199
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
+http://rec2.distv.net:80/marquinhos/marquinhos/200
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
+http://rec2.distv.net:80/marquinhos/marquinhos/201
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
+http://rec2.distv.net:80/marquinhos/marquinhos/202
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
+http://rec2.distv.net:80/marquinhos/marquinhos/203
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
+http://rec2.distv.net:80/marquinhos/marquinhos/240
+#EXTINF:-1 tvg-id="" tvg-name="TV ALEPE" tvg-logo="http://distv.net/icons/TV%20Alepe.png" group-title=" CANAIS LOCAIS RECIFE",TV ALEPE
+http://rec2.distv.net:80/marquinhos/marquinhos/72
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA(GLOBO)" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS TOCANTINS",TV ANHANGUERA(GLOBO)
+http://rec2.distv.net:80/marquinhos/marquinhos/303
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN" tvg-logo="http://distv.net/icons/tvarapuan.png" group-title="CANAIS LOCAIS PARAIBA",TV ARAPUAN
+http://rec2.distv.net:80/marquinhos/marquinhos/98
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="ENTRETENIMENTO",TV BRASIL
+http://rec2.distv.net:80/marquinhos/marquinhos/241
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL 2
+http://rec2.distv.net:80/marquinhos/marquinhos/279
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO PB" tvg-logo="http://distv.net/icons/tvcabobranco.png" group-title="CANAIS LOCAIS PARAIBA",TV CABO BRANCO PB
+http://rec2.distv.net:80/marquinhos/marquinhos/100
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://distv.net/icons/tvcamara.png" group-title="ENTRETENIMENTO",TV CAMARA
+http://rec2.distv.net:80/marquinhos/marquinhos/222
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV CIDADE
+http://rec2.distv.net:80/marquinhos/marquinhos/308
+#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO PB" tvg-logo="http://distv.net/icons/tvcorreio.png" group-title="CANAIS LOCAIS PARAIBA",TV CORREIO PB
+http://rec2.distv.net:80/marquinhos/marquinhos/101
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://distv.net/icons/tvdiario.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV DIARIO
+http://rec2.distv.net:80/marquinhos/marquinhos/309
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="http://distv.net/icons/TV%20ESCOLA%20DIGITAL.png" group-title="CANAIS LOCAIS",TV ESCOLA DIGITAL
+http://rec2.distv.net:80/marquinhos/marquinhos/280
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
+http://rec2.distv.net:80/marquinhos/marquinhos/91
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV GLOBO NE
+http://rec2.distv.net:80/marquinhos/marquinhos/75
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://distv.net/icons/tv-guararapes.png" group-title=" CANAIS LOCAIS RECIFE",TV GUARARAPES
+http://rec2.distv.net:80/marquinhos/marquinhos/73
+#EXTINF:-1 tvg-id="" tvg-name="TV HORIZONTE" tvg-logo="http://distv.net/icons/TV-HORIZONTE.png" group-title="CANAIS LOCAIS",TV HORIZONTE
+http://rec2.distv.net:80/marquinhos/marquinhos/281
+#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://distv.net/icons/tvjangadeiro.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV JANGADEIRO
+http://rec2.distv.net:80/marquinhos/marquinhos/90
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" group-title=" CANAIS LOCAIS RECIFE",TV JORNAL
+http://rec2.distv.net:80/marquinhos/marquinhos/76
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR PB" tvg-logo="http://distv.net/icons/tvmiramar.png" group-title="CANAIS LOCAIS PARAIBA",TV MIRAMAR PB
+http://rec2.distv.net:80/marquinhos/marquinhos/102
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="http://distv.net/icons/TV%20MUNDIAL.png" group-title="CANAIS LOCAIS TOCANTINS",TV MUNDIAL
+http://rec2.distv.net:80/marquinhos/marquinhos/304
+#EXTINF:-1 tvg-id="" tvg-name="TV NAZARE" tvg-logo="http://distv.net/icons/TV%20nazare.png" group-title="CANAIS LOCAIS",TV NAZARE
+http://rec2.distv.net:80/marquinhos/marquinhos/282
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://distv.net/icons/novanordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV NOVA NORDESTE
+http://rec2.distv.net:80/marquinhos/marquinhos/62
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO
+http://rec2.distv.net:80/marquinhos/marquinhos/242
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO
+http://rec2.distv.net:80/marquinhos/marquinhos/103
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
+http://rec2.distv.net:80/marquinhos/marquinhos/204
+#EXTINF:-1 tvg-id="" tvg-name="TV REME" tvg-logo="http://distv.net/icons/TV%20Reme.png" group-title="CANAIS LOCAIS",TV REME
+http://rec2.distv.net:80/marquinhos/marquinhos/291
+#EXTINF:-1 tvg-id="" tvg-name="TV RIOSUL" tvg-logo="http://distv.net/icons/tvriosul.png" group-title="CANAIS LOCAIS",TV RIOSUL
+http://rec2.distv.net:80/marquinhos/marquinhos/283
+#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA" tvg-logo="http://distv.net/icons/tvtaroba.png" group-title="CANAIS LOCAIS PARANÁ",TV TAROBA
+http://rec2.distv.net:80/marquinhos/marquinhos/109
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title=" CANAIS LOCAIS RECIFE",TV TRIBUNA
+http://rec2.distv.net:80/marquinhos/marquinhos/77
+#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://distv.net/icons/TV%20TROPICAL.png" group-title=" CANAIS LOCAIS NATAL",TV TROPICAL (RECORD TV)
+http://rec2.distv.net:80/marquinhos/marquinhos/298
+#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" group-title="CANAIS LOCAIS PARAIBA",TV UFPB TV
+http://rec2.distv.net:80/marquinhos/marquinhos/104
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV UNIAO
+http://rec2.distv.net:80/marquinhos/marquinhos/92
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES CE" tvg-logo="http://distv.net/icons/globotvverdesmares.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE MARES CE
+http://rec2.distv.net:80/marquinhos/marquinhos/306
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE
+http://rec2.distv.net:80/marquinhos/marquinhos/293
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
+http://rec2.distv.net:80/marquinhos/marquinhos/205
+#EXTINF:-1 tvg-id="" tvg-name="UNIVESP" tvg-logo="http://distv.net/icons/UNIVESP.png" group-title="CANAIS LOCAIS",UNIVESP
+http://rec2.distv.net:80/marquinhos/marquinhos/292
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
+http://rec2.distv.net:80/marquinhos/marquinhos/206
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://rec2.distv.net:80/marquinhos/marquinhos/207
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
+http://rec2.distv.net:80/marquinhos/marquinhos/208
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
+http://rec2.distv.net:80/marquinhos/marquinhos/243
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
+http://rec2.distv.net:80/marquinhos/marquinhos/244
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name="007 - Cassino Royale - 1967" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGlh1l25zQKo0nvBUDIP1Jj3yLS.jpg" group-title="FILMES | 007",007 - Cassino Royale - 1967
 http://dns.ulttv.xyz:80/movie/angelo12/12angelo/64839.mp4
